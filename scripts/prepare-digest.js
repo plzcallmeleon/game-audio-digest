@@ -26,12 +26,12 @@ import { homedir } from 'os';
 const USER_DIR = join(homedir(), '.game-audio-digest');
 const CONFIG_PATH = join(USER_DIR, 'config.json');
 
-const FEED_X_URL = 'https://raw.githubusercontent.com/huangchao03/game-audio-digest/main/feed-x.json';
-const FEED_PODCASTS_URL = 'https://raw.githubusercontent.com/huangchao03/game-audio-digest/main/feed-podcasts.json';
-const FEED_BLOGS_URL = 'https://raw.githubusercontent.com/huangchao03/game-audio-digest/main/feed-blogs.json';
-const FEED_REDDIT_URL = 'https://raw.githubusercontent.com/huangchao03/game-audio-digest/main/feed-reddit.json';
+const FEED_X_URL = 'https://raw.githubusercontent.com/plzcallmeleon/game-audio-digest/main/feed-x.json';
+const FEED_PODCASTS_URL = 'https://raw.githubusercontent.com/plzcallmeleon/game-audio-digest/main/feed-podcasts.json';
+const FEED_BLOGS_URL = 'https://raw.githubusercontent.com/plzcallmeleon/game-audio-digest/main/feed-blogs.json';
+const FEED_REDDIT_URL = 'https://raw.githubusercontent.com/plzcallmeleon/game-audio-digest/main/feed-reddit.json';
 
-const PROMPTS_BASE = 'https://raw.githubusercontent.com/huangchao03/game-audio-digest/main/prompts';
+const PROMPTS_BASE = 'https://raw.githubusercontent.com/plzcallmeleon/game-audio-digest/main/prompts';
 const PROMPT_FILES = [
   'summarize-podcast.md',
   'summarize-tweets.md',
