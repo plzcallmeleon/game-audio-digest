@@ -1,0 +1,83 @@
+{
+  "podcasts": [
+    {
+      "name": "Game Audio Hour",
+      "rssUrl": "https://feeds.buzzsprout.com/1399352.rss",
+      "url": "https://www.gameaudiohour.com"
+    },
+    {
+      "name": "Soundworks Collection Podcast",
+      "rssUrl": "https://feeds.buzzsprout.com/1039213.rss",
+      "url": "https://soundworkscollection.com/podcast"
+    },
+    {
+      "name": "Twenty Thousand Hertz",
+      "rssUrl": "https://feeds.megaphone.fm/twentythousandhertz",
+      "url": "https://www.20k.org"
+    },
+    {
+      "name": "A Sound Effect Podcast",
+      "rssUrl": "https://feeds.buzzsprout.com/300235.rss",
+      "url": "https://www.asoundeffect.com/category/podcast/"
+    },
+    {
+      "name": "The Sound Architect Podcast",
+      "rssUrl": "https://anchor.fm/s/1e3a64f8/podcast/rss",
+      "url": "https://www.thesoundarchitect.co.uk/podcast/"
+    },
+    {
+      "name": "Tonebenders Podcast",
+      "rssUrl": "https://feeds.buzzsprout.com/166776.rss",
+      "url": "https://tonebenderspodcast.com"
+    }
+  ],
+  "blogs": [
+    {
+      "name": "Audiokinetic Blog",
+      "type": "scrape",
+      "indexUrl": "https://blog.audiokinetic.com/en/",
+      "articleBaseUrl": "https://blog.audiokinetic.com/en/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "A Sound Effect Blog",
+      "type": "scrape",
+      "indexUrl": "https://www.asoundeffect.com/blog/",
+      "articleBaseUrl": "https://www.asoundeffect.com/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "Designing Sound",
+      "type": "scrape",
+      "indexUrl": "https://designingsound.org",
+      "articleBaseUrl": "https://designingsound.org/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "Game Developer Audio",
+      "type": "scrape",
+      "indexUrl": "https://www.gamedeveloper.com/audio",
+      "articleBaseUrl": "https://www.gamedeveloper.com/audio/",
+      "fetchMethod": "http"
+    }
+  ],
+  "x_accounts": [
+    { "name": "Joe Thwaites", "handle": "JoeThwaites" },
+    { "name": "Danny Hey", "handle": "dannyryanhey" },
+    { "name": "Akash Thakkar", "handle": "akashthakkar" }
+  ],
+  "reddit": [
+    {
+      "subreddit": "GameAudio",
+      "url": "https://www.reddit.com/r/GameAudio/hot.json?limit=20",
+      "minUpvotes": 30,
+      "keywords": []
+    },
+    {
+      "subreddit": "gamedev",
+      "url": "https://www.reddit.com/r/gamedev/hot.json?limit=50",
+      "minUpvotes": 50,
+      "keywords": ["audio", "sound", "music", "wwise", "fmod", "sfx", "ost", "soundtrack", "ambience", "sound design"]
+    }
+  ]
+}
