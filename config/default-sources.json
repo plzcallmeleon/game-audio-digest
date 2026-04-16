@@ -2,43 +2,31 @@
   "podcasts": [
     {
       "name": "Game Audio Hour",
-      "rssUrl": "https://feeds.buzzsprout.com/1399352.rss",
+      "rssUrl": "https://anchor.fm/s/5923e0ac/podcast/rss",
       "url": "https://www.gameaudiohour.com"
     },
     {
       "name": "Soundworks Collection Podcast",
-      "rssUrl": "https://feeds.buzzsprout.com/1039213.rss",
+      "rssUrl": "https://anchor.fm/s/4c0659b8/podcast/rss",
       "url": "https://soundworkscollection.com/podcast"
     },
     {
       "name": "Twenty Thousand Hertz",
-      "rssUrl": "https://feeds.megaphone.fm/twentythousandhertz",
+      "rssUrl": "https://feeds.megaphone.fm/20k",
       "url": "https://www.20k.org"
     },
     {
       "name": "A Sound Effect Podcast",
-      "rssUrl": "https://feeds.buzzsprout.com/300235.rss",
+      "rssUrl": "https://anchor.fm/s/45a7dc40/podcast/rss",
       "url": "https://www.asoundeffect.com/category/podcast/"
     },
     {
-      "name": "The Sound Architect Podcast",
-      "rssUrl": "https://anchor.fm/s/1e3a64f8/podcast/rss",
-      "url": "https://www.thesoundarchitect.co.uk/podcast/"
-    },
-    {
       "name": "Tonebenders Podcast",
-      "rssUrl": "https://feeds.buzzsprout.com/166776.rss",
+      "rssUrl": "https://feeds.soundcloud.com/users/soundcloud:users:100156494/sounds.rss",
       "url": "https://tonebenderspodcast.com"
     }
   ],
   "blogs": [
-    {
-      "name": "Audiokinetic Blog",
-      "type": "scrape",
-      "indexUrl": "https://blog.audiokinetic.com/en/",
-      "articleBaseUrl": "https://blog.audiokinetic.com/en/",
-      "fetchMethod": "http"
-    },
     {
       "name": "A Sound Effect Blog",
       "type": "scrape",
@@ -69,13 +57,13 @@
   "reddit": [
     {
       "subreddit": "GameAudio",
-      "url": "https://www.reddit.com/r/GameAudio/hot.json?limit=20",
+      "url": "https://old.reddit.com/r/GameAudio/hot.json?limit=20",
       "minUpvotes": 30,
       "keywords": []
     },
     {
       "subreddit": "gamedev",
-      "url": "https://www.reddit.com/r/gamedev/hot.json?limit=50",
+      "url": "https://old.reddit.com/r/gamedev/hot.json?limit=50",
       "minUpvotes": 50,
       "keywords": ["audio", "sound", "music", "wwise", "fmod", "sfx", "ost", "soundtrack", "ambience", "sound design"]
     }
