@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-04-16T03:40:40.956Z",
+  "lookbackHours": 48,
+  "reddit": [],
+  "stats": {
+    "redditPosts": 0
+  },
+  "errors": [
+    "Reddit: Failed to fetch r/GameAudio: HTTP 403",
+    "Reddit: Failed to fetch r/gamedev: HTTP 403"
+  ]
+}
