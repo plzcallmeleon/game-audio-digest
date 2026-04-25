@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-04-24T08:08:35.730Z",
+  "generatedAt": "2026-04-25T07:21:51.734Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "355 - Project Hail Mary",
+      "guid": "tag:soundcloud,2010:tracks/2303917916",
+      "url": "https://soundcloud.com/tonebenders-podcast/355-project-hail-mary",
+      "publishedAt": "2026-04-18T00:00:00.000Z",
+      "transcript": "Supervising Sound Editors Ethan Van der Ryn and Erik Aadahl have been working together for 19 years and have built a reputation for working on films that are highly sound dependant. The two sit down to discuss their work on the new blockbuster film, Project Hail Mary, which is another movie that relies on it's sound design in order for the entire film to work. The two describe how they created the \"Eridian\" alien language for Rocky, the sonic design of the space ship, their field recording trips to NASA facilities and lots more. ______SPONSORS: The NAB Show is one of the biggest gatherings for professionals working in media, post-production, and broadcast, and it’s happening this Month in Las Vegas. If you’re attending the show, stop by the Sound Ideas at Booth N1413 at the Las Vegas Convention Center, with exhibits open April 19th through the 22nd. Sound Ideas has been creating and distributing professional sound effects libraries for decades and NAB is a great chance to meet the team and see what they’ve been working on. Reach out to Sound Ideas to get a free pass to the NAB Show by emailing contact@sound-ideas.com and make sure you visit them at Booth N1413.______If you are interested in field recording, you should know about the O-Mini P48 and the brand new O-Mini PIP miniature omni-directional electret microphones. Each one is hand made by Chris Trevino, a practicing field recordist, and a really engaged member of the sound community. He puts a lot of work into making and testing each mic to ensure they live up to his high standards. They are ultra-sonic capable, which makes manipulating your recordings with them a lot of fun. They are also extremely affordable. At $150us for the P48 & $130 for the PIP, they offer a lot of value for a stereo matched pair. Find out more at https://www.chrisatrevino.com/store _______ MORPHOSIS is a powerful neural timbre-matching tool designed for audio professionals. It works by applying the tonal qualities of one sound source, "
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
