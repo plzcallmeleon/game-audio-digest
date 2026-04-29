@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-04-28T08:29:05.932Z",
+  "generatedAt": "2026-04-29T08:23:10.859Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Twenty Thousand Hertz",
+      "title": "The Acoustic Worlds of Radiolab Creator Jad Abumrad",
+      "guid": "0dda96c6-39f2-11f1-89cb-27e61bc549f1",
+      "url": "https://www.20k.org/episodes/jad-abumrad",
+      "publishedAt": "2026-04-20T10:00:00.000Z",
+      "transcript": "Before Radiolab became a cultural phenomenon, it was an experiment… one that Jad Abumrad built voice by voice, sound by sound. In this episode, Jad walks Dallas through his journey with the show, from its scrappy beginning in a New York basement, to leading a massive team, and ultimately stepping away. Along the way, he breaks down his signature sound design and storytelling techniques, and how he’s carried those into newer projects like Dolly Parton’s America and Fela Kuti: Fear No Man. Learn about this year’s Listener Stories competition and submit your story at 20k.org/2026. See Dallas tour Jad's studio on Youtube. Twenty Thousand Hertz is produced by ⁠Defacto Sound⁠. Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠⁠⁠20k.org/plus⁠⁠⁠⁠⁠⁠⁠⁠. Subscribe on ⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠. Follow Dallas on ⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠, ⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠, ⁠Facebook⁠, and ⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠. Subscribe to Radiolab, More Perfect, Dolly Parton’s America, and Fela Kuti: Fear No Man wherever you get your podcasts. Sign up for a one-dollar-per-month Shopify trial at ⁠⁠⁠shopify.com/20k⁠⁠⁠. Visit ⁠⁠⁠⁠quo.com/20k⁠⁠⁠⁠ for 20% of your first 6 months of business phone software. Get 3 months of free payroll at ⁠gusto.com/20k⁠. Learn more about your ad choices. Visit megaphone.fm/adchoices"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
