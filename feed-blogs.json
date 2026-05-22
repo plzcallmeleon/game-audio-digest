@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-05-21T09:47:48.504Z",
+  "generatedAt": "2026-05-22T09:31:05.595Z",
   "lookbackHours": 72,
   "blogs": [],
   "stats": {
     "blogPosts": 0
-  },
-  "errors": [
-    "Blog: Failed to fetch index for Designing Sound: HTTP 503"
-  ]
+  }
 }
