@@ -1,12 +1,64 @@
 {
-  "generatedAt": "2026-05-23T08:13:02.994Z",
+  "generatedAt": "2026-05-23T08:20:28.061Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tjqmdd",
+      "title": "How to actually network at game industry events (and not be a jerk about it)",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tjqmdd/how_to_actually_network_at_game_industry_events/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Intro: I thought I'd share some of my thoughts after spending some years in the industry. I hope some of you will find it interesting. If not, feel free to dislike ;) This one is not for auto-promotion, but as a genuine guidance for those, who are just starting to network.</p> <p>Game industry events like Nordic Game, GIC, DevGamm, Digital Dragons, or Gamescom Business are not conferences in the traditional sense. Yes, there are panels and talks. But the real reason most professionals attend isn’t the programming - it’s the density. Hundreds of people who are ",
+      "publishedAt": "2026-05-21T16:57:26.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tkfpxa",
+      "title": "Did you ever follow a game's development only to see it flop on launch? (YT shorts trap?)",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tkfpxa/did_you_ever_follow_a_games_development_only_to/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I followed the development of a beautiful game No Name Village, marketing was based on yt shorts and some of them reached more than a million views. No long form videos just shorts. It launched last year and reached just 50 reviews and 0 players playing rn. Also it looks like the dev sold his channel or smth cause someone else posts now. It makes me sad, why do you think it flopped so hard? Does short form content just not convert to actual sales or even wishlists?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wassup_so",
+      "publishedAt": "2026-05-22T11:06:53.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tjvs4l",
+      "title": "Something has to be done about the AI slop on this sub.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tjvs4l/something_has_to_be_done_about_the_ai_slop_on/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Sort by new and marvel at how half of the posts are promoting some AI slop tool, entirely written by AI or nudging engagement bait posts about how AI is the future of Game Dev. Either that or shameless self promotion dressed up as a question. It's made this sub absolutely useless as a place to discuss game development. The mods seem uninterested or unwilling to make it useable again.</p> <p>This post will almost definitely get deleted but I had to say something before I leave for good.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.redd",
+      "publishedAt": "2026-05-21T19:49:28.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tla68y",
+      "title": "Releasing our demo was harder than expected, but we finally made it",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tla68y/releasing_our_demo_was_harder_than_expected_but/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>We finally released the demo of our point-and-click adventure game, <em>A Lost Man - Chapter I</em>, on Steam.</p> <p>It feels like a small milestone, but getting there was much harder than I expected.</p> <p>One thing I underestimated is how closely the demo stays tied to the main game. Every time we improved something in the full build, we often had to go back and update the demo too. UI changes, bug fixes, pacing adjustments, small polish details, text corrections, Steam requirements, store assets, build uploads… it became a lot of back ",
+      "publishedAt": "2026-05-23T08:00:03.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tl7g7p",
+      "title": "Is there a big archive of gun sounds anywhere? gunshots and gun loading sounds and whatnot",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tl7g7p/is_there_a_big_archive_of_gun_sounds_anywhere/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I see all these games with such amazing sounds, but when i go online i can only find the worst of the worst gun sounds, I'm just looking for a 20gb zip file with sounds for everything i could ever dream of, does something like that exist?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RadPower1\"> /u/RadPower1 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tl7g7p/is_there_a_big_archive_of_gun_sounds_anywhere/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tl7g7p/is",
+      "publishedAt": "2026-05-23T05:31:48.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
-  },
-  "errors": [
-    "Reddit: Failed to fetch r/GameAudio: HTTP 403",
-    "Reddit: Failed to fetch r/gamedev: HTTP 403"
-  ]
+    "redditPosts": 5
+  }
 }
