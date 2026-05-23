@@ -29,6 +29,7 @@
   "blogs": [
     {
       "name": "A Sound Effect Blog",
+      "rssUrl": "https://www.asoundeffect.com/feed/",
       "type": "scrape",
       "indexUrl": "https://www.asoundeffect.com/blog/",
       "articleBaseUrl": "https://www.asoundeffect.com/",
@@ -36,6 +37,7 @@
     },
     {
       "name": "Designing Sound",
+      "rssUrl": "https://designingsound.org/feed/",
       "type": "scrape",
       "indexUrl": "https://designingsound.org",
       "articleBaseUrl": "https://designingsound.org/",
@@ -47,6 +49,14 @@
       "indexUrl": "https://www.gamedeveloper.com/audio",
       "articleBaseUrl": "https://www.gamedeveloper.com/audio/",
       "fetchMethod": "http"
+    },
+    {
+      "name": "Audiokinetic Blog",
+      "rssUrl": "https://blog.audiokinetic.com/feed/",
+      "type": "scrape",
+      "indexUrl": "https://blog.audiokinetic.com",
+      "articleBaseUrl": "https://blog.audiokinetic.com/",
+      "fetchMethod": "http"
     }
   ],
   "x_accounts": [
@@ -57,13 +67,13 @@
   "reddit": [
     {
       "subreddit": "GameAudio",
-      "url": "https://old.reddit.com/r/GameAudio/hot.json?limit=20",
+      "url": "https://www.reddit.com/r/GameAudio/hot.json?limit=20",
       "minUpvotes": 30,
       "keywords": []
     },
     {
       "subreddit": "gamedev",
-      "url": "https://old.reddit.com/r/gamedev/hot.json?limit=50",
+      "url": "https://www.reddit.com/r/gamedev/hot.json?limit=50",
       "minUpvotes": 50,
       "keywords": ["audio", "sound", "music", "wwise", "fmod", "sfx", "ost", "soundtrack", "ambience", "sound design"]
     }

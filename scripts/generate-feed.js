@@ -448,6 +448,220 @@ async function fetchRedditContent(redditSources, state, errors) {
   return results;
 }
 
+// -- Blog RSS Fetching (for blogs with RSS feeds) -----------------------------
+
+// Parses an RSS blog feed and returns articles with title, url, date, content.
+// Tries <content:encoded> for full text, falls back to <description>.
+async function fetchRssBlogContent(blog, state, errors) {
+  if (!blog.rssUrl) return [];
+
+  try {
+    const res = await fetch(blog.rssUrl, {
+      headers: {
+        'User-Agent': RSS_USER_AGENT,
+        'Accept': 'application/rss+xml, application/xml, text/xml'
+      },
+      signal: AbortSignal.timeout(15000)
+    });
+    if (!res.ok) {
+      errors.push(`Blog RSS: Failed to fetch ${blog.name}: HTTP ${res.status}`);
+      return [];
+    }
+
+    const xml = await res.text();
+    const articles = [];
+    const itemRegex = /<item>([\s\S]*?)<\/item>/gi;
+    let itemMatch;
+    const seenUrls = new Set();
+
+    while ((itemMatch = itemRegex.exec(xml)) !== null) {
+      const block = itemMatch[1];
+
+      const titleMatch = block.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/)
+        || block.match(/<title>([\s\S]*?)<\/title>/);
+      const title = titleMatch ? titleMatch[1].trim() : null;
+      if (!title) continue;
+
+      const linkMatch = block.match(/<link[^>]*>(?:<!\[CDATA\[([\s\S]*?)\]\]>|([\s\S]*?))<\/link>/);
+      let url = linkMatch ? (linkMatch[1] || linkMatch[2] || '').trim() : null;
+      if (!url || url === '/') continue;
+
+      // Resolve relative URLs
+      if (url.startsWith('/') && blog.rssUrl) {
+        try {
+          const rssBase = new URL(blog.rssUrl);
+          url = `${rssBase.protocol}//${rssBase.host}${url}`;
+        } catch { continue; }
+      }
+
+      if (seenUrls.has(url)) continue;
+      seenUrls.add(url);
+
+      const pubDateMatch = block.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
+      const publishedAt = pubDateMatch ? new Date(pubDateMatch[1].trim()).toISOString() : null;
+
+      const contentMatch = block.match(/<content:encoded><!\[CDATA\[([\s\S]*?)\]\]><\/content:encoded>/i);
+      const descMatch = block.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/i)
+        || block.match(/<description>([\s\S]*?)<\/description>/i);
+      const rawContent = (contentMatch || descMatch)?.[1] || '';
+      const content = rawContent
+        .replace(/<[^>]+>/g, ' ')
+        .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ')
+        .replace(/\s+/g, ' ').trim()
+        .slice(0, 3000);
+
+      if (!content || content.length < 50) continue;
+
+      articles.push({ title, url, publishedAt: publishedAt || null, content });
+    }
+
+    console.error(`    RSS: found ${articles.length} articles`);
+    return articles;
+  } catch (err) {
+    errors.push(`Blog RSS: Error fetching ${blog.name}: ${err.message}`);
+    return [];
+  }
+}
+
+// -- Game Developer Audio HTML scraping --------------------------------------
+
+// Extracts article links from the Game Developer Audio index page.
+function parseGameDeveloperAudioIndex(html) {
+  const articles = [];
+  const seenUrls = new Set();
+  const linkRegex = /href="(https?:\/\/www\.gamedeveloper\.com\/audio\/[a-z0-9-]+)"/gi;
+  let linkMatch;
+  while ((linkMatch = linkRegex.exec(html)) !== null) {
+    const url = linkMatch[1];
+    if (seenUrls.has(url)) continue;
+    seenUrls.add(url);
+    articles.push({ title: '', url, publishedAt: null, description: '' });
+  }
+  return articles;
+}
+
+// Extracts full content from a Game Developer Audio article page.
+function extractGameDeveloperAudioContent(html) {
+  let title = '';
+  let author = '';
+  let publishedAt = null;
+  let content = '';
+
+  const jsonLdRegex = /<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi;
+  let jsonLdMatch;
+  while ((jsonLdMatch = jsonLdRegex.exec(html)) !== null) {
+    try {
+      const ld = JSON.parse(jsonLdMatch[1]);
+      if (ld['@type'] === 'NewsArticle' || ld['@type'] === 'Article') {
+        title = ld.headline || '';
+        author = ld.author?.name || ld.author?.[0]?.name || '';
+        publishedAt = ld.datePublished || null;
+        break;
+      }
+    } catch {}
+  }
+
+  if (!title) {
+    const h1Match = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
+    if (h1Match) title = h1Match[1].replace(/<[^>]+>/g, '').trim();
+  }
+
+  const articleMatch = html.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
+  const bodyHtml = articleMatch ? articleMatch[1] : html;
+
+  content = bodyHtml
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<nav[\s\S]*?<\/nav>/gi, '')
+    .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return { title, author, publishedAt, content };
+}
+
+// -- Generic Blog HTML Fallback ----------------------------------------------
+
+// Extracts article links from any HTML page using common patterns.
+function parseGenericBlogIndex(html, baseUrl) {
+  const articles = [];
+  const seenUrls = new Set();
+  const linkRegex = /<a[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
+  let linkMatch;
+  while ((linkMatch = linkRegex.exec(html)) !== null) {
+    let url = linkMatch[1];
+    const linkText = linkMatch[2].replace(/<[^>]+>/g, '').trim();
+    if (url.startsWith('#') || url.startsWith('javascript:') || url.startsWith('mailto:')) continue;
+    if (['/', ''].includes(url)) continue;
+    if (linkText.length < 3) continue;
+    if (url.startsWith('/') && baseUrl) {
+      try {
+        const base = new URL(baseUrl);
+        url = `${base.protocol}//${base.host}${url}`;
+      } catch { continue; }
+    }
+    if (!url.startsWith('http')) continue;
+    if (seenUrls.has(url)) continue;
+    const skipPatterns = ['/tag/', '/category/', '/author/', '/page/', '/feed', '/wp-'];
+    if (skipPatterns.some(p => url.includes(p))) continue;
+    seenUrls.add(url);
+    articles.push({ title: linkText, url, publishedAt: null, description: '' });
+  }
+  return articles.slice(0, 15);
+}
+
+// Generic content extractor for any HTML article page.
+function extractGenericBlogContent(html) {
+  let title = '';
+  let author = '';
+  let publishedAt = null;
+  let content = '';
+
+  const jsonLdRegex = /<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi;
+  let jsonLdMatch;
+  while ((jsonLdMatch = jsonLdRegex.exec(html)) !== null) {
+    try {
+      const ld = JSON.parse(jsonLdMatch[1]);
+      if (ld['@type'] === 'BlogPosting' || ld['@type'] === 'NewsArticle' || ld['@type'] === 'Article') {
+        if (!title) title = ld.headline || ld.name || '';
+        if (!author) author = ld.author?.name || ld.author?.[0]?.name || '';
+        if (!publishedAt) publishedAt = ld.datePublished || null;
+        if (title) break;
+      }
+    } catch {}
+  }
+
+  if (!title) {
+    const ogTitleMatch = html.match(/<meta[^>]*property="og:title"[^>]*content="([^"]+)"/i);
+    if (ogTitleMatch) title = ogTitleMatch[1];
+  }
+  if (!title) {
+    const h1Match = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
+    if (h1Match) title = h1Match[1].replace(/<[^>]+>/g, '').trim();
+  }
+
+  const articleMatch = html.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
+  const bodyHtml = articleMatch ? articleMatch[1] : html;
+
+  content = bodyHtml
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<nav[\s\S]*?<\/nav>/gi, '')
+    .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+    .replace(/<header[\s\S]*?<\/header>/gi, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return { title, author, publishedAt, content };
+}
+
 // -- Blog Fetching (HTML scraping) -------------------------------------------
 
 // Scrapes the Anthropic Engineering blog index page.
@@ -649,21 +863,47 @@ function extractClaudeBlogArticleContent(html) {
 }
 
 // Main blog fetching orchestrator.
-// For each blog source in the config, discovers new articles, deduplicates
-// against previously seen URLs, fetches full article content, and returns
-// the results for feed-blogs.json.
+// For each blog source, tries RSS first (if rssUrl is configured), then falls
+// back to HTML scraping for sites with dedicated parsers or generic fallback.
 async function fetchBlogContent(blogs, state, errors) {
   const results = [];
   const cutoff = new Date(Date.now() - BLOG_LOOKBACK_HOURS * 60 * 60 * 1000);
 
   for (const blog of blogs) {
     console.error(`  Processing blog: ${blog.name}...`);
-    let candidates = [];
+    let articlesFromBlog = 0;
+
+    // ---- Strategy 1: RSS feed (most reliable) ----
+    if (blog.rssUrl) {
+      console.error(`    Trying RSS: ${blog.rssUrl}`);
+      const rssArticles = await fetchRssBlogContent(blog, state, errors);
+      for (const article of rssArticles) {
+        if (state.seenArticles[article.url]) continue;
+        if (article.publishedAt && new Date(article.publishedAt) < cutoff) continue;
+        state.seenArticles[article.url] = Date.now();
+        results.push({
+          source: 'blog',
+          name: blog.name,
+          title: article.title,
+          url: article.url,
+          publishedAt: article.publishedAt || null,
+          author: '',
+          description: '',
+          content: article.content
+        });
+        articlesFromBlog++;
+        if (articlesFromBlog >= MAX_ARTICLES_PER_BLOG) break;
+      }
+      if (articlesFromBlog > 0) continue; // RSS worked
+    }
+
+    // ---- Strategy 2: HTML scraping ----
+    console.error(`    Trying HTML scrape: ${blog.indexUrl}`);
 
     try {
-      // Step 1: Discover articles from the blog index page
       const indexRes = await fetch(blog.indexUrl, {
-        headers: { 'User-Agent': 'FollowBuilders/1.0 (feed aggregator)' }
+        headers: { 'User-Agent': RSS_USER_AGENT },
+        signal: AbortSignal.timeout(15000)
       });
       if (!indexRes.ok) {
         errors.push(`Blog: Failed to fetch index for ${blog.name}: HTTP ${indexRes.status}`);
@@ -671,24 +911,20 @@ async function fetchBlogContent(blogs, state, errors) {
       }
       const indexHtml = await indexRes.text();
 
-      // Use the right parser based on which blog this is
-      if (blog.indexUrl.includes('anthropic.com')) {
+      let candidates = [];
+      if (blog.indexUrl.includes('gamedeveloper.com')) {
+        candidates = parseGameDeveloperAudioIndex(indexHtml);
+      } else if (blog.indexUrl.includes('anthropic.com')) {
         candidates = parseAnthropicEngineeringIndex(indexHtml);
       } else if (blog.indexUrl.includes('claude.com')) {
         candidates = parseClaudeBlogIndex(indexHtml);
+      } else {
+        candidates = parseGenericBlogIndex(indexHtml, blog.articleBaseUrl || blog.indexUrl);
       }
 
-      // Step 2: Filter to unseen articles, cap at MAX_ARTICLES_PER_BLOG.
-      // Blog index pages list articles newest-first. We only consider the
-      // first few entries (MAX_INDEX_SCAN) to avoid crawling the entire
-      // backlog on first run. Articles with a known date must fall within
-      // the lookback window; articles without dates are accepted if they
-      // appear near the top of the listing (likely recent).
-      const MAX_INDEX_SCAN = MAX_ARTICLES_PER_BLOG; // only look at the N most recent entries
       const newArticles = [];
-      for (const article of candidates.slice(0, MAX_INDEX_SCAN)) {
-        if (state.seenArticles[article.url]) continue; // already seen
-        // If we have a date, check it's within the lookback window
+      for (const article of candidates.slice(0, MAX_ARTICLES_PER_BLOG)) {
+        if (state.seenArticles[article.url]) continue;
         if (article.publishedAt && new Date(article.publishedAt) < cutoff) continue;
         newArticles.push(article);
         if (newArticles.length >= MAX_ARTICLES_PER_BLOG) break;
@@ -701,12 +937,11 @@ async function fetchBlogContent(blogs, state, errors) {
 
       console.error(`    Found ${newArticles.length} new article(s), fetching content...`);
 
-      // Step 3: Fetch full article content for each new article
       for (const article of newArticles) {
         try {
-          // Fetch the full article page
           const articleRes = await fetch(article.url, {
-            headers: { 'User-Agent': 'FollowBuilders/1.0 (feed aggregator)' }
+            headers: { 'User-Agent': RSS_USER_AGENT },
+            signal: AbortSignal.timeout(15000)
           });
           if (!articleRes.ok) {
             errors.push(`Blog: Failed to fetch article ${article.url}: HTTP ${articleRes.status}`);
@@ -714,12 +949,15 @@ async function fetchBlogContent(blogs, state, errors) {
           }
           const articleHtml = await articleRes.text();
 
-          // Use the right content extractor based on the blog
           let extracted;
-          if (article.url.includes('anthropic.com/engineering')) {
+          if (article.url.includes('gamedeveloper.com')) {
+            extracted = extractGameDeveloperAudioContent(articleHtml);
+          } else if (article.url.includes('anthropic.com/engineering')) {
             extracted = extractAnthropicArticleContent(articleHtml);
           } else if (article.url.includes('claude.com/blog')) {
             extracted = extractClaudeBlogArticleContent(articleHtml);
+          } else {
+            extracted = extractGenericBlogContent(articleHtml);
           }
 
           if (!extracted || !extracted.content) {
@@ -727,7 +965,6 @@ async function fetchBlogContent(blogs, state, errors) {
             continue;
           }
 
-          // Merge extracted data with what we already have from the index
           results.push({
             source: 'blog',
             name: blog.name,
@@ -739,10 +976,7 @@ async function fetchBlogContent(blogs, state, errors) {
             content: extracted.content
           });
 
-          // Mark as seen
           state.seenArticles[article.url] = Date.now();
-
-          // Small delay between article fetches to be polite
           await new Promise(r => setTimeout(r, 500));
         } catch (err) {
           errors.push(`Blog: Error fetching article ${article.url}: ${err.message}`);
