@@ -37,7 +37,7 @@
     },
     {
       "name": "Designing Sound",
-      "rssUrl": "https://designingsound.org/feed/",
+      "rssUrl": "https://feeds.feedburner.com/DesigningSound",
       "type": "scrape",
       "indexUrl": "https://designingsound.org",
       "articleBaseUrl": "https://designingsound.org/",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Audiokinetic Blog",
-      "rssUrl": "https://blog.audiokinetic.com/feed/",
+      "rssUrl": "https://blog.audiokinetic.com/blog/feed/",
       "type": "scrape",
       "indexUrl": "https://blog.audiokinetic.com",
       "articleBaseUrl": "https://blog.audiokinetic.com/",

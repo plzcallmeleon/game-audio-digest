@@ -354,13 +354,60 @@ async function fetchXContent(xAccounts, bearerToken, state, errors) {
   return results;
 }
 
-// -- Reddit Fetching (Reddit JSON API, no auth required) --------------------
+// -- Reddit Fetching (JSON API preferred, RSS fallback) ---------------------
 
 // Fetches hot posts from specified subreddits.
-// Uses Reddit's public JSON API — no API key required, but needs a proper User-Agent.
+// Tries Reddit's JSON API first (needs OAuth, may 403).
+// Falls back to RSS feeds (no auth required) on failure.
 // Applies two filter layers:
 //   1. upvote threshold (per-subreddit configurable)
 //   2. keyword filter (for general subreddits like r/gamedev)
+
+// Parses a Reddit RSS (Atom) feed and returns post-like objects.
+// RSS doesn't include upvote/comment counts, so those default to 0.
+function parseRedditRssFeed(xml, subreddit) {
+  const posts = [];
+  const entryRegex = /<entry>([\s\S]*?)<\/entry>/gi;
+  let entryMatch;
+  while ((entryMatch = entryRegex.exec(xml)) !== null) {
+    const block = entryMatch[1];
+    const titleMatch = block.match(/<title[^>]*>([\s\S]*?)<\/title>/);
+    const title = titleMatch ? titleMatch[1].trim() : null;
+    if (!title || title === '[deleted]' || title === '[removed]') continue;
+
+    const linkMatch = block.match(/<link[^>]*href="([^"]+)"/);
+    const url = linkMatch ? linkMatch[1].trim() : null;
+    if (!url) continue;
+
+    const idMatch = block.match(/<id>([\s\S]*?)<\/id>/);
+    const id = idMatch ? idMatch[1].trim() : url;
+
+    const pubMatch = block.match(/<published>([^<]+)/) || block.match(/<updated>([^<]+)/);
+    const publishedAt = pubMatch ? new Date(pubMatch[1].trim()).toISOString() : null;
+
+    const contentMatch = block.match(/<content[^>]*type="html"[^>]*>([\s\S]*?)<\/content>/i)
+      || block.match(/<summary[^>]*type="html"[^>]*>([\s\S]*?)<\/summary>/i);
+    const rawContent = contentMatch ? contentMatch[1] : '';
+    const selftext = rawContent
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ')
+      .replace(/\s+/g, ' ').trim()
+      .slice(0, 600);
+
+    posts.push({
+      id,
+      title,
+      url,
+      publishedAt,
+      selftext,
+      ups: 0,
+      numComments: 0
+    });
+  }
+  return posts;
+}
+
 async function fetchRedditContent(redditSources, state, errors) {
   const results = [];
   const cutoff = new Date(Date.now() - REDDIT_LOOKBACK_HOURS * 60 * 60 * 1000);
@@ -370,8 +417,12 @@ async function fetchRedditContent(redditSources, state, errors) {
     if (totalCollected >= MAX_REDDIT_POSTS) break;
 
     console.error(`  Fetching r/${source.subreddit}...`);
+    let posts = [];
+
+    // Strategy 1: Try JSON API
     try {
-      const res = await fetch(source.url, {
+      const jsonUrl = source.url; // e.g. https://www.reddit.com/r/GameAudio/hot.json
+      const res = await fetch(jsonUrl, {
         headers: {
           'User-Agent': REDDIT_USER_AGENT,
           'Accept': 'application/json'
@@ -379,68 +430,81 @@ async function fetchRedditContent(redditSources, state, errors) {
         signal: AbortSignal.timeout(15000)
       });
 
-      if (!res.ok) {
-        errors.push(`Reddit: Failed to fetch r/${source.subreddit}: HTTP ${res.status}`);
-        continue;
-      }
-
-      const data = await res.json();
-      const posts = data?.data?.children || [];
-      console.error(`  r/${source.subreddit}: ${posts.length} posts fetched`);
-
-      for (const child of posts) {
-        if (totalCollected >= MAX_REDDIT_POSTS) break;
-
-        const post = child.data;
-        const fullname = `t3_${post.id}`;
-
-        // Skip already-seen posts
-        if (state.seenRedditPosts[fullname]) continue;
-
-        // Skip posts outside lookback window
-        const postDate = new Date(post.created_utc * 1000);
-        if (postDate < cutoff) continue;
-
-        // Skip deleted/removed posts
-        if (!post.title || post.title === '[deleted]' || post.title === '[removed]') continue;
-
-        // Apply upvote filter
-        if ((post.ups || 0) < source.minUpvotes) continue;
-
-        // Apply keyword filter (for general subreddits)
-        if (source.keywords && source.keywords.length > 0) {
-          const titleLower = post.title.toLowerCase();
-          const bodyLower = (post.selftext || '').toLowerCase();
-          const hasKeyword = source.keywords.some(kw =>
-            titleLower.includes(kw) || bodyLower.includes(kw)
-          );
-          if (!hasKeyword) continue;
+      if (res.ok) {
+        const data = await res.json();
+        const children = data?.data?.children || [];
+        console.error(`  r/${source.subreddit}: ${children.length} posts (JSON API)`);
+        for (const child of children) {
+          const post = child.data;
+          posts.push({
+            id: `t3_${post.id}`,
+            title: post.title,
+            url: `https://www.reddit.com${post.permalink}`,
+            publishedAt: new Date(post.created_utc * 1000).toISOString(),
+            selftext: (post.selftext || '').slice(0, 600).trim(),
+            ups: post.ups || 0,
+            numComments: post.num_comments || 0
+          });
         }
-
-        // Truncate selftext to avoid huge JSON
-        const selftext = (post.selftext || '').slice(0, 600).trim();
-
-        results.push({
-          source: 'reddit',
-          subreddit: source.subreddit,
-          fullname,
-          title: post.title,
-          url: `https://www.reddit.com${post.permalink}`,
-          upvotes: post.ups || 0,
-          commentCount: post.num_comments || 0,
-          selftext,
-          publishedAt: postDate.toISOString()
+      } else {
+        // JSON API failed — try RSS fallback
+        console.error(`  JSON API returned ${res.status}, trying RSS fallback...`);
+        const rssUrl = `https://www.reddit.com/r/${source.subreddit}/hot/.rss`;
+        const rssRes = await fetch(rssUrl, {
+          headers: { 'User-Agent': REDDIT_USER_AGENT, 'Accept': 'application/rss+xml, application/xml' },
+          signal: AbortSignal.timeout(15000)
         });
-
-        // Mark as seen
-        state.seenRedditPosts[fullname] = Date.now();
-        totalCollected++;
+        if (rssRes.ok) {
+          const xml = await rssRes.text();
+          posts = parseRedditRssFeed(xml, source.subreddit);
+          console.error(`  r/${source.subreddit}: ${posts.length} posts (RSS fallback)`);
+        } else {
+          errors.push(`Reddit: Failed to fetch r/${source.subreddit}: HTTP ${res.status} (JSON), ${rssRes.status} (RSS)`);
+          continue;
+        }
       }
     } catch (err) {
       errors.push(`Reddit: Error fetching r/${source.subreddit}: ${err.message}`);
+      continue;
     }
 
-    // Small delay between subreddit fetches to be polite
+    // Process posts (dedup, filter, collect)
+    for (const post of posts) {
+      if (totalCollected >= MAX_REDDIT_POSTS) break;
+      if (state.seenRedditPosts[post.id]) continue;
+
+      const postDate = post.publishedAt ? new Date(post.publishedAt) : null;
+      if (postDate && postDate < cutoff) continue;
+
+      // Apply upvote filter (only if JSON API gave us upvotes)
+      if (post.ups > 0 && post.ups < source.minUpvotes) continue;
+
+      // Apply keyword filter
+      if (source.keywords && source.keywords.length > 0) {
+        const titleLower = post.title.toLowerCase();
+        const bodyLower = post.selftext.toLowerCase();
+        const hasKeyword = source.keywords.some(kw =>
+          titleLower.includes(kw) || bodyLower.includes(kw)
+        );
+        if (!hasKeyword) continue;
+      }
+
+      results.push({
+        source: 'reddit',
+        subreddit: source.subreddit,
+        fullname: post.id,
+        title: post.title,
+        url: post.url,
+        upvotes: post.ups || 0,
+        commentCount: post.numComments || 0,
+        selftext: post.selftext,
+        publishedAt: post.publishedAt
+      });
+
+      state.seenRedditPosts[post.id] = Date.now();
+      totalCollected++;
+    }
+
     await new Promise(r => setTimeout(r, 500));
   }
 
