@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-05-23T08:22:43.450Z",
+  "generatedAt": "2026-05-23T08:27:06.123Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tkatsa",
+      "title": "Want Your Indie Game Played On a Stream?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tkatsa/want_your_indie_game_played_on_a_stream/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>yo</p> <p>if you’ve got a game on itch or steam and you want it played on a stream read this post :))</p> <p>I’ve been streaming smaller indie games for a while now, mainly to help devs get a few more eyes on their stuff. getting anyone to actually play your game is weirdly hard, especially if it’s still rough, buggy, unfinished, or just needs feedback before it gets shown to someone bigger and shinier.</p> <p>that’s basically where i come in.</p> <p>i’m not really looking for massive hits or super polished stuff. this is more for smaller devs, jam games, weir",
+      "publishedAt": "2026-05-22T06:42:05.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   }
 }
