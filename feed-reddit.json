@@ -1,20 +1,75 @@
 {
-  "generatedAt": "2026-05-23T08:27:06.123Z",
+  "generatedAt": "2026-05-24T08:32:27.952Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tkatsa",
-      "title": "Want Your Indie Game Played On a Stream?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tkatsa/want_your_indie_game_played_on_a_stream/",
+      "fullname": "t3_1tm4dvo",
+      "title": "What do you think of taking a game that players usually agree it's not fun and try to &quot;fix&quot; it?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tm4dvo/what_do_you_think_of_taking_a_game_that_players/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>yo</p> <p>if you’ve got a game on itch or steam and you want it played on a stream read this post :))</p> <p>I’ve been streaming smaller indie games for a while now, mainly to help devs get a few more eyes on their stuff. getting anyone to actually play your game is weirdly hard, especially if it’s still rough, buggy, unfinished, or just needs feedback before it gets shown to someone bigger and shinier.</p> <p>that’s basically where i come in.</p> <p>i’m not really looking for massive hits or super polished stuff. this is more for smaller devs, jam games, weir",
-      "publishedAt": "2026-05-22T06:42:05.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Do you think that being associated with a game considered \"bad\" will hurt the game marketing?</p> <p>I have an idea for a game with a combat similar to Paper Mario The Origami King, but discussions online regarding this game usually agree that it's not a great combat system and much inferior to Thousand Years Door. I still see potential in the ring puzzles, and I believe most ot the issues people have with it can be fixed (lack of progression, all battles feeling to samey, etc).</p> <p>I am afraid that being associated with a game that is not very well liked m",
+      "publishedAt": "2026-05-24T06:39:14.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tljjgd",
+      "title": "watch out for scammers",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tljjgd/watch_out_for_scammers/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello, there is a target on unreleased / released indie games that do not have a lot of popularity</p> <p>obviously i didn't fall for this scam</p> <p>but a user (most likely a lot of alts are doing this, but heres one: jammy079069)</p> <p>may or may not try to get in touch with you in any way possible, in this case via discord, they joined my discord server</p> <p>Soo.... this is my conversation!</p> <ol> <li>JAMMY <em>—</em> 5:12 PM Hello Proxy, How are you doing</li> <li>Plox <em>—</em> 5:25 PM hi what do u want who r u</li> <li>JAMMY <em>—</em> 5:51 PM Fai",
+      "publishedAt": "2026-05-23T15:29:13.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tlvq6j",
+      "title": "Composing music as a sheet for a game?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tlvq6j/composing_music_as_a_sheet_for_a_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Are there any programmes that let you compose music in a style more similar to a sheet rather than the loops you make in FL Studio? I've found the UI of FL Studio to be jarring, and don't really get it yet.<br/> I don't have any immediate need to finish anything so theoretically I could just grin and bare FL for now, but I much prefer seeing it laid out and following it as a sheet since my introduction to this sort of thing was a programme with a sheet based layout back in GCSE a few years ago.<br/> I would naturally only be trying to compose for my own projec",
+      "publishedAt": "2026-05-23T23:37:11.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tm5pdu",
+      "title": "What gaming utility features are actually useful on Android?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tm5pdu/what_gaming_utility_features_are_actually_useful/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been researching and building an Android gaming utility app recently, and one thing I noticed is how divided people are on “game booster” apps.</p> <p>A lot of users say most performance claims are exaggerated because non-root Android apps don’t have deep enough system access to meaningfully alter CPU scheduling, thermal behavior, or kernel-level memory handling.</p> <p>At the same time, major OEMs like Samsung, ASUS, Xiaomi, and others still ship gaming dashboards/tools with features like:</p> <ul> <li>FPS overlays,</li> <li>network speed monitors,</li> ",
+      "publishedAt": "2026-05-24T07:52:57.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tlxtga",
+      "title": "Looking for a specific online game maker platform",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tlxtga/looking_for_a_specific_online_game_maker_platform/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey! A few months ago I saw a website that lets you build and share simple 3D adventure games in-browser. It was basically Bitsy but with 3D tools. I cannot, for the life of me, figure out what it was called or find the video where I learned about it. Does anyone know what i'm talking about?</p> <p>Thank you for your help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/postpardum\"> /u/postpardum </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tlxtga/looking_for_a_specific_online_game_maker_platform/\"",
+      "publishedAt": "2026-05-24T01:12:54.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tliuj8",
+      "title": "Post the coming soon page or itch.io demo first?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tliuj8/post_the_coming_soon_page_or_itchio_demo_first/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m finally at the point where I have my Steam page ready! I’m probably about a month away from having the game in a complete enough state to post a demo on itch. Would it be better to post my Steam page now? Wait until I have the demo ready and post the itch demo and Steam page at the same time? Post the itch demo first to try to build an audience, then post the Steam page? Thanks in advance for your advice!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fyursolgames\"> /u/fyursolgames </a> <br/> <span><a href=\"https://w",
+      "publishedAt": "2026-05-23T15:02:14.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 6
   }
 }
