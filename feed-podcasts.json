@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-05-24T08:32:06.245Z",
+  "generatedAt": "2026-05-25T10:12:46.209Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Twenty Thousand Hertz",
+      "title": "Age of Audio: The Future of Podcasting (and 20k)",
+      "guid": "e7104386-54a6-11f1-beab-47c411d368ed",
+      "url": "https://www.20k.org/episodes/age-of-audio-2",
+      "publishedAt": "2026-05-25T10:00:00.000Z",
+      "transcript": "After making Age of Audio, a feature documentary about the history of podcasting, filmmaker Shaun Michael Colón sat down with Dallas for a revealing conversation about the state and future of this industry. Together, Dallas & Shaun unpack the shift toward celebrity chit chat shows, what gets lost in video, the real economics of making Twenty Thousand Hertz, and why highly crafted audio storytelling still matters. Learn about this year’s Listener Stories competition and submit your story at ⁠⁠20k.org/2026⁠⁠. For updates on Age of Audio, visit the ⁠⁠official website⁠⁠, or follow the film on ⁠⁠Instagram⁠⁠ and ⁠⁠Tiktok⁠⁠. Twenty Thousand Hertz is produced by ⁠⁠⁠Defacto Sound⁠⁠⁠. Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠20k.org/plus⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠. Subscribe on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠. Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠, ⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠, ⁠⁠⁠Facebook⁠⁠⁠, and ⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠. Find out how you can get the iPhone 17 Pro at no cost with an eligible iPhone trade in at ⁠⁠att.com/iphone⁠⁠, or by visiting an AT&T store. Learn more about your ad choices. Visit megaphone.fm/adchoices"
+    },
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "359 - One piece Season 2",
+      "guid": "tag:soundcloud,2010:tracks/2326602380",
+      "url": "https://soundcloud.com/tonebenders-podcast/359-one-piece-season-2",
+      "publishedAt": "2026-05-24T15:25:23.000Z",
+      "transcript": "Netflix's live action take on the classic manga and animated series, One Piece, has been a massive, world wide success. For season 2, supervising sound editor Paul Col and re-recording mixer Gavin Fernades, were presented with an intimidating amount of audio challenges. A sword fight involving 100 enemies, bad guys that battle by turning into smoke, whales the size of buildings and lots more had to be given sounds built from scratch. This episode was recorded live as part of AirCon 26. ______ Tonebenders' host, Tim Muirhead, will be hosting and moderating a FREE screening of Independence Day to mark the films 30th anniversary. In attendance will be some of the original sound crew that worked on it. This will take place in Toronto, on July 6th, starting at 6pm at the Hot Docs Theatre. After the screening I will talk with the film’s Supervising Sound Editor Val Kuklowski, Foley Artist Andy Malcom and Sound Effects Editor Mark Lanza about their work on this groundbreaking film. Go to https://www.eventbrite.ca/e/vff-mpse-present-independence-day-30th-anniversary-screening-live-qa-tickets-1984406081007?aff=erellivmlt and use the code VFFTonebenders to claim your free seats and entrance to the post screening party where there will be complimentary bites and refreshments. _______SPONSORS: Sound Ideas had a great time at NAB this year, connecting with professionals across media, post-production, and broadcast. They launched a limited-time NAB Sale around the event, offering 50% off their catalog of professional sound effects libraries. This sale is available to everyone, whether you made it to NAB or not. Due to strong interest, that sale has now been extended for a limited time. So even though NAB has wrapped, there’s still a chance to take advantage of the savings - but not for long. You can check out the extended sale at https://sound-ideas.com/ _______ Make sure you are up to date with everything Tonebenders is doing, from upcoming events to the latest episodes by signi"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
