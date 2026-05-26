@@ -1,119 +1,75 @@
 {
-  "generatedAt": "2026-05-25T10:13:07.685Z",
+  "generatedAt": "2026-05-26T10:01:07.360Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1tmha6b",
-      "title": "Music as part of UX",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tmha6b/music_as_part_of_ux/",
+      "fullname": "t3_1tn7tk9",
+      "title": "Honest opinion on my case",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tn7tk9/honest_opinion_on_my_case/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Lately I’ve been thinking a lot about where music sits within game UX design.<br/> Not just “does the soundtrack sound good?” but:<br/> Does music teach the player something?<br/> Does it reduce or increase tension intentionally?<br/> Does it guide pacing or attention?<br/> Is adaptive music part of feedback design?<br/> Can music function as accessibility or readability support?<br/> I’m rereading <em>Leading with Sound</em> right now and it’s making me think about how often game audio gets separated from UX conversations, even though players are constantly r",
-      "publishedAt": "2026-05-24T16:44:16.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, i just wanted to get some real perspective on the state of affairs in the field right now and if you think i could be a good fit in Game Audio industry and if you have any advice i would appreceate. </p> <p>I've been reading lately that the job market situation is getting worse rapidly, due to AI and whatnot which kinda hurts my motivation to get into all of this. </p> <p>I've been working with audio for a long time, mostly making music and some synthetic sound design bits, even had some university background in film sound engineering (dropped out, n",
+      "publishedAt": "2026-05-25T12:32:58.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1tnal82",
+      "title": "Are stem separation tools becoming normal in game audio workflows now?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tnal82/are_stem_separation_tools_becoming_normal_in_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Curious how many ppl working in game audio are actually using stem separation tools during production now.</p> <p>Not even talking abt generative music really. More abt cleanup, referencing, temp implementation, trailer editing, dialogue isolation, adaptive remixing etc.</p> <p>A few yrs ago most separation sounded too artifact-heavy to use seriously, but lately some of the newer models isolate vocals, percussion, ambience surprisingly well for temp workflows.</p> <p>Obviously still wouldnt trust most outputs for final production assets, especially once layere",
+      "publishedAt": "2026-05-25T14:19:41.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tmu000",
-      "title": "Is cloning games a good way for learning?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tmu000/is_cloning_games_a_good_way_for_learning/",
+      "fullname": "t3_1tnyl6y",
+      "title": "Should i try to join a remote indie game studio for my resume or would it be better if I stuck to my current trajectory of freelancing and working on different projects?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tnyl6y/should_i_try_to_join_a_remote_indie_game_studio/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm sure there are a lot of beginner question in this sub so this might have asked before, sorry if so.<br/> I want to get into game dev as a hobby for now. I have ideas that I think might be fun, maybe enjoyed by others but although I have coding experience as a CS student, I have no experience in game dev other than making a Tetris clone on pygame and Flappy Bird clone on Unity and trying to develop your dream game as your first project is almost never a good idea from what I heard. Pygame feels kinda useless in game dev but is cloning other games for learni",
-      "publishedAt": "2026-05-25T01:08:36.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi, so I'm from Bangladesh. I have been doing writing or narrative work on games in my free time, both as a hobbyist and a ghostwriter, for almost two years now. It first started out as a alternative avenue of creating art to my usual schedule of writing short stories. Since then, I have worked with teams and solo devs who need some help with their narratives or other writing aspects, but I have never worked with a legit game studio. And experience with working for companies tend to be more valued over here than accomplishments. </p> <p>Since my uni is coming ",
+      "publishedAt": "2026-05-26T06:30:59.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tmh5iq",
-      "title": "Someone played my game for 24,000 hours",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tmh5iq/someone_played_my_game_for_24000_hours/",
+      "fullname": "t3_1tnafe9",
+      "title": "At what point do you usually bring artists onto a game project?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tnafe9/at_what_point_do_you_usually_bring_artists_onto_a/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm the solo dev behind Vacuum Warrior, an idle/incremental game I released in June 2023.</p> <p>One player recently passed 24,000 hours on record.</p> <p>That is 1,000 days.</p> <p>The game has only been out for about 1,060 days, so this player has basically almost never closed it since release.</p> <p>Obviously, playtime is weird in idle games. Some people play for a few hours, some check in once in a while, some leave it running in the background, and then, apparently, some people just... leave it running forever.</p> <p>Either way. It makes balancing kind ",
-      "publishedAt": "2026-05-24T16:39:23.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I do art, and I get messages about game projects pretty regularly, but a lot of them have no budget, no mechanics figured out, no documentation, and sometimes not even a clear idea of what the game actually is.</p> <p>Honestly, it’s starting to get annoying how many people expect one of the most marketable parts of the game (art) for free while having basically nothing else figured out yet.</p> <p>To me it always felt like by the time you start looking for artists, you should at least have some core mechanics working, a prototype, maybe some decent documentati",
+      "publishedAt": "2026-05-25T14:13:54.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tn03n3",
-      "title": "From Remake Solo dev to teaming up with the original creators",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tn03n3/from_remake_solo_dev_to_teaming_up_with_the/",
+      "fullname": "t3_1to0o54",
+      "title": "Suggested tools for a beginner hobbyist gamedev?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1to0o54/suggested_tools_for_a_beginner_hobbyist_gamedev/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My remake got the attention of the original creators organically and now we develop it together</p> <p>Hey Indie Devs and gamers , just wanted to share my Dev story and maybe interest you in backing my indie Remake (go and absolutely DESTROY that “notify me on launch” button on the kickstarter Pre-launch page).</p> <p>About 2 years ago i started remaking my favorite game from 1994 named Tex Murphy Under a Killing Moon, it was one of the first realtime 3D games ever, when development starter the original doom wasn’t out yet, anyway after posting a bunch of scre",
-      "publishedAt": "2026-05-25T05:58:53.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>As a kid I used to spend hours making games in the StarCraft map editor and I keep having ideas for games but not doing anything with them beyond thinking.</p> <p>Here are the core aspects needed for the game that I would like to play around trying to create. </p> <p>A PVE, CCG, where one opens packs to collect cards and build decks to battle through enemies and bosses.</p> <p>I would also like to be able to build an explorable island, most likely top down, I was thinking RPGmaker style or even whatever the game \"CardAire\" was made on, something simple is all ",
+      "publishedAt": "2026-05-26T08:27:00.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tms1ag",
-      "title": "My studies depress me and I just wanna learn about life simulator games dev",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tms1ag/my_studies_depress_me_and_i_just_wanna_learn/",
+      "fullname": "t3_1tnm2c1",
+      "title": "Advice needed on a win streak system",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tnm2c1/advice_needed_on_a_win_streak_system/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>All I want to do is learn Unity and life sim games. I study bachelor in AI, lots of focus on ML and data analytics. Is it pointless to study this if I wanna actually do game dev? I really struggle to not half ass university when most of the things we do are not related to game dev as far as I can see. Like no I don’t care about AI/ML I wanna just focus on learning game dev. Any advice? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Electrical-Dark-6610\"> /u/Electrical-Dark-6610 </a> <br/> <span><a href=\"https://www.redd",
-      "publishedAt": "2026-05-24T23:41:43.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tm8f61",
-      "title": "Have you ever changed your game because of one player’s message?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tm8f61/have_you_ever_changed_your_game_because_of_one/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone.</p> <p>I’m a solo indie developer, and about half a year ago, I released my first game on Steam. It was an audio-only maze game where the player navigates using sound instead of visual information.</p> <p>At first, the “no visual information” idea was mainly a game design challenge. I wanted to see whether a game could work if the player had to rely entirely on audio.</p> <p>But after I announced the game, I received a message from someone who said they had introduced it to their blind friend who loves video games. That message changed how I thoug",
-      "publishedAt": "2026-05-24T10:25:46.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tmpa9c",
-      "title": "I had someone play my game for the first time, they said it was fun and I couldn't be happier with it.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tmpa9c/i_had_someone_play_my_game_for_the_first_time/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>This is a very rambling post, but wanted to share my first play test of my game.</p> <p>I've been working on a game for around 8 months by myself; a turn-based roguelike and I have done a lot of play testing by myself. I've been worried about a lot with the game; art, difficulty, music etc. </p> <p>The biggest worry has always been 'is it fun?'</p> <p>This evening I decided to ask my partner if she wanted to give it a go. I've rambled about it a lot to her but she's never played it as I never felt it was ready til now. </p> <p>She had a lot of valid criticisms",
-      "publishedAt": "2026-05-24T21:46:59.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tmdv6u",
-      "title": "I showed my game to strangers!",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tmdv6u/i_showed_my_game_to_strangers/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>In a previous post, I spoke about how hard it was to go full-time game dev, and that one year has passed and I barely created a game-jam-worthy prototype.</p> <p>Well, I decided to go to my country's main gaming public expo and show a build to strangers and peers.</p> <p>My booth was bare-bones, a simple desk, an 8BitDo SNES-style controller, and a 10-year-old screen. The rest of the expo had some truly impressive 3D tech demos in stylized setups. I felt cheap.</p> <p>People started playing. Some didn't get it, a young boy even called it the worst game of the ",
-      "publishedAt": "2026-05-24T14:34:45.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tmqgee",
-      "title": "Best Books/Resources for getting good as a game programmer",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tmqgee/best_booksresources_for_getting_good_as_a_game/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am an aspiring game developer. I have some basic knowledge of OOP concepts from back in school, and I can code somewhat okay as I worked as a web dev for some time (but that involved mostly using frameworks, and not having to actually design classes and stuff). I'm currently working on Unity to develop portfolio projects, and struggling with some things. </p> <p>I want to get a better understanding of coding concepts that will help me be good as a game programmer. Nothing too deep or complex like game engine stuff. I wanna start by strengthening my fundament",
-      "publishedAt": "2026-05-24T22:34:22.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tn1898",
-      "title": "When to release a demo if we are not a part of the Steam Next Fest?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tn1898/when_to_release_a_demo_if_we_are_not_a_part_of/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello! We have an interesting situation. Despite some issues that are probably going to be resolved in the next 2 weeks, the demo is almost ready. However, it won't be a part of the Next Fest because we have too few wishlists rn.</p> <p>Is dropping a demo during Next Fest but not being a part of it is a good idea? Or maybe we should wait a bit and post it later? </p> <p>Currently 2 main options are being discussed: 1) Releasing a public demo shortly after Next Fest 2) Releasing a public demo shortly after Summer Sale </p> <p>Waiting dor your options and ideas ",
-      "publishedAt": "2026-05-25T06:57:48.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m working on a peer to peer multiplayer game where your current win streak is tracked, and maintaining it can earn players some of the most valuable rewards in the game. However, there is room for manipulation and I don’t know how to solve it. Quitting a match or disconnecting is treated as a loss, which resets the streak. However, since I can’t tell the difference between the host ending the game and a player disconnecting, I realized that if the host is losing, they can end the match by disconnecting themselves, which resets the win streak of the team that",
+      "publishedAt": "2026-05-25T21:11:42.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 10
+    "redditPosts": 6
   }
 }
