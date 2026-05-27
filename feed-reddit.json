@@ -1,75 +1,86 @@
 {
-  "generatedAt": "2026-05-26T10:01:07.360Z",
+  "generatedAt": "2026-05-27T09:56:37.787Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1tn7tk9",
-      "title": "Honest opinion on my case",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tn7tk9/honest_opinion_on_my_case/",
+      "fullname": "t3_1to5xxl",
+      "title": "Will PRS registration affect streamers/content-creators?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1to5xxl/will_prs_registration_affect/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, i just wanted to get some real perspective on the state of affairs in the field right now and if you think i could be a good fit in Game Audio industry and if you have any advice i would appreceate. </p> <p>I've been reading lately that the job market situation is getting worse rapidly, due to AI and whatnot which kinda hurts my motivation to get into all of this. </p> <p>I've been working with audio for a long time, mostly making music and some synthetic sound design bits, even had some university background in film sound engineering (dropped out, n",
-      "publishedAt": "2026-05-25T12:32:58.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1tnal82",
-      "title": "Are stem separation tools becoming normal in game audio workflows now?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tnal82/are_stem_separation_tools_becoming_normal_in_game/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Curious how many ppl working in game audio are actually using stem separation tools during production now.</p> <p>Not even talking abt generative music really. More abt cleanup, referencing, temp implementation, trailer editing, dialogue isolation, adaptive remixing etc.</p> <p>A few yrs ago most separation sounded too artifact-heavy to use seriously, but lately some of the newer models isolate vocals, percussion, ambience surprisingly well for temp workflows.</p> <p>Obviously still wouldnt trust most outputs for final production assets, especially once layere",
-      "publishedAt": "2026-05-25T14:19:41.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've licensed music for use in a game. The music is PRS registered (but there's no Content ID on it). I'm not at all familiar with how PRS functions - will that have any impact on streamers and other content creators?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/talesfromthemabinogi\"> /u/talesfromthemabinogi </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1to5xxl/will_prs_registration_affect/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1to5xxl/will_prs_regis",
+      "publishedAt": "2026-05-26T12:48:26.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tnyl6y",
-      "title": "Should i try to join a remote indie game studio for my resume or would it be better if I stuck to my current trajectory of freelancing and working on different projects?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tnyl6y/should_i_try_to_join_a_remote_indie_game_studio/",
+      "fullname": "t3_1toty7b",
+      "title": "Funny (but scary) AI translation fails that instantly ruin your indie game's mood for Japanese players.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1toty7b/funny_but_scary_ai_translation_fails_that/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi, so I'm from Bangladesh. I have been doing writing or narrative work on games in my free time, both as a hobbyist and a ghostwriter, for almost two years now. It first started out as a alternative avenue of creating art to my usual schedule of writing short stories. Since then, I have worked with teams and solo devs who need some help with their narratives or other writing aspects, but I have never worked with a legit game studio. And experience with working for companies tend to be more valued over here than accomplishments. </p> <p>Since my uni is coming ",
-      "publishedAt": "2026-05-26T06:30:59.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! Following up on my previous posts about Japanese localization, I wanted to share a few more specific \"AI translation traps\" that completely flip the mood of a game—often turning a serious moment into a comedy.</p> <p>If you are using basic AI tools to translate your game into Japanese, watch out for these context-blind translations:</p> <ol> <li><p>The \"Chest\" Trap (Survival / RPG)<br/> When an English game says \"Open the chest,\" AI often translates \"chest\" as 胸 (Mune - human anatomy/breast) instead of 宝箱 (Takarabako - treasure box). I've played ",
+      "publishedAt": "2026-05-27T03:47:04.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tnafe9",
-      "title": "At what point do you usually bring artists onto a game project?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tnafe9/at_what_point_do_you_usually_bring_artists_onto_a/",
+      "fullname": "t3_1tp0a1b",
+      "title": "Why do timed puzzle modes often lose their excitement after players reach the highest rank?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tp0a1b/why_do_timed_puzzle_modes_often_lose_their/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I do art, and I get messages about game projects pretty regularly, but a lot of them have no budget, no mechanics figured out, no documentation, and sometimes not even a clear idea of what the game actually is.</p> <p>Honestly, it’s starting to get annoying how many people expect one of the most marketable parts of the game (art) for free while having basically nothing else figured out yet.</p> <p>To me it always felt like by the time you start looking for artists, you should at least have some core mechanics working, a prototype, maybe some decent documentati",
-      "publishedAt": "2026-05-25T14:13:54.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m currently redesigning the Rush mode for my puzzle game and noticed an interesting problem.</p> <p>The mode is a 90-second score attack:<br/> solve as many targets as possible using 5 dice and basic math operations.</p> <p>At first I used a normal medal structure:<br/> Bronze / Silver / Gold / Platinum.</p> <p>But once players consistently reached the top medal, the mode suddenly lost a lot of tension and replay motivation.</p> <p>I recently switched to a continuous skill-rank structure instead:<br/> Warm-up → Rookie → Skilled → Expert → Master → Legend</p>",
+      "publishedAt": "2026-05-27T09:20:35.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1to0o54",
-      "title": "Suggested tools for a beginner hobbyist gamedev?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1to0o54/suggested_tools_for_a_beginner_hobbyist_gamedev/",
+      "fullname": "t3_1tosbdk",
+      "title": "Is there a Linux tutorial for OpenGL and graphics comparable to ChiliTomatoNoodles' windows only C++ tutorial(s) for DirectX?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tosbdk/is_there_a_linux_tutorial_for_opengl_and_graphics/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>As a kid I used to spend hours making games in the StarCraft map editor and I keep having ideas for games but not doing anything with them beyond thinking.</p> <p>Here are the core aspects needed for the game that I would like to play around trying to create. </p> <p>A PVE, CCG, where one opens packs to collect cards and build decks to battle through enemies and bosses.</p> <p>I would also like to be able to build an explorable island, most likely top down, I was thinking RPGmaker style or even whatever the game \"CardAire\" was made on, something simple is all ",
-      "publishedAt": "2026-05-26T08:27:00.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I really liked ChiliTomatoNoodles' C++ tutorials when I was younger and am looking for a linux version as linux is the future OS of most software in my opinion. Does a comparable set of courses exist to the ones found for free on his channel on youtube?</p> <p>Thanks,</p> <p><a href=\"/u/Ruari636\">u/Ruari636</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ruari636\"> /u/ruari636 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tosbdk/is_there_a_linux_tutorial_for_opengl_and_graphics/\">[link]</a></spa",
+      "publishedAt": "2026-05-27T02:33:04.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tnm2c1",
-      "title": "Advice needed on a win streak system",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tnm2c1/advice_needed_on_a_win_streak_system/",
+      "fullname": "t3_1to8wwq",
+      "title": "Do players care about lack of cloud saves?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1to8wwq/do_players_care_about_lack_of_cloud_saves/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m working on a peer to peer multiplayer game where your current win streak is tracked, and maintaining it can earn players some of the most valuable rewards in the game. However, there is room for manipulation and I don’t know how to solve it. Quitting a match or disconnecting is treated as a loss, which resets the streak. However, since I can’t tell the difference between the host ending the game and a player disconnecting, I realized that if the host is losing, they can end the match by disconnecting themselves, which resets the win streak of the team that",
-      "publishedAt": "2026-05-25T21:11:42.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I'm a completely amateur Android developer. So far, I have only built fully offline games without any servers.</p> <p>I clearly state in the store description that it is a serverless, offline game—meaning that if you delete the app, your progress and purchases will be lost.</p> <p>The reason I'm asking is because I'm currently on the fence about whether I should spend the time to integrate Google Play Games Services (GPGS) for cloud saves.</p> <p>Do you think the lack of cloud saves significantly affects whether average users will even download an",
+      "publishedAt": "2026-05-26T14:38:02.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1toide9",
+      "title": "What are the Most Ethical Business Models for Tabletop Game Publication",
+      "url": "https://www.reddit.com/r/gamedev/comments/1toide9/what_are_the_most_ethical_business_models_for/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am in the beginning stages of developing a tabletop miniatures game and to be totally clear, I am far off from publishing anything. But I was sketching out some long term plans and realized that essentially every possible route reads to me as a little \"icky,\" for lack of a better term, mostly as a result of my own personal beliefs that I don't need to get into detailed descriptions of here. There are a couple options as far as I can tell and I don't love either of them:</p> <ol> <li>Rules available as a free PDF and miniatures sales become the main money-mak",
+      "publishedAt": "2026-05-26T20:00:19.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1toh2m1",
+      "title": "What is the most practical way to create varying levels of difficulty?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1toh2m1/what_is_the_most_practical_way_to_create_varying/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I know it’s certainly dependent on the type of game, but specifically for shooter-type games, what are the fairest ways to increase difficulty?</p> <p>We’re working on a light-gun roguelite and as it plays into a horde survival, we are looking into adding more and more enemies. But as the gadgets/upgrades get better and better, the number of enemies certainly doesn’t seem to matter as much. On top of that, it starts to affect performance when there is too much on-screen.</p> <p>Started tampering with enemy health values but then it feels unfair when enemies be",
+      "publishedAt": "2026-05-26T19:15:22.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 6
+    "redditPosts": 7
   }
 }
