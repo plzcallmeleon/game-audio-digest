@@ -1,86 +1,108 @@
 {
-  "generatedAt": "2026-05-27T09:56:37.787Z",
+  "generatedAt": "2026-05-28T10:06:52.636Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1to5xxl",
-      "title": "Will PRS registration affect streamers/content-creators?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1to5xxl/will_prs_registration_affect/",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tp6rxg",
+      "title": "Subreddit rule recommendation: require disclosure of AI use in creating a post",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tp6rxg/subreddit_rule_recommendation_require_disclosure/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've licensed music for use in a game. The music is PRS registered (but there's no Content ID on it). I'm not at all familiar with how PRS functions - will that have any impact on streamers and other content creators?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/talesfromthemabinogi\"> /u/talesfromthemabinogi </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1to5xxl/will_prs_registration_affect/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1to5xxl/will_prs_regis",
-      "publishedAt": "2026-05-26T12:48:26.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I feel like this exact phenomena has become rampant in gamedev communities specifically. Creating a whole post just to secretly promote your game is reasonable, we all do that, it's just part of being an indie dev. But I have seen a huge uptick in AI generated posts. Clearly AI ones. And I know that identifying something as AI generated or not is a topic of it's own, but sometimes it's so obvious. The sets of three's everywhere, the random bolding of key buzzwords in the post, the obvious sayings that no human would ever actually type out.</p> <p>And then they",
+      "publishedAt": "2026-05-27T14:11:54.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1toty7b",
-      "title": "Funny (but scary) AI translation fails that instantly ruin your indie game's mood for Japanese players.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1toty7b/funny_but_scary_ai_translation_fails_that/",
+      "fullname": "t3_1tpxpe3",
+      "title": "SEA has one of the largest gaming markets in the world and indie devs are still sleeping on it",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tpxpe3/sea_has_one_of_the_largest_gaming_markets_in_the/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! Following up on my previous posts about Japanese localization, I wanted to share a few more specific \"AI translation traps\" that completely flip the mood of a game—often turning a serious moment into a comedy.</p> <p>If you are using basic AI tools to translate your game into Japanese, watch out for these context-blind translations:</p> <ol> <li><p>The \"Chest\" Trap (Survival / RPG)<br/> When an English game says \"Open the chest,\" AI often translates \"chest\" as 胸 (Mune - human anatomy/breast) instead of 宝箱 (Takarabako - treasure box). I've played ",
-      "publishedAt": "2026-05-27T03:47:04.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm a gamer from the Philippines and I've been following the local gaming scene for a while now. I even run a media news site covering indie games in SEA, so I spend a lot of time thinking about this market. Every time I see a \"where should I launch my indie game\" post here, the answers are always the same. Steam global, maybe a Reddit ads push, maybe TikTok. Sometimes someone mentions Japan or Korea.</p> <p>Nobody mentions Southeast Asia. <strong>Ever.</strong></p> <p>And I genuinely don't understand why, because the numbers are right there. The SEA gaming ma",
+      "publishedAt": "2026-05-28T08:43:31.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tp0a1b",
-      "title": "Why do timed puzzle modes often lose their excitement after players reach the highest rank?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tp0a1b/why_do_timed_puzzle_modes_often_lose_their/",
+      "fullname": "t3_1tpazds",
+      "title": "No one told me this was one of the best parts of game development",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tpazds/no_one_told_me_this_was_one_of_the_best_parts_of/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m currently redesigning the Rush mode for my puzzle game and noticed an interesting problem.</p> <p>The mode is a 90-second score attack:<br/> solve as many targets as possible using 5 dice and basic math operations.</p> <p>At first I used a normal medal structure:<br/> Bronze / Silver / Gold / Platinum.</p> <p>But once players consistently reached the top medal, the mode suddenly lost a lot of tension and replay motivation.</p> <p>I recently switched to a continuous skill-rank structure instead:<br/> Warm-up → Rookie → Skilled → Expert → Master → Legend</p>",
-      "publishedAt": "2026-05-27T09:20:35.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My first game project is very niche, not a common genre, not using the latest and greatest Chris Zukowski advice, it is simply something cute and fun I wanted to make and share with others. I enjoy making it and I make short videos about it to find my tiny niche audience. </p> <p>Few days ago, I got a DM on Instagram, which does not happen often and it is mostly 3D artists trying to sell their services. This time it was a girl studying game development. She said she was inspired to see another girl developer and she drew a fanart of the main character of my ga",
+      "publishedAt": "2026-05-27T16:38:37.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tosbdk",
-      "title": "Is there a Linux tutorial for OpenGL and graphics comparable to ChiliTomatoNoodles' windows only C++ tutorial(s) for DirectX?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tosbdk/is_there_a_linux_tutorial_for_opengl_and_graphics/",
+      "fullname": "t3_1tpvwqj",
+      "title": "We made DLC for our 10-year-old indie game. Was it worth it?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tpvwqj/we_made_dlc_for_our_10yearold_indie_game_was_it/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I really liked ChiliTomatoNoodles' C++ tutorials when I was younger and am looking for a linux version as linux is the future OS of most software in my opinion. Does a comparable set of courses exist to the ones found for free on his channel on youtube?</p> <p>Thanks,</p> <p><a href=\"/u/Ruari636\">u/Ruari636</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ruari636\"> /u/ruari636 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tosbdk/is_there_a_linux_tutorial_for_opengl_and_graphics/\">[link]</a></spa",
-      "publishedAt": "2026-05-27T02:33:04.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>We recently released a Survival Mode DLC for our 10-year-old indie RTS, The Hive, and I wanted to share some early thoughts.</p> <p>The game still has a decent player base for its age, and one of the most requested features was persistent progression between missions.</p> <p>So instead of making a huge expansion, we made a focused DLC around that idea.</p> <p>The DLC lets your swarm, resources, items, upgrades, kills, and unit progress carry over between levels. It changes the campaign quite a lot, because losses and bad decisions matter more.</p> <p>The DLC t",
+      "publishedAt": "2026-05-28T07:01:08.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1to8wwq",
-      "title": "Do players care about lack of cloud saves?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1to8wwq/do_players_care_about_lack_of_cloud_saves/",
+      "fullname": "t3_1tpy4om",
+      "title": "Should we wait to have a trailer before coming on the store ?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tpy4om/should_we_wait_to_have_a_trailer_before_coming_on/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I'm a completely amateur Android developer. So far, I have only built fully offline games without any servers.</p> <p>I clearly state in the store description that it is a serverless, offline game—meaning that if you delete the app, your progress and purchases will be lost.</p> <p>The reason I'm asking is because I'm currently on the fence about whether I should spend the time to integrate Google Play Games Services (GPGS) for cloud saves.</p> <p>Do you think the lack of cloud saves significantly affects whether average users will even download an",
-      "publishedAt": "2026-05-26T14:38:02.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Our Steam page is reviewed and mostly ready just no trailer, </p> <p>What's your take ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No_Advisor_7504\"> /u/No_Advisor_7504 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tpy4om/should_we_wait_to_have_a_trailer_before_coming_on/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tpy4om/should_we_wait_to_have_a_trailer_before_coming_on/\">[comments]</a></span>",
+      "publishedAt": "2026-05-28T09:08:20.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1toide9",
-      "title": "What are the Most Ethical Business Models for Tabletop Game Publication",
-      "url": "https://www.reddit.com/r/gamedev/comments/1toide9/what_are_the_most_ethical_business_models_for/",
+      "fullname": "t3_1tpxoqz",
+      "title": "Looking for a good read on games UI/UX",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tpxoqz/looking_for_a_good_read_on_games_uiux/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am in the beginning stages of developing a tabletop miniatures game and to be totally clear, I am far off from publishing anything. But I was sketching out some long term plans and realized that essentially every possible route reads to me as a little \"icky,\" for lack of a better term, mostly as a result of my own personal beliefs that I don't need to get into detailed descriptions of here. There are a couple options as far as I can tell and I don't love either of them:</p> <ol> <li>Rules available as a free PDF and miniatures sales become the main money-mak",
-      "publishedAt": "2026-05-26T20:00:19.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I am making a tycoon game and it is mostly UI driven. I opted for windows 95/98 esthetics since it looks nice and goes well with pixel art style I have chosen for the game world.</p> <p>My game is mostly UI-driven, or in other words, UI is the way player interacts with game world. I have made it a OS looking way with taskbar, widgets and apps that opens their own windows. I went that way because it is familiar to the players and also it is very versatile at showing a lot of information at the same time.</p> <p>I made the prototype and te",
+      "publishedAt": "2026-05-28T08:42:32.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1toh2m1",
-      "title": "What is the most practical way to create varying levels of difficulty?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1toh2m1/what_is_the_most_practical_way_to_create_varying/",
+      "fullname": "t3_1tpxl9q",
+      "title": "2 Month of Sharing My Game Dev Progress — Results So Far",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tpxl9q/2_month_of_sharing_my_game_dev_progress_results/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I know it’s certainly dependent on the type of game, but specifically for shooter-type games, what are the fairest ways to increase difficulty?</p> <p>We’re working on a light-gun roguelite and as it plays into a horde survival, we are looking into adding more and more enemies. But as the gadgets/upgrades get better and better, the number of enemies certainly doesn’t seem to matter as much. On top of that, it starts to affect performance when there is too much on-screen.</p> <p>Started tampering with enemy health values but then it feels unfair when enemies be",
-      "publishedAt": "2026-05-26T19:15:22.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p> <p>I started sharing my game dev journey about 28 days ago on Shorts, Instagram, TikTok, and YouTube.</p> <p>Current numbers:</p> <p>YouTube: 27 subscribers</p> <p>TikTok: 10 followers</p> <p>Instagram: 19 followers</p> <p>I also started posting daily dev GIFs on X, Threads, and Bluesky about 2 months ago:</p> <p>X: 310 followers</p> <p>Bluesky: 144 followers</p> <p>Threads: 127 followers</p> <p>One thing I’ve noticed: posting short daily progress clips/GIFs consistently seems way more important than worrying about “viral” content early on. </p> <",
+      "publishedAt": "2026-05-28T08:37:00.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tpasnx",
+      "title": "Fluid simulation in Godot (Navier-Stokes) - detailed explanation",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tpasnx/fluid_simulation_in_godot_navierstokes_detailed/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I've spent some time recently learning how Navier-Stokes fluid simulations work and decided to create a blog post with explanations to help others</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Myzzreal\"> /u/Myzzreal </a> <br/> <span><a href=\"https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tpasnx/fluid_simulation_in_godot_navierstokes_detailed/\">[comments]</a></span>",
+      "publishedAt": "2026-05-27T16:32:01.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tpoisb",
+      "title": "Is it normal to feel unsatisfied with the end of your game?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tpoisb/is_it_normal_to_feel_unsatisfied_with_the_end_of/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>New dev here, 3-4 years working on a solo game project and nearing the end. </p> <p>It's been difficult to say the least. I hardly do any work on it daily, if any at all. </p> <p>Most of my energy for game dev is spent staring at a wall, trying to piece together the overcomplicated logistics of game elements I've set up for the end of the game, trying to figure out how to convey them to match the story and theme.</p> <p>I took way too long to settle on an ending, and now whenever I think of it, I can't help but feel ashamed and unsatisfied with it. I can't fig",
+      "publishedAt": "2026-05-28T01:03:04.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 7
+    "redditPosts": 9
   }
 }
