@@ -1,108 +1,119 @@
 {
-  "generatedAt": "2026-05-28T10:06:52.636Z",
+  "generatedAt": "2026-05-29T09:57:58.289Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tp6rxg",
-      "title": "Subreddit rule recommendation: require disclosure of AI use in creating a post",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tp6rxg/subreddit_rule_recommendation_require_disclosure/",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1tqag98",
+      "title": "Mastering Game Music Question",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tqag98/mastering_game_music_question/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I feel like this exact phenomena has become rampant in gamedev communities specifically. Creating a whole post just to secretly promote your game is reasonable, we all do that, it's just part of being an indie dev. But I have seen a huge uptick in AI generated posts. Clearly AI ones. And I know that identifying something as AI generated or not is a topic of it's own, but sometimes it's so obvious. The sets of three's everywhere, the random bolding of key buzzwords in the post, the obvious sayings that no human would ever actually type out.</p> <p>And then they",
-      "publishedAt": "2026-05-27T14:11:54.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m a very experienced musician with some experience mastering music and I am working on a game soundtrack for the first time. I’m also doing the SFX.</p> <p>I know how I would master the songs for regular non-game listening, but my question relates to how to go about mastering the music for the actual game. </p> <p>My assumption is that I should have less dynamic range for the in-game music than I would for the soundtrack release. I am thinking this because the music will (unless the player alters the levels) be playing quieter than the SFX so that the SFX wi",
+      "publishedAt": "2026-05-28T17:33:31.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tpxpe3",
-      "title": "SEA has one of the largest gaming markets in the world and indie devs are still sleeping on it",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tpxpe3/sea_has_one_of_the_largest_gaming_markets_in_the/",
+      "fullname": "t3_1tq3sv6",
+      "title": "Our game jam entry blew up and we turned it into a full release with 175,000 wishlists. It was also stolen multiple times and turned into AI slop.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tq3sv6/our_game_jam_entry_blew_up_and_we_turned_it_into/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm a gamer from the Philippines and I've been following the local gaming scene for a while now. I even run a media news site covering indie games in SEA, so I spend a lot of time thinking about this market. Every time I see a \"where should I launch my indie game\" post here, the answers are always the same. Steam global, maybe a Reddit ads push, maybe TikTok. Sometimes someone mentions Japan or Korea.</p> <p>Nobody mentions Southeast Asia. <strong>Ever.</strong></p> <p>And I genuinely don't understand why, because the numbers are right there. The SEA gaming ma",
-      "publishedAt": "2026-05-28T08:43:31.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I’m the lead artist and one of the creators of <a href=\"https://store.steampowered.com/app/3198890/Scale_the_Depths/\">Scale the Depths</a>, a casual fishing and fish-scaling game that just launched today. We started out as a few friends who formed our team, Glass Gecko Games, back in university, and we’ve added more people to the team since then. </p> <p>We’ve hit the top 350 most wishlisted games on Steam with around 175,000 wishlists right before launch. This post is gonna be a bit of a retrospective on how we got here and how our game gained traction ov",
+      "publishedAt": "2026-05-28T13:33:42.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tpazds",
-      "title": "No one told me this was one of the best parts of game development",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tpazds/no_one_told_me_this_was_one_of_the_best_parts_of/",
+      "fullname": "t3_1tqacai",
+      "title": "4 days after launch, real players taught me more than 1.5 years of solo development",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tqacai/4_days_after_launch_real_players_taught_me_more/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My first game project is very niche, not a common genre, not using the latest and greatest Chris Zukowski advice, it is simply something cute and fun I wanted to make and share with others. I enjoy making it and I make short videos about it to find my tiny niche audience. </p> <p>Few days ago, I got a DM on Instagram, which does not happen often and it is mostly 3D artists trying to sell their services. This time it was a girl studying game development. She said she was inspired to see another girl developer and she drew a fanart of the main character of my ga",
-      "publishedAt": "2026-05-27T16:38:37.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So....a few days ago I launched my survival incremental game Shoot for the Stars: Journey Home on iOS and Android after ~1.5 years of mostly solo development.It’s an idle/incremental game where you build a base on hostile planets, automate production, defend against raids, then eventually launch a rocket and start a new run while keeping permanent meta-progression from your previous colonies. </p> <p>I expected the usual indie-launch experience:</p> <p>- a few hundred installs</p> <p>- a couple bug reports</p> <p>- maybe some silence after the initial post</p>",
+      "publishedAt": "2026-05-28T17:29:41.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tpvwqj",
-      "title": "We made DLC for our 10-year-old indie game. Was it worth it?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tpvwqj/we_made_dlc_for_our_10yearold_indie_game_was_it/",
+      "fullname": "t3_1tqf3ri",
+      "title": "Chris Zukowski Has Released a New Steam Wishlist Tool!",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tqf3ri/chris_zukowski_has_released_a_new_steam_wishlist/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>We recently released a Survival Mode DLC for our 10-year-old indie RTS, The Hive, and I wanted to share some early thoughts.</p> <p>The game still has a decent player base for its age, and one of the most requested features was persistent progression between missions.</p> <p>So instead of making a huge expansion, we made a focused DLC around that idea.</p> <p>The DLC lets your swarm, resources, items, upgrades, kills, and unit progress carry over between levels. It changes the campaign quite a lot, because losses and bad decisions matter more.</p> <p>The DLC t",
-      "publishedAt": "2026-05-28T07:01:08.000Z"
+      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tqf3ri/chris_zukowski_has_released_a_new_steam_wishlist/\"> <img src=\"https://external-preview.redd.it/L93-eGFtEQpDGJfwWCudpyfbYrmF9kmloKE8v11T2NM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=56887da8ada7d152a7620e151f18c80891e3f170\" alt=\"Chris Zukowski Has Released a New Steam Wishlist Tool!\" title=\"Chris Zukowski Has Released a New Steam Wishlist Tool!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>What do you all think of it? Have you used it?</p> <p>Apologies if this was already posted here.</p> </div><!-- SC_ON",
+      "publishedAt": "2026-05-28T20:17:04.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tpy4om",
-      "title": "Should we wait to have a trailer before coming on the store ?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tpy4om/should_we_wait_to_have_a_trailer_before_coming_on/",
+      "fullname": "t3_1tquwa3",
+      "title": "Best way to learn Godot from zero for an idle/incremental game?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tquwa3/best_way_to_learn_godot_from_zero_for_an/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Our Steam page is reviewed and mostly ready just no trailer, </p> <p>What's your take ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No_Advisor_7504\"> /u/No_Advisor_7504 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tpy4om/should_we_wait_to_have_a_trailer_before_coming_on/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tpy4om/should_we_wait_to_have_a_trailer_before_coming_on/\">[comments]</a></span>",
-      "publishedAt": "2026-05-28T09:08:20.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I want to learn Godot from scratch, but most beginner tutorials I find are based around platformers or top-down movement.</p> <p>My goal is to make an idle/incremental game, closer to Cookie Clicker: passive income, upgrades, clicking for extra progress, unlocks, prestige, and a lot of UI-driven systems.</p> <p>Would platformer tutorials still be a good way to learn the engine basics, or should I look for something more focused on UI, timers, save systems, and game state?</p> <p>Any recommendations for tutorials, courses, or example projects that would be more",
+      "publishedAt": "2026-05-29T08:00:19.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tpxoqz",
-      "title": "Looking for a good read on games UI/UX",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tpxoqz/looking_for_a_good_read_on_games_uiux/",
+      "fullname": "t3_1tqgq32",
+      "title": "Turned 30 today and realised I have only 1 game dev advice",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tqgq32/turned_30_today_and_realised_i_have_only_1_game/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I am making a tycoon game and it is mostly UI driven. I opted for windows 95/98 esthetics since it looks nice and goes well with pixel art style I have chosen for the game world.</p> <p>My game is mostly UI-driven, or in other words, UI is the way player interacts with game world. I have made it a OS looking way with taskbar, widgets and apps that opens their own windows. I went that way because it is familiar to the players and also it is very versatile at showing a lot of information at the same time.</p> <p>I made the prototype and te",
-      "publishedAt": "2026-05-28T08:42:32.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Maybe I wish I had a great comeback success story, but my personal experience is more about resiliency.</p> <p><strong>I turned 30</strong> today and got a little introspective. Maybe for some of you this number will sound scary, but I am in the best period of my life and would not change it for any other.</p> <p>Game dev is hard, but as you can see, I have incrementally improved over a decade. If you check my itch page now, it feels like a completely different creator made it.</p> <p>And yes, 90% of my work is solo development, so I just had to learn everythi",
+      "publishedAt": "2026-05-28T21:14:10.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tpxl9q",
-      "title": "2 Month of Sharing My Game Dev Progress — Results So Far",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tpxl9q/2_month_of_sharing_my_game_dev_progress_results/",
+      "fullname": "t3_1tq4ua7",
+      "title": "Indie Game Joe posted my game's trailer and my wishlists skyrocketed",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tq4ua7/indie_game_joe_posted_my_games_trailer_and_my/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p> <p>I started sharing my game dev journey about 28 days ago on Shorts, Instagram, TikTok, and YouTube.</p> <p>Current numbers:</p> <p>YouTube: 27 subscribers</p> <p>TikTok: 10 followers</p> <p>Instagram: 19 followers</p> <p>I also started posting daily dev GIFs on X, Threads, and Bluesky about 2 months ago:</p> <p>X: 310 followers</p> <p>Bluesky: 144 followers</p> <p>Threads: 127 followers</p> <p>One thing I’ve noticed: posting short daily progress clips/GIFs consistently seems way more important than worrying about “viral” content early on. </p> <",
-      "publishedAt": "2026-05-28T08:37:00.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I want to tell everybody what this guy is doing for indies and give back good karma to him.</p> <p>I don't think I can post an image of my wishlist graph here, but I just got 750 wishlists in more or less 24h. I normally get 25 on average.</p> <p>What I did was simply reply to one of his social posts with my game's trailer and forgot about it. He reposted the trailer the next day and it's having an impact.</p> <p>You might wanna give him a follow and share your game, totally worth trying.</p> <p>I wanted to thank him here too.</p> </div><!-- SC_ON --> &#32; su",
+      "publishedAt": "2026-05-28T14:12:24.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tpasnx",
-      "title": "Fluid simulation in Godot (Navier-Stokes) - detailed explanation",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tpasnx/fluid_simulation_in_godot_navierstokes_detailed/",
+      "fullname": "t3_1tqwtc0",
+      "title": "Good place to find high quality artist for short contributions?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tqwtc0/good_place_to_find_high_quality_artist_for_short/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I've spent some time recently learning how Navier-Stokes fluid simulations work and decided to create a blog post with explanations to help others</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Myzzreal\"> /u/Myzzreal </a> <br/> <span><a href=\"https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tpasnx/fluid_simulation_in_godot_navierstokes_detailed/\">[comments]</a></span>",
-      "publishedAt": "2026-05-27T16:32:01.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Just before I pay for post on a well known job board. Looking for a really high quality 3D artist but the scope is very narrow it would probably take 2 weeks max. With 1 week of 'nearby' support incase anything goes wrong and needs fixing after receiving.</p> <p>I've tried Fiverr, Discord, Reddit. With no offense, the quality is always a challenge. It feels like they've watched a few YouTube tutorials and want to give it a go.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ItsACrunchyNut\"> /u/ItsACrunchyNut </a> <br/> <s",
+      "publishedAt": "2026-05-29T09:47:19.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tpoisb",
-      "title": "Is it normal to feel unsatisfied with the end of your game?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tpoisb/is_it_normal_to_feel_unsatisfied_with_the_end_of/",
+      "fullname": "t3_1tq67em",
+      "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tq67em/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>New dev here, 3-4 years working on a solo game project and nearing the end. </p> <p>It's been difficult to say the least. I hardly do any work on it daily, if any at all. </p> <p>Most of my energy for game dev is spent staring at a wall, trying to piece together the overcomplicated logistics of game elements I've set up for the end of the game, trying to figure out how to convey them to match the story and theme.</p> <p>I took way too long to settle on an ending, and now whenever I think of it, I can't help but feel ashamed and unsatisfied with it. I can't fig",
-      "publishedAt": "2026-05-28T01:03:04.000Z"
+      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tq67em/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/\"> <img src=\"https://external-preview.redd.it/_tBv8tevpJudB46iPW21GYWGj7fnesYTOy5dWkdHh20.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b486edc847fac542c7be376f6fd342223e563d7\" alt=\"How 2004 RuneScape fit a multiplayer RPG into 56k dial-up\" title=\"How 2004 RuneScape fit a multiplayer RPG into 56k dial-up\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This post is a deep dive into the techniques used by Jagex for efficient networking between client and server i",
+      "publishedAt": "2026-05-28T15:02:14.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tqmflk",
+      "title": "ECS/DOD vs. OOP with ECS principles",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tqmflk/ecsdod_vs_oop_with_ecs_principles/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So here's my dilemma;</p> <p>I've been told repeatedly that ECS sounds great, but \"it's a solution in search of a problem\"</p> <p>and that I \"won't know it's needed in the first, or tenth step of development\"</p> <p>That latter statement sounds very wrong for my use case. Without going too far into detail;</p> <p>This is a spiritual successor to the first game I ever bought, which is very thoroughly dead.</p> <p>Vehicle voxels are 1m^3, and may or may not have ai \"crew\" (undecided)</p> <p>All blocks have different features, that being the ability to produce an",
+      "publishedAt": "2026-05-29T01:06:15.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 9
+    "redditPosts": 10
   }
 }
