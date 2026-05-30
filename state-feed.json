@@ -1,24 +1,12 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2321284658": 1779524396829,
     "e7104386-54a6-11f1-beab-47c411d368ed": 1779703965193,
     "tag:soundcloud,2010:tracks/2326602380": 1779703966209,
     "8db85ed2-4efb-11f1-85cb-9f8f730adf2e": 1779789645070
   },
-  "seenArticles": {
-    "https://www.asoundeffect.com/aircon26-is-live/": 1779523951999,
-    "https://www.asoundeffect.com/sale/": 1779524403830,
-    "https://www.asoundeffect.com/shop": 1779524405910,
-    "https://www.asoundeffect.com/mindfulaudio/": 1779524409296
-  },
+  "seenArticles": {},
   "seenRedditPosts": {
-    "t3_1tjqmdd": 1779524427561,
-    "t3_1tkfpxa": 1779524427561,
-    "t3_1tjvs4l": 1779524427561,
-    "t3_1tla68y": 1779524427561,
-    "t3_1tl7g7p": 1779524427561,
-    "t3_1tkatsa": 1779524825624,
     "t3_1tm4dvo": 1779611547453,
     "t3_1tljjgd": 1779611547453,
     "t3_1tlvq6j": 1779611547453,
@@ -66,6 +54,12 @@
     "t3_1tq4ua7": 1780048677788,
     "t3_1tqwtc0": 1780048677788,
     "t3_1tq67em": 1780048677788,
-    "t3_1tqmflk": 1780048677788
+    "t3_1tqmflk": 1780048677788,
+    "t3_1tr7yq7": 1780129858521,
+    "t3_1trc5ag": 1780129859536,
+    "t3_1trpjm1": 1780129859536,
+    "t3_1tr4vy5": 1780129859536,
+    "t3_1trturp": 1780129859536,
+    "t3_1trkoqd": 1780129859536
   }
 }

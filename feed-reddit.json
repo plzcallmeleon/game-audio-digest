@@ -1,119 +1,75 @@
 {
-  "generatedAt": "2026-05-29T09:57:58.289Z",
+  "generatedAt": "2026-05-30T08:31:00.036Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1tqag98",
-      "title": "Mastering Game Music Question",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tqag98/mastering_game_music_question/",
+      "fullname": "t3_1tr7yq7",
+      "title": "Wwise custom plugins, what language?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tr7yq7/wwise_custom_plugins_what_language/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m a very experienced musician with some experience mastering music and I am working on a game soundtrack for the first time. I’m also doing the SFX.</p> <p>I know how I would master the songs for regular non-game listening, but my question relates to how to go about mastering the music for the actual game. </p> <p>My assumption is that I should have less dynamic range for the in-game music than I would for the soundtrack release. I am thinking this because the music will (unless the player alters the levels) be playing quieter than the SFX so that the SFX wi",
-      "publishedAt": "2026-05-28T17:33:31.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So, I've recently thought of learning some coding (one of these: C#, C++, Python) to add some skills to my resume (I'm a sound designer), but then I thought: I like games, why not learning how to create plugins for Wwise?</p> <p>However, I'm not sure of which language I should choose. From what I gathered, C++ seems the obvious one, but I read that Python is also used.</p> <p>Does anybody know what language should be the appropriate one?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/100gamberi\"> /u/100gamberi </a> <br/>",
+      "publishedAt": "2026-05-29T16:50:35.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tq3sv6",
-      "title": "Our game jam entry blew up and we turned it into a full release with 175,000 wishlists. It was also stolen multiple times and turned into AI slop.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tq3sv6/our_game_jam_entry_blew_up_and_we_turned_it_into/",
+      "fullname": "t3_1trc5ag",
+      "title": "We entered Steam Next Fest with 8,000 wishlists, reached 120,000 before launch… and still learned the hard way that wishlists aren’t everything",
+      "url": "https://www.reddit.com/r/gamedev/comments/1trc5ag/we_entered_steam_next_fest_with_8000_wishlists/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I’m the lead artist and one of the creators of <a href=\"https://store.steampowered.com/app/3198890/Scale_the_Depths/\">Scale the Depths</a>, a casual fishing and fish-scaling game that just launched today. We started out as a few friends who formed our team, Glass Gecko Games, back in university, and we’ve added more people to the team since then. </p> <p>We’ve hit the top 350 most wishlisted games on Steam with around 175,000 wishlists right before launch. This post is gonna be a bit of a retrospective on how we got here and how our game gained traction ov",
-      "publishedAt": "2026-05-28T13:33:42.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I’m one of the devs at Pugsy Studios. I wanted to share our Steam journey with our first game, Lost Lullabies, because it taught us a pretty painful lesson:</p> <p><strong>Wishlists are important, but they are definitely not everything.</strong></p> <p>We opened the Steam page for Lost Lullabies in April 2024.</p> <p>At first, it was very small and honestly a bit messy. We started by asking friends, posting in Discord servers, and trying to collect the first 20–30 wishlists in any way we could. We also got a small article on a local gaming",
+      "publishedAt": "2026-05-29T19:04:02.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tqacai",
-      "title": "4 days after launch, real players taught me more than 1.5 years of solo development",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tqacai/4_days_after_launch_real_players_taught_me_more/",
+      "fullname": "t3_1trpjm1",
+      "title": "How do I get in as a junior?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1trpjm1/how_do_i_get_in_as_a_junior/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So....a few days ago I launched my survival incremental game Shoot for the Stars: Journey Home on iOS and Android after ~1.5 years of mostly solo development.It’s an idle/incremental game where you build a base on hostile planets, automate production, defend against raids, then eventually launch a rocket and start a new run while keeping permanent meta-progression from your previous colonies. </p> <p>I expected the usual indie-launch experience:</p> <p>- a few hundred installs</p> <p>- a couple bug reports</p> <p>- maybe some silence after the initial post</p>",
-      "publishedAt": "2026-05-28T17:29:41.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Context: I’ve been looking for Junior/Intermediate lighting/tech artist positions for about a year now and they just do not exist, or I’m not qualified (no shipped AA/AAA). </p> <p>I’m just a bit lost here. I live in a very popular hub (Seattle), and while my portfolio isn’t gonna match a 20 year vet I’ve got some large-scale work. Have had a couple seniors review it and give it the thumbs up. My profile gives a good idea. </p> <p>I’m doing what I can shipping my own project as I have generalist capabilities. While it does seem like it’ll be a success numbers ",
+      "publishedAt": "2026-05-30T04:20:38.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tqf3ri",
-      "title": "Chris Zukowski Has Released a New Steam Wishlist Tool!",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tqf3ri/chris_zukowski_has_released_a_new_steam_wishlist/",
+      "fullname": "t3_1tr4vy5",
+      "title": "I don’t understand how this topology is suitable for games",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tr4vy5/i_dont_understand_how_this_topology_is_suitable/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tqf3ri/chris_zukowski_has_released_a_new_steam_wishlist/\"> <img src=\"https://external-preview.redd.it/L93-eGFtEQpDGJfwWCudpyfbYrmF9kmloKE8v11T2NM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=56887da8ada7d152a7620e151f18c80891e3f170\" alt=\"Chris Zukowski Has Released a New Steam Wishlist Tool!\" title=\"Chris Zukowski Has Released a New Steam Wishlist Tool!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>What do you all think of it? Have you used it?</p> <p>Apologies if this was already posted here.</p> </div><!-- SC_ON",
-      "publishedAt": "2026-05-28T20:17:04.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>Today I saw a post about a model made in Blender for a game, but I’m having trouble understanding the topology. To me, it doesn’t look very suitable for PC games because I see a lot of unnecessary vertices.</p> <p>However, almost everyone in the comments said that the model is suitable for games, so I got confused. Could someone who understands this explain the situation to me?</p> <p>What I’m wondering is this:</p> <p>How can this model be considered game-ready despite having so many vertices and such a complex-looking topology?</p> <p>",
+      "publishedAt": "2026-05-29T15:11:52.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tquwa3",
-      "title": "Best way to learn Godot from zero for an idle/incremental game?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tquwa3/best_way_to_learn_godot_from_zero_for_an/",
+      "fullname": "t3_1trturp",
+      "title": "For NPC dialogue, do you prefer full voice acting, “bla bla” style voices, or something else?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1trturp/for_npc_dialogue_do_you_prefer_full_voice_acting/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I want to learn Godot from scratch, but most beginner tutorials I find are based around platformers or top-down movement.</p> <p>My goal is to make an idle/incremental game, closer to Cookie Clicker: passive income, upgrades, clicking for extra progress, unlocks, prestige, and a lot of UI-driven systems.</p> <p>Would platformer tutorials still be a good way to learn the engine basics, or should I look for something more focused on UI, timers, save systems, and game state?</p> <p>Any recommendations for tutorials, courses, or example projects that would be more",
-      "publishedAt": "2026-05-29T08:00:19.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m working on an indie game and I’m trying to decide how to handle NPC dialogue voices.</p> <p>The dialogue will appear as text on screen, but I’m not sure what kind of audio would feel best.</p> <p>I’m considering these options:</p> <ol> <li>Full voice acting / AI voice</li> </ol> <p>The NPC reads the exact dialogue shown on screen.</p> <p>The problem is that I don’t have the budget to hire real voice actors, so this would probably be AI-generated voice acting.</p> <ol> <li>“Bla bla” / gibberish voice</li> </ol> <p>The NPC doesn’t read the actual sentence, b",
+      "publishedAt": "2026-05-30T08:11:37.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tqgq32",
-      "title": "Turned 30 today and realised I have only 1 game dev advice",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tqgq32/turned_30_today_and_realised_i_have_only_1_game/",
+      "fullname": "t3_1trkoqd",
+      "title": "Coordinated sell and refund campaign on Steam?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1trkoqd/coordinated_sell_and_refund_campaign_on_steam/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Maybe I wish I had a great comeback success story, but my personal experience is more about resiliency.</p> <p><strong>I turned 30</strong> today and got a little introspective. Maybe for some of you this number will sound scary, but I am in the best period of my life and would not change it for any other.</p> <p>Game dev is hard, but as you can see, I have incrementally improved over a decade. If you check my itch page now, it feels like a completely different creator made it.</p> <p>And yes, 90% of my work is solo development, so I just had to learn everythi",
-      "publishedAt": "2026-05-28T21:14:10.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tq4ua7",
-      "title": "Indie Game Joe posted my game's trailer and my wishlists skyrocketed",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tq4ua7/indie_game_joe_posted_my_games_trailer_and_my/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I want to tell everybody what this guy is doing for indies and give back good karma to him.</p> <p>I don't think I can post an image of my wishlist graph here, but I just got 750 wishlists in more or less 24h. I normally get 25 on average.</p> <p>What I did was simply reply to one of his social posts with my game's trailer and forgot about it. He reposted the trailer the next day and it's having an impact.</p> <p>You might wanna give him a follow and share your game, totally worth trying.</p> <p>I wanted to thank him here too.</p> </div><!-- SC_ON --> &#32; su",
-      "publishedAt": "2026-05-28T14:12:24.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tqwtc0",
-      "title": "Good place to find high quality artist for short contributions?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tqwtc0/good_place_to_find_high_quality_artist_for_short/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Just before I pay for post on a well known job board. Looking for a really high quality 3D artist but the scope is very narrow it would probably take 2 weeks max. With 1 week of 'nearby' support incase anything goes wrong and needs fixing after receiving.</p> <p>I've tried Fiverr, Discord, Reddit. With no offense, the quality is always a challenge. It feels like they've watched a few YouTube tutorials and want to give it a go.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ItsACrunchyNut\"> /u/ItsACrunchyNut </a> <br/> <s",
-      "publishedAt": "2026-05-29T09:47:19.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tq67em",
-      "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tq67em/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tq67em/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/\"> <img src=\"https://external-preview.redd.it/_tBv8tevpJudB46iPW21GYWGj7fnesYTOy5dWkdHh20.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b486edc847fac542c7be376f6fd342223e563d7\" alt=\"How 2004 RuneScape fit a multiplayer RPG into 56k dial-up\" title=\"How 2004 RuneScape fit a multiplayer RPG into 56k dial-up\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This post is a deep dive into the techniques used by Jagex for efficient networking between client and server i",
-      "publishedAt": "2026-05-28T15:02:14.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tqmflk",
-      "title": "ECS/DOD vs. OOP with ECS principles",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tqmflk/ecsdod_vs_oop_with_ecs_principles/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So here's my dilemma;</p> <p>I've been told repeatedly that ECS sounds great, but \"it's a solution in search of a problem\"</p> <p>and that I \"won't know it's needed in the first, or tenth step of development\"</p> <p>That latter statement sounds very wrong for my use case. Without going too far into detail;</p> <p>This is a spiritual successor to the first game I ever bought, which is very thoroughly dead.</p> <p>Vehicle voxels are 1m^3, and may or may not have ai \"crew\" (undecided)</p> <p>All blocks have different features, that being the ability to produce an",
-      "publishedAt": "2026-05-29T01:06:15.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm curious if this is a known thing that happens: Two days ago my game had a sudden burst in sales in China, then almost immediately all but one of them asked for a refund. I don't get a lot of sales in China and the game isn't translated into Mandarin. A bit annoying as it brought my refund rate up a few percentage points on it's own.</p> <p>Any idea why this would happen? Could it be a legit thing where it was mentioned somewhere and everyone hated it or it technically fails to run in China for some reason (in other words something for me to fix)? Or is it ",
+      "publishedAt": "2026-05-30T00:30:47.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 10
+    "redditPosts": 6
   }
 }
