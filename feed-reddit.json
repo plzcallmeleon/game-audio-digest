@@ -1,75 +1,119 @@
 {
-  "generatedAt": "2026-05-30T08:31:00.036Z",
+  "generatedAt": "2026-05-31T08:49:50.743Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1tr7yq7",
-      "title": "Wwise custom plugins, what language?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tr7yq7/wwise_custom_plugins_what_language/",
+      "fullname": "t3_1tsl24t",
+      "title": "Middleware",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tsl24t/middleware/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So, I've recently thought of learning some coding (one of these: C#, C++, Python) to add some skills to my resume (I'm a sound designer), but then I thought: I like games, why not learning how to create plugins for Wwise?</p> <p>However, I'm not sure of which language I should choose. From what I gathered, C++ seems the obvious one, but I read that Python is also used.</p> <p>Does anybody know what language should be the appropriate one?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/100gamberi\"> /u/100gamberi </a> <br/>",
-      "publishedAt": "2026-05-29T16:50:35.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>How does one start to practice using middleware? The actual question is 'what software should I use?'</p> <p>I'm a seasoned theatre sound designer and I know my skills will translate well to games I just need to know how to implement them. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/imunfollowingu\"> /u/imunfollowingu </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1tsl24t/middleware/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1tsl24t/middleware/\">[comment",
+      "publishedAt": "2026-05-31T04:23:52.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1tsiva6",
+      "title": "Need help recreating that PPC / heavy energy weapon sound",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tsiva6/need_help_recreating_that_ppc_heavy_energy_weapon/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks.</p> <p>I'm trying to figure out how to make a specific energy weapon sound. Heavy, cold, a bit scary. Think ion storm or the Gluon Cannon from Half-Life.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ukushuka\"> /u/Ukushuka </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1tsiva6/need_help_recreating_that_ppc_heavy_energy_weapon/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1tsiva6/need_help_recreating_that_ppc_heavy_energy_weapon/\">[comments]</a></sp",
+      "publishedAt": "2026-05-31T02:37:51.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1trvovs",
+      "title": "QA in games looking to into Cinematic &amp; Game Sound Design: how should I build a portfolio?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1trvovs/qa_in_games_looking_to_into_cinematic_game_sound/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm from Brazil but living in the Netherlands, I currently work in QA in the games industry, but I’ve always been very interested in audio, sound design, music editing, and creating impactful sounds. I’m now seriously considering transitioning my career toward game audio / cinematic sound design.<br/> What I enjoy the most is creating things that give impact and emotion:</p> <p>cinematic hits, epic sounds, risers, whooshes, background atmospheres, stingers, short intros, logo sounds, reward sounds, and sounds that make a moment feel bigger or more memorable.<b",
+      "publishedAt": "2026-05-30T09:57:22.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1trc5ag",
-      "title": "We entered Steam Next Fest with 8,000 wishlists, reached 120,000 before launch… and still learned the hard way that wishlists aren’t everything",
-      "url": "https://www.reddit.com/r/gamedev/comments/1trc5ag/we_entered_steam_next_fest_with_8000_wishlists/",
+      "fullname": "t3_1ts1h41",
+      "title": "Thinking of quitting Art Career",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ts1h41/thinking_of_quitting_art_career/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I’m one of the devs at Pugsy Studios. I wanted to share our Steam journey with our first game, Lost Lullabies, because it taught us a pretty painful lesson:</p> <p><strong>Wishlists are important, but they are definitely not everything.</strong></p> <p>We opened the Steam page for Lost Lullabies in April 2024.</p> <p>At first, it was very small and honestly a bit messy. We started by asking friends, posting in Discord servers, and trying to collect the first 20–30 wishlists in any way we could. We also got a small article on a local gaming",
-      "publishedAt": "2026-05-29T19:04:02.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Just posting this in hopes that maybe others share my experience, and would love if you can share them</p> <p>I've been a career 2D &amp; 3D Art Generalist and GameDev working for various game studios for 5+ years (eg. Supercell)</p> <p>But since the massive out-flux of investors, and being laid-off 9 months ago due to 'funding' issues and AI</p> <p>I haven't been able to find any new jobs after messaging 500+ studio owners, and applications. Networking doesn't work anymore</p> <p>I've given up on up-skilling, I simply can't see myself keeping up with AI advan",
+      "publishedAt": "2026-05-30T14:29:12.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1trpjm1",
-      "title": "How do I get in as a junior?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1trpjm1/how_do_i_get_in_as_a_junior/",
+      "fullname": "t3_1tsiim5",
+      "title": "How does one start off with game dev?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tsiim5/how_does_one_start_off_with_game_dev/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Context: I’ve been looking for Junior/Intermediate lighting/tech artist positions for about a year now and they just do not exist, or I’m not qualified (no shipped AA/AAA). </p> <p>I’m just a bit lost here. I live in a very popular hub (Seattle), and while my portfolio isn’t gonna match a 20 year vet I’ve got some large-scale work. Have had a couple seniors review it and give it the thumbs up. My profile gives a good idea. </p> <p>I’m doing what I can shipping my own project as I have generalist capabilities. While it does seem like it’ll be a success numbers ",
-      "publishedAt": "2026-05-30T04:20:38.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys! Recently, I’ve considered starting to pursue game development as a hobby, as well as learning how to use C# coding and etc. I’ve been taking an online course to learn the different parts of coding, but I’m aware that game development is mostly hands-on experimentation. Is there any sort of thing I can do to get started on that? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Merciphel\"> /u/Merciphel </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tsiim5/how_does_one_start_off_with_gam",
+      "publishedAt": "2026-05-31T02:20:42.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tr4vy5",
-      "title": "I don’t understand how this topology is suitable for games",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tr4vy5/i_dont_understand_how_this_topology_is_suitable/",
+      "fullname": "t3_1tsonmb",
+      "title": "Game Soundtrack Contract template?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tsonmb/game_soundtrack_contract_template/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>Today I saw a post about a model made in Blender for a game, but I’m having trouble understanding the topology. To me, it doesn’t look very suitable for PC games because I see a lot of unnecessary vertices.</p> <p>However, almost everyone in the comments said that the model is suitable for games, so I got confused. Could someone who understands this explain the situation to me?</p> <p>What I’m wondering is this:</p> <p>How can this model be considered game-ready despite having so many vertices and such a complex-looking topology?</p> <p>",
-      "publishedAt": "2026-05-29T15:11:52.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>whats good everyone,</p> <p>hope you can help me out, someone wanted that I send him a contract for the 5 songs I seem to finished for him so he needs that for his company.</p> <p>I dont have any contract yet made, is there maybe templates I can check out and adjust accordingly?</p> <p>I know this topic is made with a lawyer etc. but maybe there are starting points and templates I can check and might be sufficient as there is not much from my side, just that I keep the rights, can sell the music etc. but he may of course use the music in game, for gameplayvide",
+      "publishedAt": "2026-05-31T07:38:32.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1trturp",
-      "title": "For NPC dialogue, do you prefer full voice acting, “bla bla” style voices, or something else?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1trturp/for_npc_dialogue_do_you_prefer_full_voice_acting/",
+      "fullname": "t3_1ts14qt",
+      "title": "When a $1 Sale Means More Than My Paycheck",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ts14qt/when_a_1_sale_means_more_than_my_paycheck/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m working on an indie game and I’m trying to decide how to handle NPC dialogue voices.</p> <p>The dialogue will appear as text on screen, but I’m not sure what kind of audio would feel best.</p> <p>I’m considering these options:</p> <ol> <li>Full voice acting / AI voice</li> </ol> <p>The NPC reads the exact dialogue shown on screen.</p> <p>The problem is that I don’t have the budget to hire real voice actors, so this would probably be AI-generated voice acting.</p> <ol> <li>“Bla bla” / gibberish voice</li> </ol> <p>The NPC doesn’t read the actual sentence, b",
-      "publishedAt": "2026-05-30T08:11:37.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've spent 14 years in the video game industry. Years invested in building a career, discovering the many facets of the development pipeline, bringing other people's projects to life, and fighting my imposter syndrome. It's not easy to feel legitimate when you come from an artistic background and learned how to program as an autodidact.</p> <p>Over the past months, something has changed.</p> <p>My career matters less. My imposter syndrome is gone. And a desire has been taking up more and more space in my life: sharing what I've learned.</p> <p>Like many before",
+      "publishedAt": "2026-05-30T14:15:17.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1trkoqd",
-      "title": "Coordinated sell and refund campaign on Steam?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1trkoqd/coordinated_sell_and_refund_campaign_on_steam/",
+      "fullname": "t3_1ts8kgd",
+      "title": "Planning to do marriage proposal via a RPG Maker game, how to approach it?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ts8kgd/planning_to_do_marriage_proposal_via_a_rpg_maker/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm curious if this is a known thing that happens: Two days ago my game had a sudden burst in sales in China, then almost immediately all but one of them asked for a refund. I don't get a lot of sales in China and the game isn't translated into Mandarin. A bit annoying as it brought my refund rate up a few percentage points on it's own.</p> <p>Any idea why this would happen? Could it be a legit thing where it was mentioned somewhere and everyone hated it or it technically fails to run in China for some reason (in other words something for me to fix)? Or is it ",
-      "publishedAt": "2026-05-30T00:30:47.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey dear devs and VG enthusiasts,</p> <p>Soon I'll mark my 7th anniversary with my beloved girlfriend, and I would like to propose her via a 1-2 hour-long RPG Maker game. Let me elaborate.</p> <p>7 years ago, a discussion over the Gameboy Advance game called \"Hamtaro: Ham Ham Heartbreak\" started our friendship back then, growing into a relationship shortly after. And I would like to develop a game on RPG Maker, based on the aforementioned Hamtaro title, as it seems to be the most suitable tool for this genre (a narrative adventure with light puzzle &amp; fetch",
+      "publishedAt": "2026-05-30T19:09:33.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1ts4knq",
+      "title": "What's the Password? Is Now Profitable - Budget Breakdown",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ts4knq/whats_the_password_is_now_profitable_budget/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I wrote a blog post about how my latest indie game, <a href=\"https://store.steampowered.com/app/4095490/Whats_the_Password/\">What's the Password?</a>, became profitable in just under 48 hours. You can read it <a href=\"https://blog.trampolinetales.com/whats-the-password-is-now-profitable-budget-breakdown/\">here</a>.</p> <p>Let me know if you have any questions and feel free to AMA!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TrampolineTales\"> /u/TrampolineTales </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev",
+      "publishedAt": "2026-05-30T16:32:46.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tsa3e4",
+      "title": "Where should I start? - Mobile or desktop?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tsa3e4/where_should_i_start_mobile_or_desktop/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. This is Kaupe and I do need a light.</p> <p>I'm a 28 teacher and since October 2025 I've been trying to code my first game.</p> <p>I started on Godot since it had an amazing hype and everyone recommended it. I'm very good at keep informations but not that good with logic that's why I found myself lost in the middle of the process. I used AI to help me understand the engine and some concepts but I found myself as its hostage. I didn't wanna rely my game to a machine. After some time (and some ego swollen), I went to GDevelop. That decision liter",
+      "publishedAt": "2026-05-30T20:09:00.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 6
+    "redditPosts": 10
   }
 }
