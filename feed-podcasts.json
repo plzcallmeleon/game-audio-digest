@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-05-31T08:49:21.077Z",
+  "generatedAt": "2026-06-01T11:39:43.508Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Twenty Thousand Hertz",
+      "title": "John Williams: A Composer’s Life",
+      "guid": "ddc3d658-5abe-11f1-9d4c-b7a93f59c173",
+      "url": "https://www.20k.org/episodes/john-williams-1",
+      "publishedAt": "2026-06-01T10:00:00.000Z",
+      "transcript": "John Williams has written some of the most famous film scores ever, from Star Wars to Indiana Jones to Jurassic Park. But before the blockbuster success, there was a kid growing up around jazz musicians in New York, and a young composer trying to find his voice. In this episode, journalist Tim Greiving takes us through John’s early life and career, from his years as a session player to the meeting with Steven Spielberg that changed everything. Along the way, we unpack the stories behind John’s early iconic scores, including the two-note terror of Jaws, the symphonic world of Star Wars, and the mysteries of Close Encounters of the Third Kind. Twenty Thousand Hertz is produced by ⁠⁠Defacto Sound⁠⁠. Subscribe on ⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠, ⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠, ⁠⁠Facebook⁠⁠, and ⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠. Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠⁠⁠⁠20k.org/plus⁠⁠⁠⁠⁠⁠⁠⁠⁠. If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠⁠. Buy the biography John Williams: A Composer’s Life wherever you get your books. Subscribe to Tim’s Substack Behind the Moon, an exclusive dive behind the scenes of the book. Find out how you can get the iPhone 17 Pro at no cost with an eligible trade in at att.com/iphone, or by visiting an AT&T store. Learn more about your ad choices. Visit megaphone.fm/adchoices"
+    },
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "360 - Nope With Johnnie Burn Re-Podcast Plus Bonus Tuner Mini-interview",
+      "guid": "tag:soundcloud,2010:tracks/2331011198",
+      "url": "https://soundcloud.com/tonebenders-podcast/360-nope-with-johnnie-burn-re",
+      "publishedAt": "2026-06-02T00:00:00.000Z",
+      "transcript": "When Johnnie Burn first came on Tonebenders in 2022, to talk about his sound work on director Jordan Peele's hit film Nope, it was immediately clear that he was going to be one of our favourite guests. He has since been on many more times, but this first interview is a classic. He discusses designing the film's ominous winds, the \"voice\" of Jean Jacket and lots more. As a bonus this episode also features a mini-interview with Johnnie about his latest film, Tuner. ______SPONSORS: Sound Ideas works with partners across the media and creative industries to distribute professional sound libraries, and they’re always looking to grow their collection. If you’ve created your own sound effects library, or are currently developing one, Sound Ideas is interested in acquiring high-quality collections from creators - whether it’s a focused collection or a wide ranging release. They offer a trusted platform with global distribution, professional licensing, metadata support, and a team that understands the craft. If you have a sound effects library and are interested in selling it, Sound Ideas would like to hear from you. For more information, please reach out via: support@sound-ideas.com ________ If you are interested in field recording, you should know about the O-Mini P48 and the brand new O-Mini PIP miniature omni-directional electret microphones. Each one is hand made by Chris Trevino, a practicing field recordist, and a really engaged member of the sound community. He puts a lot of work into making and testing each mic to ensure they live up to his high standards. They are ultra-sonic capable, which makes manipulating your recordings with them a lot of fun. They are also extremely affordable. At $150us for the P48 & $130 for the PIP, they offer a lot of value for a stereo matched pair. Find out more at https://www.chrisatrevino.com/store ________ Tonebenders’ host, Tim Muirhead, will be hosting and moderating a FREE screening of Independence Day to mark the films 30th anniv"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }

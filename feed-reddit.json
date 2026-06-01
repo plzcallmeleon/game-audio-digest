@@ -1,116 +1,116 @@
 {
-  "generatedAt": "2026-05-31T08:49:50.743Z",
+  "generatedAt": "2026-06-01T11:40:08.563Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1tsl24t",
-      "title": "Middleware",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tsl24t/middleware/",
+      "fullname": "t3_1ttosqw",
+      "title": "The /r/GameAudio Community Career Corner June, 2026 - for job seekers, help wanted, new career queries, and evaluation requests",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1ttosqw/the_rgameaudio_community_career_corner_june_2026/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>How does one start to practice using middleware? The actual question is 'what software should I use?'</p> <p>I'm a seasoned theatre sound designer and I know my skills will translate well to games I just need to know how to implement them. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/imunfollowingu\"> /u/imunfollowingu </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1tsl24t/middleware/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1tsl24t/middleware/\">[comment",
-      "publishedAt": "2026-05-31T04:23:52.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>This is the <strong><em>only</em></strong> place in the sub for queries and requests related to;</p> <ul> <li>seeking work</li> <li>seeking help</li> <li>new career advice</li> <li>evaluations of work</li> </ul> <p>If this pertains to your own website, then it goes in comments section of the current <strong>Share Mine</strong> community pinned post</p> <hr/> <p>Some links related to industry jobs</p> <table><thead> <tr> <th align=\"left\">Site / Company</th> <th align=\"left\">URL</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>General/Industry Job Sites<",
+      "publishedAt": "2026-06-01T11:03:45.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1tsiva6",
-      "title": "Need help recreating that PPC / heavy energy weapon sound",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tsiva6/need_help_recreating_that_ppc_heavy_energy_weapon/",
+      "fullname": "t3_1ttopws",
+      "title": "The GameAudio Share Mine June, 2026 - Use this post to link to / discuss your site, works, product, business or anything you created or are affiliated with",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1ttopws/the_gameaudio_share_mine_june_2026_use_this_post/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks.</p> <p>I'm trying to figure out how to make a specific energy weapon sound. Heavy, cold, a bit scary. Think ion storm or the Gluon Cannon from Half-Life.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ukushuka\"> /u/Ukushuka </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1tsiva6/need_help_recreating_that_ppc_heavy_energy_weapon/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1tsiva6/need_help_recreating_that_ppc_heavy_energy_weapon/\">[comments]</a></sp",
-      "publishedAt": "2026-05-31T02:37:51.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><h3>Game Audio related Self-Promotion welcomed in the comments of this post</h3> <p>The comments section of this post is where you can provide info and links pertaining to your site, blog, video, sfx kickstarter or anything else you are affiliated with related to Game Audio. Instead of banning or removing this kind of content outright, this monthly post allows you to get your info out to our readers while keeping our front page free from billboarding. This as an opportunity for you and our readers to have a regular go-to for discussion regarding your latest news/",
+      "publishedAt": "2026-06-01T11:00:25.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1trvovs",
-      "title": "QA in games looking to into Cinematic &amp; Game Sound Design: how should I build a portfolio?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1trvovs/qa_in_games_looking_to_into_cinematic_game_sound/",
+      "fullname": "t3_1tsz4dz",
+      "title": "handling runtime asset layout layout or timeline sync based on audio transients?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tsz4dz/handling_runtime_asset_layout_layout_or_timeline/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm from Brazil but living in the Netherlands, I currently work in QA in the games industry, but I’ve always been very interested in audio, sound design, music editing, and creating impactful sounds. I’m now seriously considering transitioning my career toward game audio / cinematic sound design.<br/> What I enjoy the most is creating things that give impact and emotion:</p> <p>cinematic hits, epic sounds, risers, whooshes, background atmospheres, stingers, short intros, logo sounds, reward sounds, and sounds that make a moment feel bigger or more memorable.<b",
-      "publishedAt": "2026-05-30T09:57:22.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>ngl trying to get real-time gameplay pacing or visual scene layout to lock tightly onto dynamic audio tracks inside unity/unreal is becoming a massive headache for a project workflow i'm building.</p> <p>usually, when bringing a track into the engine or an external timeline tool, getting the visual triggers or clip transitions to hit perfectly in pocket with the sudden drum transients or audio spikes is incredibly tedious to plot out by hand. standard layout engines or built-in timeline curves don't ever seem to respect the precise timing grid of the music fil",
+      "publishedAt": "2026-05-31T15:55:29.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1tsq4lm",
+      "title": "Has anyone successfully left the audio industry after building a long career in it?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tsq4lm/has_anyone_successfully_left_the_audio_industry/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone successfully left the audio industry after building a long career in it?</p> <p>I'm looking for honest advice from people who have left the audio industry after building a real career in it.</p> <p>I'm a film sound editor in my early 30s. I've worked on 50+ films, many of them selected at major festivals. I spent several years working full-time in a post-production house before leaving after a serious burnout. Since then I've been freelancing, but work has become increasingly difficult to find.</p> <p>I'm also based in Albania, which makes things ev",
+      "publishedAt": "2026-05-31T09:03:32.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ts1h41",
-      "title": "Thinking of quitting Art Career",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ts1h41/thinking_of_quitting_art_career/",
+      "fullname": "t3_1ttey8y",
+      "title": "ASGC Unifies Crisis Support For Laid Off Gamers (Mental Health, Homelessness, Financial Aid, Support) In One Resource",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ttey8y/asgc_unifies_crisis_support_for_laid_off_gamers/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Just posting this in hopes that maybe others share my experience, and would love if you can share them</p> <p>I've been a career 2D &amp; 3D Art Generalist and GameDev working for various game studios for 5+ years (eg. Supercell)</p> <p>But since the massive out-flux of investors, and being laid-off 9 months ago due to 'funding' issues and AI</p> <p>I haven't been able to find any new jobs after messaging 500+ studio owners, and applications. Networking doesn't work anymore</p> <p>I've given up on up-skilling, I simply can't see myself keeping up with AI advan",
-      "publishedAt": "2026-05-30T14:29:12.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello devs. When someone is in crisis, “where do I even start?” should not be the hardest part. </p> <p>In response, my community, ASGC (asgc.gg), rebuilt one of our many support resources from the ground up for gamers: <a href=\"https://www.linkedin.com/posts/amirsatvat_when-youre-in-crisis-where-do-i-even-start-share-7467037067592593409-hsDF/\">https://www.linkedin.com/posts/amirsatvat_when-youre-in-crisis-where-do-i-even-start-share-7467037067592593409-hsDF/</a> </p> <p>This now brings mental health, homelessness, financial aid, and support resources into one",
+      "publishedAt": "2026-06-01T02:29:56.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tsiim5",
-      "title": "How does one start off with game dev?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tsiim5/how_does_one_start_off_with_game_dev/",
+      "fullname": "t3_1ttjiu9",
+      "title": "I built a system that scans for new indie game demos every 20 minutes",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ttjiu9/i_built_a_system_that_scans_for_new_indie_game/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys! Recently, I’ve considered starting to pursue game development as a hobby, as well as learning how to use C# coding and etc. I’ve been taking an online course to learn the different parts of coding, but I’m aware that game development is mostly hands-on experimentation. Is there any sort of thing I can do to get started on that? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Merciphel\"> /u/Merciphel </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tsiim5/how_does_one_start_off_with_gam",
-      "publishedAt": "2026-05-31T02:20:42.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I realized something while browsing Steam and itch.io.</p> <p>There are so many demos being released that it's practically impossible to keep up with them all.</p> <p>Not just games that become popular later.</p> <p>I mean genuinely interesting prototypes, horror experiments, game jam projects, and weird ideas that often disappear before most people ever see them.</p> <p>So I started building a project called PlayIndex.</p> <p>It automatically scans multiple sources every 20 minutes, tracks newly released demos, categorizes them, archives them, and builds a se",
+      "publishedAt": "2026-06-01T06:15:06.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tsonmb",
-      "title": "Game Soundtrack Contract template?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tsonmb/game_soundtrack_contract_template/",
+      "fullname": "t3_1tt4ms2",
+      "title": "I need advice for an artist on the correct file format to use please",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tt4ms2/i_need_advice_for_an_artist_on_the_correct_file/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>whats good everyone,</p> <p>hope you can help me out, someone wanted that I send him a contract for the 5 songs I seem to finished for him so he needs that for his company.</p> <p>I dont have any contract yet made, is there maybe templates I can check out and adjust accordingly?</p> <p>I know this topic is made with a lawyer etc. but maybe there are starting points and templates I can check and might be sufficient as there is not much from my side, just that I keep the rights, can sell the music etc. but he may of course use the music in game, for gameplayvide",
-      "publishedAt": "2026-05-31T07:38:32.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>This is the most naive way I could ask for advice but just dabbling my toes in gamedev in Godot after being a professional visual artist (illustrator, painter, 3d modelling). My issue is I don't have software to create vector graphics I almost exclusively use Photoshop, I've tried alternatives but this is just my cleanest best work. </p> <p>Now, having raster graphics - how exactly does that work for 2d games that scale resolution? Do I need to provide assets in several scales? Would learning to create svgs in illustrator solve this problem? </p> <p>Im eager t",
+      "publishedAt": "2026-05-31T19:19:02.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ts14qt",
-      "title": "When a $1 Sale Means More Than My Paycheck",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ts14qt/when_a_1_sale_means_more_than_my_paycheck/",
+      "fullname": "t3_1tt9v7z",
+      "title": "How to get into game modding?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tt9v7z/how_to_get_into_game_modding/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've spent 14 years in the video game industry. Years invested in building a career, discovering the many facets of the development pipeline, bringing other people's projects to life, and fighting my imposter syndrome. It's not easy to feel legitimate when you come from an artistic background and learned how to program as an autodidact.</p> <p>Over the past months, something has changed.</p> <p>My career matters less. My imposter syndrome is gone. And a desire has been taking up more and more space in my life: sharing what I've learned.</p> <p>Like many before",
-      "publishedAt": "2026-05-30T14:15:17.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys!</p> <p>So I've recently gotten into game dev coding sorta stuff and wanna get into modding but after googling for ages I couldn't find anything that really explained how it works. I have a bit of JavaScript and C# coding experience although not great. But I'm trying to expand on my coding knowledge and want to get into making game mods and stuff. I'm also into 3D modeling and have played about with Maya although I'm planning on moving to blender. I have seen that asset modding is a thing which sounds interesting and then coding those assets whatever t",
+      "publishedAt": "2026-05-31T22:43:07.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ts8kgd",
-      "title": "Planning to do marriage proposal via a RPG Maker game, how to approach it?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ts8kgd/planning_to_do_marriage_proposal_via_a_rpg_maker/",
+      "fullname": "t3_1ttkozj",
+      "title": "From zero to demo, how did I worked on my first commercial project",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ttkozj/from_zero_to_demo_how_did_i_worked_on_my_first/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey dear devs and VG enthusiasts,</p> <p>Soon I'll mark my 7th anniversary with my beloved girlfriend, and I would like to propose her via a 1-2 hour-long RPG Maker game. Let me elaborate.</p> <p>7 years ago, a discussion over the Gameboy Advance game called \"Hamtaro: Ham Ham Heartbreak\" started our friendship back then, growing into a relationship shortly after. And I would like to develop a game on RPG Maker, based on the aforementioned Hamtaro title, as it seems to be the most suitable tool for this genre (a narrative adventure with light puzzle &amp; fetch",
-      "publishedAt": "2026-05-30T19:09:33.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>It's been 10 months since I started developing my first game, and we have successfully launched our playable demo today.</p> <p>I just wanted to share with you how did I managed to work on this project without investing any money into it, and without being completely burnt by it. It's my personal experience and in some point I have privileges that are not shared by everyone, so I'm not saying that it's easy or that everyone can follow my path, but I'm thinking that it might inspire some of you.</p> <p>I booked myself time I think the most d",
+      "publishedAt": "2026-06-01T07:19:44.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ts4knq",
-      "title": "What's the Password? Is Now Profitable - Budget Breakdown",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ts4knq/whats_the_password_is_now_profitable_budget/",
+      "fullname": "t3_1ttnr6y",
+      "title": "Do anybody intersted in helping me out with godot conversion (or pointing me to some good resources)of my deterministic 4x sim engine?(scene setup and ui ect)",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ttnr6y/do_anybody_intersted_in_helping_me_out_with_godot/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I wrote a blog post about how my latest indie game, <a href=\"https://store.steampowered.com/app/4095490/Whats_the_Password/\">What's the Password?</a>, became profitable in just under 48 hours. You can read it <a href=\"https://blog.trampolinetales.com/whats-the-password-is-now-profitable-budget-breakdown/\">here</a>.</p> <p>Let me know if you have any questions and feel free to AMA!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TrampolineTales\"> /u/TrampolineTales </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev",
-      "publishedAt": "2026-05-30T16:32:46.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tsa3e4",
-      "title": "Where should I start? - Mobile or desktop?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tsa3e4/where_should_i_start_mobile_or_desktop/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. This is Kaupe and I do need a light.</p> <p>I'm a 28 teacher and since October 2025 I've been trying to code my first game.</p> <p>I started on Godot since it had an amazing hype and everyone recommended it. I'm very good at keep informations but not that good with logic that's why I found myself lost in the middle of the process. I used AI to help me understand the engine and some concepts but I found myself as its hostage. I didn't wanna rely my game to a machine. After some time (and some ego swollen), I went to GDevelop. That decision liter",
-      "publishedAt": "2026-05-30T20:09:00.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am at the stage of most of the systems are done and i can think about adding godot support for the engine. Its pure c# so no unity ref in <a href=\"http://simlayer.To\">simlayer.To</a> be frank i am complet noob with godot, and i could use some help(advice,gotchas,any good learning about engine level and gdscript ect )for godot addon ui,scene setup ect. I am also not sure what way to go about the language C# i kow very well, gdscript 0 experience. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ShapeApprehensive937\"> /u/",
+      "publishedAt": "2026-06-01T10:11:49.000Z"
     }
   ],
   "stats": {
