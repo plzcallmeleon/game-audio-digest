@@ -1,119 +1,42 @@
 {
-  "generatedAt": "2026-06-01T11:40:08.563Z",
+  "generatedAt": "2026-06-02T10:28:24.888Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1ttosqw",
-      "title": "The /r/GameAudio Community Career Corner June, 2026 - for job seekers, help wanted, new career queries, and evaluation requests",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1ttosqw/the_rgameaudio_community_career_corner_june_2026/",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tuj7ut",
+      "title": "First time joining a game jam, what I learned",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tuj7ut/first_time_joining_a_game_jam_what_i_learned/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>This is the <strong><em>only</em></strong> place in the sub for queries and requests related to;</p> <ul> <li>seeking work</li> <li>seeking help</li> <li>new career advice</li> <li>evaluations of work</li> </ul> <p>If this pertains to your own website, then it goes in comments section of the current <strong>Share Mine</strong> community pinned post</p> <hr/> <p>Some links related to industry jobs</p> <table><thead> <tr> <th align=\"left\">Site / Company</th> <th align=\"left\">URL</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>General/Industry Job Sites<",
-      "publishedAt": "2026-06-01T11:03:45.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1ttopws",
-      "title": "The GameAudio Share Mine June, 2026 - Use this post to link to / discuss your site, works, product, business or anything you created or are affiliated with",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1ttopws/the_gameaudio_share_mine_june_2026_use_this_post/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><h3>Game Audio related Self-Promotion welcomed in the comments of this post</h3> <p>The comments section of this post is where you can provide info and links pertaining to your site, blog, video, sfx kickstarter or anything else you are affiliated with related to Game Audio. Instead of banning or removing this kind of content outright, this monthly post allows you to get your info out to our readers while keeping our front page free from billboarding. This as an opportunity for you and our readers to have a regular go-to for discussion regarding your latest news/",
-      "publishedAt": "2026-06-01T11:00:25.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1tsz4dz",
-      "title": "handling runtime asset layout layout or timeline sync based on audio transients?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tsz4dz/handling_runtime_asset_layout_layout_or_timeline/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>ngl trying to get real-time gameplay pacing or visual scene layout to lock tightly onto dynamic audio tracks inside unity/unreal is becoming a massive headache for a project workflow i'm building.</p> <p>usually, when bringing a track into the engine or an external timeline tool, getting the visual triggers or clip transitions to hit perfectly in pocket with the sudden drum transients or audio spikes is incredibly tedious to plot out by hand. standard layout engines or built-in timeline curves don't ever seem to respect the precise timing grid of the music fil",
-      "publishedAt": "2026-05-31T15:55:29.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1tsq4lm",
-      "title": "Has anyone successfully left the audio industry after building a long career in it?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tsq4lm/has_anyone_successfully_left_the_audio_industry/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone successfully left the audio industry after building a long career in it?</p> <p>I'm looking for honest advice from people who have left the audio industry after building a real career in it.</p> <p>I'm a film sound editor in my early 30s. I've worked on 50+ films, many of them selected at major festivals. I spent several years working full-time in a post-production house before leaving after a serious burnout. Since then I've been freelancing, but work has become increasingly difficult to find.</p> <p>I'm also based in Albania, which makes things ev",
-      "publishedAt": "2026-05-31T09:03:32.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I started learning game dev (again) almost a month ago now. I followed the godot tutorial, started working on a platformer. Then I saw a game jam that I felt I could actually participate in. <a href=\"https://itch.io/jam/goedware-game-jam-boss-battle-edition\">GoedWare game jam boss battle edition</a>. The theme was \"you're the boss\" and instantly an idea hit me- what if you played as Donkey Kong trying to kill Mario? So I started work on it. Over the course of a week, I learned a lot of new functions in godot like how to make ai pathfinding. And I learned the p",
+      "publishedAt": "2026-06-02T07:04:35.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ttey8y",
-      "title": "ASGC Unifies Crisis Support For Laid Off Gamers (Mental Health, Homelessness, Financial Aid, Support) In One Resource",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ttey8y/asgc_unifies_crisis_support_for_laid_off_gamers/",
+      "fullname": "t3_1tuml21",
+      "title": "Cheap human art versus AI art",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tuml21/cheap_human_art_versus_ai_art/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello devs. When someone is in crisis, “where do I even start?” should not be the hardest part. </p> <p>In response, my community, ASGC (asgc.gg), rebuilt one of our many support resources from the ground up for gamers: <a href=\"https://www.linkedin.com/posts/amirsatvat_when-youre-in-crisis-where-do-i-even-start-share-7467037067592593409-hsDF/\">https://www.linkedin.com/posts/amirsatvat_when-youre-in-crisis-where-do-i-even-start-share-7467037067592593409-hsDF/</a> </p> <p>This now brings mental health, homelessness, financial aid, and support resources into one",
-      "publishedAt": "2026-06-01T02:29:56.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm making a deckbuilder and the card art is really important. I want to go for a gwent type of card art, which would fit well with the game. However, I have 300 cards and I looked it up, apparantly a single card costs like $500, which would mean $150k for everything. This is unaffordable for me, I can't spend $150k on something I don't even know will make a single penny. </p> <p>As a result I can either make the art style cheap instead, but that would make the game less fun if you enjoy looking at card art, or I can go with AI art but that obviously also has ",
+      "publishedAt": "2026-06-02T10:13:41.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ttjiu9",
-      "title": "I built a system that scans for new indie game demos every 20 minutes",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ttjiu9/i_built_a_system_that_scans_for_new_indie_game/",
+      "fullname": "t3_1tu4lm8",
+      "title": "Sourcing Sound Effects",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tu4lm8/sourcing_sound_effects/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I realized something while browsing Steam and itch.io.</p> <p>There are so many demos being released that it's practically impossible to keep up with them all.</p> <p>Not just games that become popular later.</p> <p>I mean genuinely interesting prototypes, horror experiments, game jam projects, and weird ideas that often disappear before most people ever see them.</p> <p>So I started building a project called PlayIndex.</p> <p>It automatically scans multiple sources every 20 minutes, tracks newly released demos, categorizes them, archives them, and builds a se",
-      "publishedAt": "2026-06-01T06:15:06.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tt4ms2",
-      "title": "I need advice for an artist on the correct file format to use please",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tt4ms2/i_need_advice_for_an_artist_on_the_correct_file/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>This is the most naive way I could ask for advice but just dabbling my toes in gamedev in Godot after being a professional visual artist (illustrator, painter, 3d modelling). My issue is I don't have software to create vector graphics I almost exclusively use Photoshop, I've tried alternatives but this is just my cleanest best work. </p> <p>Now, having raster graphics - how exactly does that work for 2d games that scale resolution? Do I need to provide assets in several scales? Would learning to create svgs in illustrator solve this problem? </p> <p>Im eager t",
-      "publishedAt": "2026-05-31T19:19:02.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tt9v7z",
-      "title": "How to get into game modding?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tt9v7z/how_to_get_into_game_modding/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys!</p> <p>So I've recently gotten into game dev coding sorta stuff and wanna get into modding but after googling for ages I couldn't find anything that really explained how it works. I have a bit of JavaScript and C# coding experience although not great. But I'm trying to expand on my coding knowledge and want to get into making game mods and stuff. I'm also into 3D modeling and have played about with Maya although I'm planning on moving to blender. I have seen that asset modding is a thing which sounds interesting and then coding those assets whatever t",
-      "publishedAt": "2026-05-31T22:43:07.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1ttkozj",
-      "title": "From zero to demo, how did I worked on my first commercial project",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ttkozj/from_zero_to_demo_how_did_i_worked_on_my_first/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>It's been 10 months since I started developing my first game, and we have successfully launched our playable demo today.</p> <p>I just wanted to share with you how did I managed to work on this project without investing any money into it, and without being completely burnt by it. It's my personal experience and in some point I have privileges that are not shared by everyone, so I'm not saying that it's easy or that everyone can follow my path, but I'm thinking that it might inspire some of you.</p> <p>I booked myself time I think the most d",
-      "publishedAt": "2026-06-01T07:19:44.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1ttnr6y",
-      "title": "Do anybody intersted in helping me out with godot conversion (or pointing me to some good resources)of my deterministic 4x sim engine?(scene setup and ui ect)",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ttnr6y/do_anybody_intersted_in_helping_me_out_with_godot/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am at the stage of most of the systems are done and i can think about adding godot support for the engine. Its pure c# so no unity ref in <a href=\"http://simlayer.To\">simlayer.To</a> be frank i am complet noob with godot, and i could use some help(advice,gotchas,any good learning about engine level and gdscript ect )for godot addon ui,scene setup ect. I am also not sure what way to go about the language C# i kow very well, gdscript 0 experience. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ShapeApprehensive937\"> /u/",
-      "publishedAt": "2026-06-01T10:11:49.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, would anyone know where to find some decent quality sound effects for games?</p> <p>I often find some sound effect sites (some for games specifically; some in general), for things like polish; gacha; building; combat; UI; ambience &amp; music, etc, but some really lack that \"game-y\" feel &amp; vibe to it.</p> <p>Would anyone know any source to a good site? Free or Paid</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Environmental-Arm188\"> /u/Environmental-Arm188 </a> <br/> <span><a href=\"https://www.reddit.co",
+      "publishedAt": "2026-06-01T20:24:00.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 10
+    "redditPosts": 3
   }
 }

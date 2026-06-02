@@ -1,22 +1,18 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "8db85ed2-4efb-11f1-85cb-9f8f730adf2e": 1779789645070,
     "ddc3d658-5abe-11f1-9d4c-b7a93f59c173": 1780313982603,
-    "tag:soundcloud,2010:tracks/2331011198": 1780313983507
+    "tag:soundcloud,2010:tracks/2331011198": 1780313983507,
+    "e7104386-54a6-11f1-beab-47c411d368ed": 1780396081227,
+    "tag:soundcloud,2010:tracks/2326602380": 1780396082117
   },
   "seenArticles": {
     "https://www.asoundeffect.com/sale/": 1780217366765,
     "https://www.asoundeffect.com/shop": 1780217368840,
-    "https://www.asoundeffect.com/mindfulaudio/": 1780217371818
+    "https://www.asoundeffect.com/mindfulaudio/": 1780217371818,
+    "https://www.asoundeffect.com/28-new-sound-effects-libraries-mechs-robots-howler-monkeys/": 1780396086167
   },
   "seenRedditPosts": {
-    "t3_1tn7tk9": 1779789665855,
-    "t3_1tnal82": 1779789665855,
-    "t3_1tnyl6y": 1779789666859,
-    "t3_1tnafe9": 1779789666859,
-    "t3_1to0o54": 1779789666859,
-    "t3_1tnm2c1": 1779789666859,
     "t3_1to5xxl": 1779875796264,
     "t3_1toty7b": 1779875797287,
     "t3_1tp0a1b": 1779875797287,
@@ -68,6 +64,9 @@
     "t3_1tt4ms2": 1780314008063,
     "t3_1tt9v7z": 1780314008063,
     "t3_1ttkozj": 1780314008063,
-    "t3_1ttnr6y": 1780314008063
+    "t3_1ttnr6y": 1780314008063,
+    "t3_1tuj7ut": 1780396104388,
+    "t3_1tuml21": 1780396104388,
+    "t3_1tu4lm8": 1780396104388
   }
 }
