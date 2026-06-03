@@ -1,42 +1,64 @@
 {
-  "generatedAt": "2026-06-02T10:28:24.888Z",
+  "generatedAt": "2026-06-03T11:04:16.887Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tuj7ut",
-      "title": "First time joining a game jam, what I learned",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tuj7ut/first_time_joining_a_game_jam_what_i_learned/",
+      "fullname": "t3_1tvgw3p",
+      "title": "Looking for mentorship",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tvgw3p/looking_for_mentorship/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I started learning game dev (again) almost a month ago now. I followed the godot tutorial, started working on a platformer. Then I saw a game jam that I felt I could actually participate in. <a href=\"https://itch.io/jam/goedware-game-jam-boss-battle-edition\">GoedWare game jam boss battle edition</a>. The theme was \"you're the boss\" and instantly an idea hit me- what if you played as Donkey Kong trying to kill Mario? So I started work on it. Over the course of a week, I learned a lot of new functions in godot like how to make ai pathfinding. And I learned the p",
-      "publishedAt": "2026-06-02T07:04:35.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Not sure if this is okay to post here, but I’m an aspiring game UI artist/designer currently looking for mentorship. I’m trying to learn how UI is done at an industry level and gain real experience working on game-related projects.</p> <p>I was recently laid off from my graphic design role, and I’m using this time to seriously pivot into the game industry.</p> <p>I have some experience with Godot, a background in graphic design and drawing, and I’ve been self-learning UX/UI for a while now. I’m mainly looking for guidance or opportunities to learn from someone",
+      "publishedAt": "2026-06-03T06:23:15.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tuml21",
-      "title": "Cheap human art versus AI art",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tuml21/cheap_human_art_versus_ai_art/",
+      "fullname": "t3_1tvb8ka",
+      "title": "Poster Textures",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tvb8ka/poster_textures/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm making a deckbuilder and the card art is really important. I want to go for a gwent type of card art, which would fit well with the game. However, I have 300 cards and I looked it up, apparantly a single card costs like $500, which would mean $150k for everything. This is unaffordable for me, I can't spend $150k on something I don't even know will make a single penny. </p> <p>As a result I can either make the art style cheap instead, but that would make the game less fun if you enjoy looking at card art, or I can go with AI art but that obviously also has ",
-      "publishedAt": "2026-06-02T10:13:41.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Does anyone have any good resource libraries for things like random posters for set dressing? I can pretty easily find movie posters and what not, I am talking about like maintenance posters, signs, anything else to fill empty wall space in public areas. Something like a miscellaneous library of stuff like this.</p> <p>Thank you in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Old-Fennel930\"> /u/Old-Fennel930 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tvb8ka/poster_textures/\">[link]</a",
+      "publishedAt": "2026-06-03T01:54:01.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tu4lm8",
-      "title": "Sourcing Sound Effects",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tu4lm8/sourcing_sound_effects/",
+      "fullname": "t3_1tv1ov8",
+      "title": "What's the most unexpected thing players have built with your mechanics?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tv1ov8/whats_the_most_unexpected_thing_players_have/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, would anyone know where to find some decent quality sound effects for games?</p> <p>I often find some sound effect sites (some for games specifically; some in general), for things like polish; gacha; building; combat; UI; ambience &amp; music, etc, but some really lack that \"game-y\" feel &amp; vibe to it.</p> <p>Would anyone know any source to a good site? Free or Paid</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Environmental-Arm188\"> /u/Environmental-Arm188 </a> <br/> <span><a href=\"https://www.reddit.co",
-      "publishedAt": "2026-06-01T20:24:00.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>A player asked me to add \"Conditional Zones\" to my rocket game's level editor.</p> <p>I added them because they seemed useful for creating more advanced rocket challenges.</p> <p>A few days later, the same player sent me a level that recreated Pong.</p> <p>Not a harder level. Not a puzzle. Pong.</p> <p>It reminded me that players often see tools differently than developers do.</p> <p>What's the most unexpected thing players have built or done with a mechanic you originally designed for something else?</p> <p>Level in question:<br/> <a href=\"https://www.reddit.",
+      "publishedAt": "2026-06-02T19:36:40.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tvlqhz",
+      "title": "I interviewed The Game Bakers's devs: prototypes, wireframes and dev insights",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tvlqhz/i_interviewed_the_game_bakerss_devs_prototypes/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tvlqhz/i_interviewed_the_game_bakerss_devs_prototypes/\"> <img src=\"https://external-preview.redd.it/tB4jRG2rfj5xpQ-xbEzqfzl0WPzjJphvU8BmjvyCfrw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7ecf0709a2bac343815c38c8c24113f444cfa04d\" alt=\"I interviewed The Game Bakers's devs: prototypes, wireframes and dev insights\" title=\"I interviewed The Game Bakers's devs: prototypes, wireframes and dev insights\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong><em>⚠️ Audio FR / EN subtitles (manual)</em></strong></p> <p>Ever",
+      "publishedAt": "2026-06-03T10:51:38.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tvckv9",
+      "title": "SPS: spell programming system",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tvckv9/sps_spell_programming_system/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>The original idea was to run a shop where you craft both potions and spells for customers. As development has gone on, the alchemy side has grown a lot bigger than I originally planned. Between ingredient refinement, brewing, aging, potency systems, customer orders, and faction mechanics, the potion system has kind of taken over the project.</p> <p>The original spell system was actually one of the features I was most excited about. The plan was to create a spellcrafting system that worked almost like a pseudo programming language. Ingredients and potion effect",
+      "publishedAt": "2026-06-03T02:51:03.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 3
+    "redditPosts": 5
   }
 }
