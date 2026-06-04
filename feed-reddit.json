@@ -1,64 +1,108 @@
 {
-  "generatedAt": "2026-06-03T11:04:16.887Z",
+  "generatedAt": "2026-06-04T09:59:35.417Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tvgw3p",
-      "title": "Looking for mentorship",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tvgw3p/looking_for_mentorship/",
+      "fullname": "t3_1tvtyhk",
+      "title": "I hate that so many youtube videos have titles that lead you to think it’s an interesting analysis of game mechanics of a particular game, but then they just give you a braindead retelling of the game’s progression.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tvtyhk/i_hate_that_so_many_youtube_videos_have_titles/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Not sure if this is okay to post here, but I’m an aspiring game UI artist/designer currently looking for mentorship. I’m trying to learn how UI is done at an industry level and gain real experience working on game-related projects.</p> <p>I was recently laid off from my graphic design role, and I’m using this time to seriously pivot into the game industry.</p> <p>I have some experience with Godot, a background in graphic design and drawing, and I’ve been self-learning UX/UI for a while now. I’m mainly looking for guidance or opportunities to learn from someone",
-      "publishedAt": "2026-06-03T06:23:15.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m sure other people have noticed this. Every once in a while a video actually does go into interesting analysis, but holy crap it’s mostly slop.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/adimeistencents\"> /u/adimeistencents </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tvtyhk/i_hate_that_so_many_youtube_videos_have_titles/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tvtyhk/i_hate_that_so_many_youtube_videos_have_titles/\">[comments]</a></span>",
+      "publishedAt": "2026-06-03T16:07:38.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tvb8ka",
-      "title": "Poster Textures",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tvb8ka/poster_textures/",
+      "fullname": "t3_1twejkt",
+      "title": "Postmortem: I solo-developed an exaggerated Game Boy RPG (Starlight Legacy)",
+      "url": "https://www.reddit.com/r/gamedev/comments/1twejkt/postmortem_i_solodeveloped_an_exaggerated_game/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Does anyone have any good resource libraries for things like random posters for set dressing? I can pretty easily find movie posters and what not, I am talking about like maintenance posters, signs, anything else to fill empty wall space in public areas. Something like a miscellaneous library of stuff like this.</p> <p>Thank you in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Old-Fennel930\"> /u/Old-Fennel930 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tvb8ka/poster_textures/\">[link]</a",
-      "publishedAt": "2026-06-03T01:54:01.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi there, I’m Decafesoft, and I’m a Tokyo-based solo developer with a mixed Japan and US background, and in February 2025 I released Starlight Legacy for PC and iOS, which later had a console release in May 2025.</p> <p>A quick background on me, I am a (half) Japanese “returnee” that was born in Japan, moved to the US at age 6, and moved back to Japan at age 24, and I am currently 31 at the time of writing this. I hesitate to identify as a “Japanese developer” because I had a western upbringing, so obviously I think and talk like a westerner. I’ll leave it up ",
+      "publishedAt": "2026-06-04T05:42:59.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tv1ov8",
-      "title": "What's the most unexpected thing players have built with your mechanics?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tv1ov8/whats_the_most_unexpected_thing_players_have/",
+      "fullname": "t3_1tvya3b",
+      "title": "after 3+ years of development, we came to a terrifying realization: Battle Royales need a lot of players",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tvya3b/after_3_years_of_development_we_came_to_a/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>A player asked me to add \"Conditional Zones\" to my rocket game's level editor.</p> <p>I added them because they seemed useful for creating more advanced rocket challenges.</p> <p>A few days later, the same player sent me a level that recreated Pong.</p> <p>Not a harder level. Not a puzzle. Pong.</p> <p>It reminded me that players often see tools differently than developers do.</p> <p>What's the most unexpected thing players have built or done with a mechanic you originally designed for something else?</p> <p>Level in question:<br/> <a href=\"https://www.reddit.",
-      "publishedAt": "2026-06-02T19:36:40.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>our team recently made the difficult decision to stop developing the battle royale mode in our game <a href=\"https://store.steampowered.com/app/2379350/Scramble_Knights_Online/\">Scramble Knights</a> after almost 3 years of work.</p> <p>we had over 26k+ players on steam join our playtests and currently sitting on 30k WL. feedback was strong, and for a long time we genuinely believed we could make it work (smoking dank hopium)</p> <p>years ago when we started, the dream was simple: build a massive online zelda-inspired BR world. imagine a huge hyrule with 64 lin",
+      "publishedAt": "2026-06-03T18:30:48.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tvlqhz",
-      "title": "I interviewed The Game Bakers's devs: prototypes, wireframes and dev insights",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tvlqhz/i_interviewed_the_game_bakerss_devs_prototypes/",
+      "fullname": "t3_1twb8qb",
+      "title": "is it worth finding someone else to help fill in for things I can't do or should I just suck it up and try doing it myself?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1twb8qb/is_it_worth_finding_someone_else_to_help_fill_in/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tvlqhz/i_interviewed_the_game_bakerss_devs_prototypes/\"> <img src=\"https://external-preview.redd.it/tB4jRG2rfj5xpQ-xbEzqfzl0WPzjJphvU8BmjvyCfrw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7ecf0709a2bac343815c38c8c24113f444cfa04d\" alt=\"I interviewed The Game Bakers's devs: prototypes, wireframes and dev insights\" title=\"I interviewed The Game Bakers's devs: prototypes, wireframes and dev insights\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong><em>⚠️ Audio FR / EN subtitles (manual)</em></strong></p> <p>Ever",
-      "publishedAt": "2026-06-03T10:51:38.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I mainly say this with my biggest project in mind. I have 0 experience with game development so of course I will not start with my most ambitious piece in mind, but this question first came to me when I was thinking about that ambitious piece. And I'm now thinking that I should also consider this in smaller projects.</p> <p>I don't know a lick of coding. At most, I used Scratch and made a black square that can jump and move around and not walk through walls (barely successful). My animation skills are awful, and at most I can draw a concept sketch of a charact",
+      "publishedAt": "2026-06-04T03:01:08.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tvckv9",
-      "title": "SPS: spell programming system",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tvckv9/sps_spell_programming_system/",
+      "fullname": "t3_1tw5tui",
+      "title": "Struggles and questions about how to survive developing games, and how to best approach gaining a community.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tw5tui/struggles_and_questions_about_how_to_survive/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>The original idea was to run a shop where you craft both potions and spells for customers. As development has gone on, the alchemy side has grown a lot bigger than I originally planned. Between ingredient refinement, brewing, aging, potency systems, customer orders, and faction mechanics, the potion system has kind of taken over the project.</p> <p>The original spell system was actually one of the features I was most excited about. The plan was to create a spellcrafting system that worked almost like a pseudo programming language. Ingredients and potion effect",
-      "publishedAt": "2026-06-03T02:51:03.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>A bit about me because it might be relevant, I've worked in AAA studios for the past 10 years, and was laid off late last year. I've been making small prototypes and games for fun in my own time for the better part of these 10 years, but without any released products or expectations, it was mostly to learn to code (I'm a Senior Animator).</p> <p>Since then, I decided to give solo dev'ing a shot. Within 4 months I released a very small scoped narrative game on Steam (~1h long), and it was mostly to learn the ropes. Setting up a Steam page, finding a developer n",
+      "publishedAt": "2026-06-03T23:05:15.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tvzw09",
+      "title": "Leave yourself a map. Even if you don’t think you need one.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tvzw09/leave_yourself_a_map_even_if_you_dont_think_you/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Did a major reworking of a core system and it’s finally good. I’m working within my own engine. Needed to update the content publishing pipeline to allow campaigns to be version updated and synced rather than read only. </p> <p>Absolute nightmare. I’m using Firebase and mostly local rules, but my code has spread a bit wide so getting all the parts to agree with each other is rough work. </p> <p>Everything’s working now and it’s fantastic but this is your reminder to document an outline of your code structure somewhere and remember to update that as it grows. I",
+      "publishedAt": "2026-06-03T19:26:08.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tw0u9d",
+      "title": "Bezi Mega Jam: I asked what game jam prizes devs wanted. Here’s what I managed to pull together",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tw0u9d/bezi_mega_jam_i_asked_what_game_jam_prizes_devs/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tw0u9d/bezi_mega_jam_i_asked_what_game_jam_prizes_devs/\"> <img src=\"https://external-preview.redd.it/LVaoWKDjIGMxkMXZ5pjn7Z-ryH1v3fvrSnC53s3d9Aw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d36fcb36fd5b9ca32b45695af5085b332bc76b5\" alt=\"Bezi Mega Jam: I asked what game jam prizes devs wanted. Here’s what I managed to pull together\" title=\"Bezi Mega Jam: I asked what game jam prizes devs wanted. Here’s what I managed to pull together\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A little while back, I made a post as",
+      "publishedAt": "2026-06-03T19:59:47.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tvqx7v",
+      "title": "Good Ending: I found a job and I just dropped the release trailer for my game",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tvqx7v/good_ending_i_found_a_job_and_i_just_dropped_the/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>For a long time I was stuck in the classic loop of sending CVs, refreshing LinkedIn, waiting for replies that never came, and trying not to go insane in the process.</p> <p>So instead of sitting around frustrated, I kept putting my energy into my game, <a href=\"https://store.steampowered.com/app/3334100/Shippin/\">Shippin</a>.</p> <p>While looking for work I kept learning new stuff, improving the game little by little, posting progress online, talking to people, sending messages to recruiters, and just trying to stay consistent even when it felt pointless.</p> ",
+      "publishedAt": "2026-06-03T14:24:45.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1twgoyt",
+      "title": "Wishlist count vanished and is now zero on steam",
+      "url": "https://www.reddit.com/r/gamedev/comments/1twgoyt/wishlist_count_vanished_and_is_now_zero_on_steam/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>as i write this post steam is currently reporting zero lifetime wishlist for our app <strong>SaveSync</strong> .. with this post i aim to understand weather this a bug being faced by everyone or just us meanwhile will keep you posted.. if i hear anything back from steam support</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SaveSyncGames\"> /u/SaveSyncGames </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1twgoyt/wishlist_count_vanished_and_is_now_zero_on_steam/\">[link]</a></span> &#32; <span><a href=\"h",
+      "publishedAt": "2026-06-04T07:41:49.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 5
+    "redditPosts": 9
   }
 }
