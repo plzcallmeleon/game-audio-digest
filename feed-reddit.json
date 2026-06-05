@@ -1,108 +1,86 @@
 {
-  "generatedAt": "2026-06-04T09:59:35.417Z",
+  "generatedAt": "2026-06-05T09:55:42.789Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tvtyhk",
-      "title": "I hate that so many youtube videos have titles that lead you to think it’s an interesting analysis of game mechanics of a particular game, but then they just give you a braindead retelling of the game’s progression.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tvtyhk/i_hate_that_so_many_youtube_videos_have_titles/",
+      "fullname": "t3_1txd5ig",
+      "title": "Turns out femboy baiting is a pretty solid marketing strategy in Chinese social platform.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1txd5ig/turns_out_femboy_baiting_is_a_pretty_solid/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m sure other people have noticed this. Every once in a while a video actually does go into interesting analysis, but holy crap it’s mostly slop.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/adimeistencents\"> /u/adimeistencents </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tvtyhk/i_hate_that_so_many_youtube_videos_have_titles/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/gamedev/comments/1tvtyhk/i_hate_that_so_many_youtube_videos_have_titles/\">[comments]</a></span>",
-      "publishedAt": "2026-06-03T16:07:38.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am posting content on a Chinese social platform called Heybox(小黑盒).</p> <p>Post game content: 1-2k views, 10 likes, 3 comments.</p> <p>Post a picture of myself dressing up with game content: 60k views, 3k likes, 450 comments.</p> <p>Lots of the viewers actually wishlisted the game and followed my account too.</p> <p>I wonder maybe I should start doing this on twitter as well.</p> <p>Here's the post in case you wanna see the pic, be warned it's in chinese: <a href=\"https://www.xiaoheihe.cn/app/bbs/link/182230260\">https://www.xiaoheihe.cn/app/bbs/link/18223026",
+      "publishedAt": "2026-06-05T06:46:08.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1twejkt",
-      "title": "Postmortem: I solo-developed an exaggerated Game Boy RPG (Starlight Legacy)",
-      "url": "https://www.reddit.com/r/gamedev/comments/1twejkt/postmortem_i_solodeveloped_an_exaggerated_game/",
+      "fullname": "t3_1txey0q",
+      "title": "How a publisher actually calculates your game's budget, from someone who spent years on that side",
+      "url": "https://www.reddit.com/r/gamedev/comments/1txey0q/how_a_publisher_actually_calculates_your_games/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi there, I’m Decafesoft, and I’m a Tokyo-based solo developer with a mixed Japan and US background, and in February 2025 I released Starlight Legacy for PC and iOS, which later had a console release in May 2025.</p> <p>A quick background on me, I am a (half) Japanese “returnee” that was born in Japan, moved to the US at age 6, and moved back to Japan at age 24, and I am currently 31 at the time of writing this. I hesitate to identify as a “Japanese developer” because I had a western upbringing, so obviously I think and talk like a westerner. I’ll leave it up ",
-      "publishedAt": "2026-06-04T05:42:59.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I spent years on the publishing side, and one of the first conversations with almost every developer was about budget. Specifically, the gap between the number the developer had in mind and the number we were actually looking at. They are rarely the same, and that gap is where a lot of deals get awkward.</p> <p>A few things that surprised developers most often:</p> <p><strong>Your dev budget is not the budget.</strong> The all-in number a publisher works with is development plus their own markup, plus marketing, plus services like porting, QA, and localisation",
+      "publishedAt": "2026-06-05T08:31:27.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tvya3b",
-      "title": "after 3+ years of development, we came to a terrifying realization: Battle Royales need a lot of players",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tvya3b/after_3_years_of_development_we_came_to_a/",
+      "fullname": "t3_1tx4tgo",
+      "title": "Chasing Steam Deck Verified Part 2: Taming 1.47GB in Particles, and mastering Addressables",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tx4tgo/chasing_steam_deck_verified_part_2_taming_147gb/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>our team recently made the difficult decision to stop developing the battle royale mode in our game <a href=\"https://store.steampowered.com/app/2379350/Scramble_Knights_Online/\">Scramble Knights</a> after almost 3 years of work.</p> <p>we had over 26k+ players on steam join our playtests and currently sitting on 30k WL. feedback was strong, and for a long time we genuinely believed we could make it work (smoking dank hopium)</p> <p>years ago when we started, the dream was simple: build a massive online zelda-inspired BR world. imagine a huge hyrule with 64 lin",
-      "publishedAt": "2026-06-03T18:30:48.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>The response to my last post about halving our GPU load on the Steam Deck was more than I hoped for, so I wanted to share a quick follow-up!</p> <p>my last post talked about the GPU breakthroughs we made recently, today I want to pull back the curtain on a massive memory audit we did a few weeks ago (around May 14th based on my phones screenshots) for our game Spooker.</p> <p>Yesterday’s post had a bit of a spoiler—showing our current memory sitting comfy at <strong>2.4GB VRAM and 6.4GB RAM</strong>. But back in mid-May, things were <em>way</em> worse. We were",
+      "publishedAt": "2026-06-04T23:59:37.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1twb8qb",
-      "title": "is it worth finding someone else to help fill in for things I can't do or should I just suck it up and try doing it myself?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1twb8qb/is_it_worth_finding_someone_else_to_help_fill_in/",
+      "fullname": "t3_1twm2bm",
+      "title": "I feel like I'm at a dead end.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1twm2bm/i_feel_like_im_at_a_dead_end/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I mainly say this with my biggest project in mind. I have 0 experience with game development so of course I will not start with my most ambitious piece in mind, but this question first came to me when I was thinking about that ambitious piece. And I'm now thinking that I should also consider this in smaller projects.</p> <p>I don't know a lick of coding. At most, I used Scratch and made a black square that can jump and move around and not walk through walls (barely successful). My animation skills are awful, and at most I can draw a concept sketch of a charact",
-      "publishedAt": "2026-06-04T03:01:08.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I released my game on Steam 2 and a half months ago and before/after its launch I tried posting reels about it (around 30-40 of them) on tiktok, instagram AND youtube, I tried going through discord \"showcase\" channels to show off my game there, in like 20 servers. I tried getting streamers/content creators to play it, out of the 20-30ish, i think 5 played it (and they were just streamers i randomly found on the games+demos section of twitch), and even a bunch of subreddits (hell, even this one), but still nothing.</p> <p>I even released a free demo a month ago",
+      "publishedAt": "2026-06-04T12:22:32.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tw5tui",
-      "title": "Struggles and questions about how to survive developing games, and how to best approach gaining a community.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tw5tui/struggles_and_questions_about_how_to_survive/",
+      "fullname": "t3_1txfnfj",
+      "title": "we've built a robust audio production tool (which is a game in disguise?!) and encourage r/gamedev to use it to create music for games/projects with no restrictions (features export to .wav functionality!)",
+      "url": "https://www.reddit.com/r/gamedev/comments/1txfnfj/weve_built_a_robust_audio_production_tool_which/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>A bit about me because it might be relevant, I've worked in AAA studios for the past 10 years, and was laid off late last year. I've been making small prototypes and games for fun in my own time for the better part of these 10 years, but without any released products or expectations, it was mostly to learn to code (I'm a Senior Animator).</p> <p>Since then, I decided to give solo dev'ing a shot. Within 4 months I released a very small scoped narrative game on Steam (~1h long), and it was mostly to learn the ropes. Setting up a Steam page, finding a developer n",
-      "publishedAt": "2026-06-03T23:05:15.000Z"
+      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1txfnfj/weve_built_a_robust_audio_production_tool_which/\"> <img src=\"https://external-preview.redd.it/76eNfX3tOiW0GiJW5UFhB7UroywouTElDiiqxOCMj6w.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eb99051d19662a43208ded0f5c0cd0e0ca27e84c\" alt=\"we've built a robust audio production tool (which is a game in disguise?!) and encourage r/gamedev to use it to create music for games/projects with no restrictions (features export to .wav functionality!)\" title=\"we've built a robust audio production tool (which is a game in disguise?!) ",
+      "publishedAt": "2026-06-05T09:12:16.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tvzw09",
-      "title": "Leave yourself a map. Even if you don’t think you need one.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tvzw09/leave_yourself_a_map_even_if_you_dont_think_you/",
+      "fullname": "t3_1twvwjn",
+      "title": "How I had a 900+ wishlist week.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1twvwjn/how_i_had_a_900_wishlist_week/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Did a major reworking of a core system and it’s finally good. I’m working within my own engine. Needed to update the content publishing pipeline to allow campaigns to be version updated and synced rather than read only. </p> <p>Absolute nightmare. I’m using Firebase and mostly local rules, but my code has spread a bit wide so getting all the parts to agree with each other is rough work. </p> <p>Everything’s working now and it’s fantastic but this is your reminder to document an outline of your code structure somewhere and remember to update that as it grows. I",
-      "publishedAt": "2026-06-03T19:26:08.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Over the past year I've been developing <a href=\"https://store.steampowered.com/app/4088360/Funeral_for_the_Sun/\">Funeral for the Sun</a>, a narrative deduction game. And during this time I've been trying to post consistently to <a href=\"/r/gamedev\">r/gamedev</a> to speak on the game's marketing progress!</p> <p>At the beginning of last week, I was happy to see my game reach 4,000 wishlists! While organic wishlists were under 10 per day (closer to 6-7), I was lucky to see significant bumps from my demo launch, the occasional reddit post, and <a href=\"https://t",
+      "publishedAt": "2026-06-04T18:18:36.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tw0u9d",
-      "title": "Bezi Mega Jam: I asked what game jam prizes devs wanted. Here’s what I managed to pull together",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tw0u9d/bezi_mega_jam_i_asked_what_game_jam_prizes_devs/",
+      "fullname": "t3_1tx3ceo",
+      "title": "Inside QA Engineering at EA Sports | Peter Simon (Madden, College Football, EA FC)",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tx3ceo/inside_qa_engineering_at_ea_sports_peter_simon/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tw0u9d/bezi_mega_jam_i_asked_what_game_jam_prizes_devs/\"> <img src=\"https://external-preview.redd.it/LVaoWKDjIGMxkMXZ5pjn7Z-ryH1v3fvrSnC53s3d9Aw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d36fcb36fd5b9ca32b45695af5085b332bc76b5\" alt=\"Bezi Mega Jam: I asked what game jam prizes devs wanted. Here’s what I managed to pull together\" title=\"Bezi Mega Jam: I asked what game jam prizes devs wanted. Here’s what I managed to pull together\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A little while back, I made a post as",
-      "publishedAt": "2026-06-03T19:59:47.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tvqx7v",
-      "title": "Good Ending: I found a job and I just dropped the release trailer for my game",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tvqx7v/good_ending_i_found_a_job_and_i_just_dropped_the/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>For a long time I was stuck in the classic loop of sending CVs, refreshing LinkedIn, waiting for replies that never came, and trying not to go insane in the process.</p> <p>So instead of sitting around frustrated, I kept putting my energy into my game, <a href=\"https://store.steampowered.com/app/3334100/Shippin/\">Shippin</a>.</p> <p>While looking for work I kept learning new stuff, improving the game little by little, posting progress online, talking to people, sending messages to recruiters, and just trying to stay consistent even when it felt pointless.</p> ",
-      "publishedAt": "2026-06-03T14:24:45.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1twgoyt",
-      "title": "Wishlist count vanished and is now zero on steam",
-      "url": "https://www.reddit.com/r/gamedev/comments/1twgoyt/wishlist_count_vanished_and_is_now_zero_on_steam/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>as i write this post steam is currently reporting zero lifetime wishlist for our app <strong>SaveSync</strong> .. with this post i aim to understand weather this a bug being faced by everyone or just us meanwhile will keep you posted.. if i hear anything back from steam support</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SaveSyncGames\"> /u/SaveSyncGames </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1twgoyt/wishlist_count_vanished_and_is_now_zero_on_steam/\">[link]</a></span> &#32; <span><a href=\"h",
-      "publishedAt": "2026-06-04T07:41:49.000Z"
+      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tx3ceo/inside_qa_engineering_at_ea_sports_peter_simon/\"> <img src=\"https://external-preview.redd.it/j04ZLHxDy6nYl1pZ7uOpflQwgT89zTtcYb6fWqzRieo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d0f8ed3074d2edbea12d6eb4bbc2c4a304ced862\" alt=\"Inside QA Engineering at EA Sports | Peter Simon (Madden, College Football, EA FC)\" title=\"Inside QA Engineering at EA Sports | Peter Simon (Madden, College Football, EA FC)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We recently hosted Peter Simon (an Electronic Arts QA engineer)",
+      "publishedAt": "2026-06-04T22:55:07.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 9
+    "redditPosts": 7
   }
 }
