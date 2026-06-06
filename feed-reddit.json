@@ -1,86 +1,119 @@
 {
-  "generatedAt": "2026-06-05T09:55:42.789Z",
+  "generatedAt": "2026-06-06T08:36:12.024Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1txd5ig",
-      "title": "Turns out femboy baiting is a pretty solid marketing strategy in Chinese social platform.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1txd5ig/turns_out_femboy_baiting_is_a_pretty_solid/",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1tybc9h",
+      "title": "Looking for recommendations and production tips for Warcraft-style epic orchestral music for my game",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1tybc9h/looking_for_recommendations_and_production_tips/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am posting content on a Chinese social platform called Heybox(小黑盒).</p> <p>Post game content: 1-2k views, 10 likes, 3 comments.</p> <p>Post a picture of myself dressing up with game content: 60k views, 3k likes, 450 comments.</p> <p>Lots of the viewers actually wishlisted the game and followed my account too.</p> <p>I wonder maybe I should start doing this on twitter as well.</p> <p>Here's the post in case you wanna see the pic, be warned it's in chinese: <a href=\"https://www.xiaoheihe.cn/app/bbs/link/182230260\">https://www.xiaoheihe.cn/app/bbs/link/18223026",
-      "publishedAt": "2026-06-05T06:46:08.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone</p> <p>I’ve been producing ambient music for my own game for a while now, mostly incorporating strings, pads, piano, and flutes. </p> <p>However, for a new part of the project, I want to dive into the epic, war-themed orchestral genre—specifically inspired by the Warcraft soundtracks.</p> <p>My setup includes a piano, electric guitar, an audio interface, and I use Cakewalk as my DAW.</p> <p>Since I haven't produced this specific style before, I am looking for recommendations for virtual instruments / sample libraries (both free and paid) to help m",
+      "publishedAt": "2026-06-06T08:10:46.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1txey0q",
-      "title": "How a publisher actually calculates your game's budget, from someone who spent years on that side",
-      "url": "https://www.reddit.com/r/gamedev/comments/1txey0q/how_a_publisher_actually_calculates_your_games/",
+      "fullname": "t3_1ty91vd",
+      "title": "Are Developers Forgetting That Most Gamers Don't Have High-End PCs?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ty91vd/are_developers_forgetting_that_most_gamers_dont/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I spent years on the publishing side, and one of the first conversations with almost every developer was about budget. Specifically, the gap between the number the developer had in mind and the number we were actually looking at. They are rarely the same, and that gap is where a lot of deals get awkward.</p> <p>A few things that surprised developers most often:</p> <p><strong>Your dev budget is not the budget.</strong> The all-in number a publisher works with is development plus their own markup, plus marketing, plus services like porting, QA, and localisation",
-      "publishedAt": "2026-06-05T08:31:27.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I sometimes feel like developers are forgetting that most gamers don't have high-end PCs.One thing I think developers underestimate is how much accessibility contributes to a game's success.</p> <p>Games like CS:GO, Minecraft, Valorant, Elden Ring, League of Legends, and Stardew Valley can run on low-end hardware without looking terrible. That's a huge reason they built massive player bases.</p> <p>In countries like the Philippines, India, Indonesia, etc. many players are still using RTX2k-3k GPUs or similar because upgrading can represent years of savings.</p",
+      "publishedAt": "2026-06-06T06:00:32.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tx4tgo",
-      "title": "Chasing Steam Deck Verified Part 2: Taming 1.47GB in Particles, and mastering Addressables",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tx4tgo/chasing_steam_deck_verified_part_2_taming_147gb/",
+      "fullname": "t3_1ty8ot1",
+      "title": "3 years, $5k, 250 wishlists. I now know why I make games.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ty8ot1/3_years_5k_250_wishlists_i_now_know_why_i_make/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>The response to my last post about halving our GPU load on the Steam Deck was more than I hoped for, so I wanted to share a quick follow-up!</p> <p>my last post talked about the GPU breakthroughs we made recently, today I want to pull back the curtain on a massive memory audit we did a few weeks ago (around May 14th based on my phones screenshots) for our game Spooker.</p> <p>Yesterday’s post had a bit of a spoiler—showing our current memory sitting comfy at <strong>2.4GB VRAM and 6.4GB RAM</strong>. But back in mid-May, things were <em>way</em> worse. We were",
-      "publishedAt": "2026-06-04T23:59:37.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My second big project dropped last week. I launched with ~250 wishlists. I did marketing when I could, in the capacity that I could. I'm not new to this. None of this is surprising.</p> <p>I always hit that wall of \"I COULD do a media post... OR I could make a better game\" and I realized that I'll almost always choose the latter. I'm not proud of it. I spent 3 years and ~$5k on this. But my major take-home this time around is that's just who I am.</p> <p>It's bittersweet but also kind of a relief to know I'm just in this for me and the close people in my life.",
+      "publishedAt": "2026-06-06T05:40:45.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1twm2bm",
-      "title": "I feel like I'm at a dead end.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1twm2bm/i_feel_like_im_at_a_dead_end/",
+      "fullname": "t3_1ty81g5",
+      "title": "What's the worst, most useless game idea you can think of?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ty81g5/whats_the_worst_most_useless_game_idea_you_can/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I released my game on Steam 2 and a half months ago and before/after its launch I tried posting reels about it (around 30-40 of them) on tiktok, instagram AND youtube, I tried going through discord \"showcase\" channels to show off my game there, in like 20 servers. I tried getting streamers/content creators to play it, out of the 20-30ish, i think 5 played it (and they were just streamers i randomly found on the games+demos section of twitch), and even a bunch of subreddits (hell, even this one), but still nothing.</p> <p>I even released a free demo a month ago",
-      "publishedAt": "2026-06-04T12:22:32.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking for intentionally terrible game concepts. The more pointless, frustrating, boring, or absurd, the better.</p> <p>Some ideas I came up with:</p> <ul> <li>A farming simulator where crops take real-life months to grow.</li> <li>A racing game where every vehicle moves at walking speed.</li> <li>A stealth game where your character constantly screams.</li> </ul> <p>Give me your absolute worst game ideas. I'm just looking for fun ideas, but if something really stands out, I might try making it into a small game.</p> <p>Let's see who can come up with the m",
+      "publishedAt": "2026-06-06T05:06:32.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1txfnfj",
-      "title": "we've built a robust audio production tool (which is a game in disguise?!) and encourage r/gamedev to use it to create music for games/projects with no restrictions (features export to .wav functionality!)",
-      "url": "https://www.reddit.com/r/gamedev/comments/1txfnfj/weve_built_a_robust_audio_production_tool_which/",
+      "fullname": "t3_1txp4dk",
+      "title": "Turns out the new Steam changes are beneficial?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1txp4dk/turns_out_the_new_steam_changes_are_beneficial/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1txfnfj/weve_built_a_robust_audio_production_tool_which/\"> <img src=\"https://external-preview.redd.it/76eNfX3tOiW0GiJW5UFhB7UroywouTElDiiqxOCMj6w.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eb99051d19662a43208ded0f5c0cd0e0ca27e84c\" alt=\"we've built a robust audio production tool (which is a game in disguise?!) and encourage r/gamedev to use it to create music for games/projects with no restrictions (features export to .wav functionality!)\" title=\"we've built a robust audio production tool (which is a game in disguise?!) ",
-      "publishedAt": "2026-06-05T09:12:16.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So today I woke up to more than 1,000 wishlists in a single day, which is INSANE considering my game has less than 10k total wishlists. Going through the Steamworks data, I discovered that the majority of the traffic coming to my page is from the new \"Personal Calendar\" section.</p> <p>I'd like to post a screenshot here, but I don't think I can. The game is <em>Don't Let It Starve</em> for those who want to know more about it though.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dagoo0n\"> /u/Dagoo0n </a> <br/> <span><a ",
+      "publishedAt": "2026-06-05T16:01:35.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1twvwjn",
-      "title": "How I had a 900+ wishlist week.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1twvwjn/how_i_had_a_900_wishlist_week/",
+      "fullname": "t3_1ty9gjl",
+      "title": "Hot take: horror games don't need combat... they need consequences.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ty9gjl/hot_take_horror_games_dont_need_combat_they_need/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Over the past year I've been developing <a href=\"https://store.steampowered.com/app/4088360/Funeral_for_the_Sun/\">Funeral for the Sun</a>, a narrative deduction game. And during this time I've been trying to post consistently to <a href=\"/r/gamedev\">r/gamedev</a> to speak on the game's marketing progress!</p> <p>At the beginning of last week, I was happy to see my game reach 4,000 wishlists! While organic wishlists were under 10 per day (closer to 6-7), I was lucky to see significant bumps from my demo launch, the occasional reddit post, and <a href=\"https://t",
-      "publishedAt": "2026-06-04T18:18:36.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>While designing Rahasya, we made a decision that I already know will divide players: we removed combat, checkpoints and mid game saves entirely.</p> <p>You get three lives and if you lose them, you start over.</p> <p>It wasn't done just to frustrate players or make the game harder. The goal was to bring back something I think a lot of horror games have lost: consequences.</p> <p>When you know you can reload a save at any moment, fear becomes temporary. When you can't, every decision starts carrying weight.</p> <p>During testing, we noticed players moved slower",
+      "publishedAt": "2026-06-06T06:22:39.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tx3ceo",
-      "title": "Inside QA Engineering at EA Sports | Peter Simon (Madden, College Football, EA FC)",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tx3ceo/inside_qa_engineering_at_ea_sports_peter_simon/",
+      "fullname": "t3_1txnnik",
+      "title": "My action-strategy game is almost at 10K sales, so I wanted to reflect on what worked and what didn’t.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1txnnik/my_actionstrategy_game_is_almost_at_10k_sales_so/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tx3ceo/inside_qa_engineering_at_ea_sports_peter_simon/\"> <img src=\"https://external-preview.redd.it/j04ZLHxDy6nYl1pZ7uOpflQwgT89zTtcYb6fWqzRieo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d0f8ed3074d2edbea12d6eb4bbc2c4a304ced862\" alt=\"Inside QA Engineering at EA Sports | Peter Simon (Madden, College Football, EA FC)\" title=\"Inside QA Engineering at EA Sports | Peter Simon (Madden, College Football, EA FC)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We recently hosted Peter Simon (an Electronic Arts QA engineer)",
-      "publishedAt": "2026-06-04T22:55:07.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m the solo developer of <a href=\"https://store.steampowered.com/app/3570060/The_Ember_Guardian/\">The Ember Guardian</a>, an action game inspired by the Kingdom series which launched almost 2 months ago on April 17, after almost 2 years of development.</p> <p>As I’m writing this, The Ember Guardian is rapidly approaching the 10k sales milestone. Not quite a viral hit, but I’m still very happy with it! Here are the full stats:</p> <ul> <li>27k wishlists on launch</li> <li>19k demo players before launch with a 39 min median playtime</li> <li>6.9k sales in week ",
+      "publishedAt": "2026-06-05T15:08:38.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tyblu8",
+      "title": "What's some YouTube channels that cover indie game tropes and pitfalls?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tyblu8/whats_some_youtube_channels_that_cover_indie_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I see things I want to talk about in game development, mostly where devs imitate with little reason or are focusing on the wrong things. So I'm curious to hear any other channels that might be doing that before I start making some videos myself.</p> <p>So far the channels I have seen tend to focus on one topic, their own game or cover entire systems instead of the lesser talked about details.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Some_Tiny_Dragon\"> /u/Some_Tiny_Dragon </a> <br/> <span><a href=\"https://www.reddit",
+      "publishedAt": "2026-06-06T08:26:20.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1txhdp2",
+      "title": "Don't panic – The New Steam Homepage isn't the disaster it looks like",
+      "url": "https://www.reddit.com/r/gamedev/comments/1txhdp2/dont_panic_the_new_steam_homepage_isnt_the/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://store.steampowered.com/news/app/593110/view/704394876188361008?l=english\">New Steam homepage announcement</a> just dropped and panic ensued.</p> <p>Mainly because of the \"Popular Upcoming\" section getting some changes. Here's what the actual announcement is:</p> <blockquote> <p><strong>Popular Upcoming: Now more popular</strong><br/> The contents of this tab have been updated in response to player feedback in order to better capture the most anticipated releases of the coming month. If you're looking for more niche upcoming releases, check out",
+      "publishedAt": "2026-06-05T10:46:46.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1txxi1q",
+      "title": "I am seeking help understanding my numbers",
+      "url": "https://www.reddit.com/r/gamedev/comments/1txxi1q/i_am_seeking_help_understanding_my_numbers/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey Everyone ! </p> <p>3 days ago I launched my steam page along with my trailer for my game which is a 3D tower defense roguelike.</p> <p>I spent about 2 days doing some posts on reddit, and some on X / tiktok as well.</p> <p>Everything combined, all my posts X and reddit combined went for about 20 k views, which was insanely more than what I expected. Tiktok had 31k views for my short version of the trailer, which was insane to me as well.</p> <p>Now when looking at the steam stats, I had about 600 store page steam visits, and 150 wishlists.</p> <p>These are",
+      "publishedAt": "2026-06-05T21:06:34.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 7
+    "redditPosts": 10
   }
 }
