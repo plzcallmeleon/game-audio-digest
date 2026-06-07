@@ -1,119 +1,75 @@
 {
-  "generatedAt": "2026-06-06T08:36:12.024Z",
+  "generatedAt": "2026-06-07T09:16:35.895Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1tybc9h",
-      "title": "Looking for recommendations and production tips for Warcraft-style epic orchestral music for my game",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1tybc9h/looking_for_recommendations_and_production_tips/",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tz4g7a",
+      "title": "Every time I make a post about my game I want to vomit",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tz4g7a/every_time_i_make_a_post_about_my_game_i_want_to/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone</p> <p>I’ve been producing ambient music for my own game for a while now, mostly incorporating strings, pads, piano, and flutes. </p> <p>However, for a new part of the project, I want to dive into the epic, war-themed orchestral genre—specifically inspired by the Warcraft soundtracks.</p> <p>My setup includes a piano, electric guitar, an audio interface, and I use Cakewalk as my DAW.</p> <p>Since I haven't produced this specific style before, I am looking for recommendations for virtual instruments / sample libraries (both free and paid) to help m",
-      "publishedAt": "2026-06-06T08:10:46.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am proud of my game and feel it's really fun to play, but making a post about it still feels like walking up to a stranger and demanding their attention for my hobby art project. It's cringy. And I think that probably comes through in my posts. </p> <p>I think I'll try leaning a bit more into short form videos for a while. At least there I can say to myself \"Hey, I didn't invade your subreddit. The algorithm chose this for you.\"</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Pycho_Games\"> /u/Pycho_Games </a> <br/> <spa",
+      "publishedAt": "2026-06-07T06:28:27.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ty91vd",
-      "title": "Are Developers Forgetting That Most Gamers Don't Have High-End PCs?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ty91vd/are_developers_forgetting_that_most_gamers_dont/",
+      "fullname": "t3_1tyw6as",
+      "title": "Whats the right degree/college for game design?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tyw6as/whats_the_right_degreecollege_for_game_design/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I sometimes feel like developers are forgetting that most gamers don't have high-end PCs.One thing I think developers underestimate is how much accessibility contributes to a game's success.</p> <p>Games like CS:GO, Minecraft, Valorant, Elden Ring, League of Legends, and Stardew Valley can run on low-end hardware without looking terrible. That's a huge reason they built massive player bases.</p> <p>In countries like the Philippines, India, Indonesia, etc. many players are still using RTX2k-3k GPUs or similar because upgrading can represent years of savings.</p",
-      "publishedAt": "2026-06-06T06:00:32.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've recently been researching colleges for game design but every link leads me to pages talking about a BFA (bachelor's degree in fine arts) and seems to only teach the drawing and modeling parts. When looking into the curriculum of a few schools, the programming courses are almost entirely missing, other than a single one which teaches basic programming appropriate for an artist only. </p> <p>The careers they list too only pertain to art. For example 3-D modeller, animator, editor, concept artist, video producer, and digital artist. </p> <p>Is this what I'm ",
+      "publishedAt": "2026-06-06T23:31:00.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ty8ot1",
-      "title": "3 years, $5k, 250 wishlists. I now know why I make games.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ty8ot1/3_years_5k_250_wishlists_i_now_know_why_i_make/",
+      "fullname": "t3_1tys0o9",
+      "title": "When do you implement sound for early days of gamedev?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tys0o9/when_do_you_implement_sound_for_early_days_of/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My second big project dropped last week. I launched with ~250 wishlists. I did marketing when I could, in the capacity that I could. I'm not new to this. None of this is surprising.</p> <p>I always hit that wall of \"I COULD do a media post... OR I could make a better game\" and I realized that I'll almost always choose the latter. I'm not proud of it. I spent 3 years and ~$5k on this. But my major take-home this time around is that's just who I am.</p> <p>It's bittersweet but also kind of a relief to know I'm just in this for me and the close people in my life.",
-      "publishedAt": "2026-06-06T05:40:45.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Originally I was under the impression that finishing the core gameplay and UI before adding music and SFX is the right way. After all finding the right assets or making them is a long process.</p> <p>Lately I’m starting to realise how much audio impacts people and that maybe adding it along the way could boost how the posts/clips/devlogs are perceived by potential players on social medias.</p> <p>What are best practices? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eRickoCS\"> /u/eRickoCS </a> <br/> <span><a href=\"http",
+      "publishedAt": "2026-06-06T20:31:23.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ty81g5",
-      "title": "What's the worst, most useless game idea you can think of?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ty81g5/whats_the_worst_most_useless_game_idea_you_can/",
+      "fullname": "t3_1tz6b5v",
+      "title": "How much does it cost to host a Torn-like PBBG",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tz6b5v/how_much_does_it_cost_to_host_a_tornlike_pbbg/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking for intentionally terrible game concepts. The more pointless, frustrating, boring, or absurd, the better.</p> <p>Some ideas I came up with:</p> <ul> <li>A farming simulator where crops take real-life months to grow.</li> <li>A racing game where every vehicle moves at walking speed.</li> <li>A stealth game where your character constantly screams.</li> </ul> <p>Give me your absolute worst game ideas. I'm just looking for fun ideas, but if something really stands out, I might try making it into a small game.</p> <p>Let's see who can come up with the m",
-      "publishedAt": "2026-06-06T05:06:32.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi y'all, pretty much just the question above. </p> <p>I'm a solo dev looking to make a Torn-like PBBG but with a different theme and setting etc. This would be my first project like this, and realistically I need to try and understand what are the sort of costs involved for hosting a server for something like this? Mainly so I can build in an appropriate level of monetization and really see if it's feasible and scalable as a business (which I know might not be appropriate this early but I'm a planner). </p> <p>Like what kind of server, with whom, costing how ",
+      "publishedAt": "2026-06-07T08:17:53.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1txp4dk",
-      "title": "Turns out the new Steam changes are beneficial?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1txp4dk/turns_out_the_new_steam_changes_are_beneficial/",
+      "fullname": "t3_1tz547k",
+      "title": "Does &quot;Cross-Promotion&quot; Work? What Are the Results?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tz547k/does_crosspromotion_work_what_are_the_results/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So today I woke up to more than 1,000 wishlists in a single day, which is INSANE considering my game has less than 10k total wishlists. Going through the Steamworks data, I discovered that the majority of the traffic coming to my page is from the new \"Personal Calendar\" section.</p> <p>I'd like to post a screenshot here, but I don't think I can. The game is <em>Don't Let It Starve</em> for those who want to know more about it though.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dagoo0n\"> /u/Dagoo0n </a> <br/> <span><a ",
-      "publishedAt": "2026-06-05T16:01:35.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello game developers. </p> <p>Games have a special section where you can post different types of ads. </p> <p>A long time ago, I tried using <strong>\"Cross-Promotion\"</strong> for my game (a new part of the game), but in my experience, it didn't bring me anything, maybe 20-30 buyers. I got the impression it's very ineffective and pointless. Have you had any results? </p> <p>When you first read this type of ad, it seems like it's pretty cool.</p> <p><a href=\"https://ibb.co/493zdS9\"><strong>Link to the image</strong></a></p> </div><!-- SC_ON --> &#32; submitted",
+      "publishedAt": "2026-06-07T07:06:10.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1ty9gjl",
-      "title": "Hot take: horror games don't need combat... they need consequences.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ty9gjl/hot_take_horror_games_dont_need_combat_they_need/",
+      "fullname": "t3_1tyfjyi",
+      "title": "I made a game on my own. When the Steam / Google Play stores ask me things like &quot;developer&quot; and &quot;publisher&quot;, is this something I should consider beyond just putting... my name? Is there a purpose of those game startup screens with company names / logos if I don't plan on making another game?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tyfjyi/i_made_a_game_on_my_own_when_the_steam_google/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>While designing Rahasya, we made a decision that I already know will divide players: we removed combat, checkpoints and mid game saves entirely.</p> <p>You get three lives and if you lose them, you start over.</p> <p>It wasn't done just to frustrate players or make the game harder. The goal was to bring back something I think a lot of horror games have lost: consequences.</p> <p>When you know you can reload a save at any moment, fear becomes temporary. When you can't, every decision starts carrying weight.</p> <p>During testing, we noticed players moved slower",
-      "publishedAt": "2026-06-06T06:22:39.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1txnnik",
-      "title": "My action-strategy game is almost at 10K sales, so I wanted to reflect on what worked and what didn’t.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1txnnik/my_actionstrategy_game_is_almost_at_10k_sales_so/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m the solo developer of <a href=\"https://store.steampowered.com/app/3570060/The_Ember_Guardian/\">The Ember Guardian</a>, an action game inspired by the Kingdom series which launched almost 2 months ago on April 17, after almost 2 years of development.</p> <p>As I’m writing this, The Ember Guardian is rapidly approaching the 10k sales milestone. Not quite a viral hit, but I’m still very happy with it! Here are the full stats:</p> <ul> <li>27k wishlists on launch</li> <li>19k demo players before launch with a 39 min median playtime</li> <li>6.9k sales in week ",
-      "publishedAt": "2026-06-05T15:08:38.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tyblu8",
-      "title": "What's some YouTube channels that cover indie game tropes and pitfalls?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tyblu8/whats_some_youtube_channels_that_cover_indie_game/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I see things I want to talk about in game development, mostly where devs imitate with little reason or are focusing on the wrong things. So I'm curious to hear any other channels that might be doing that before I start making some videos myself.</p> <p>So far the channels I have seen tend to focus on one topic, their own game or cover entire systems instead of the lesser talked about details.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Some_Tiny_Dragon\"> /u/Some_Tiny_Dragon </a> <br/> <span><a href=\"https://www.reddit",
-      "publishedAt": "2026-06-06T08:26:20.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1txhdp2",
-      "title": "Don't panic – The New Steam Homepage isn't the disaster it looks like",
-      "url": "https://www.reddit.com/r/gamedev/comments/1txhdp2/dont_panic_the_new_steam_homepage_isnt_the/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://store.steampowered.com/news/app/593110/view/704394876188361008?l=english\">New Steam homepage announcement</a> just dropped and panic ensued.</p> <p>Mainly because of the \"Popular Upcoming\" section getting some changes. Here's what the actual announcement is:</p> <blockquote> <p><strong>Popular Upcoming: Now more popular</strong><br/> The contents of this tab have been updated in response to player feedback in order to better capture the most anticipated releases of the coming month. If you're looking for more niche upcoming releases, check out",
-      "publishedAt": "2026-06-05T10:46:46.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1txxi1q",
-      "title": "I am seeking help understanding my numbers",
-      "url": "https://www.reddit.com/r/gamedev/comments/1txxi1q/i_am_seeking_help_understanding_my_numbers/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey Everyone ! </p> <p>3 days ago I launched my steam page along with my trailer for my game which is a 3D tower defense roguelike.</p> <p>I spent about 2 days doing some posts on reddit, and some on X / tiktok as well.</p> <p>Everything combined, all my posts X and reddit combined went for about 20 k views, which was insanely more than what I expected. Tiktok had 31k views for my short version of the trailer, which was insane to me as well.</p> <p>Now when looking at the steam stats, I had about 600 store page steam visits, and 150 wishlists.</p> <p>These are",
-      "publishedAt": "2026-06-05T21:06:34.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>When you open my game, it goes right to the welcome screen, which almost seems... tacky? Even though I have no desire to make myself seem like some formal production entity / promote myself as a person, I feel like I might be missing a different reason for this.</p> <p>What's the etiquette for labeling yourself as a \"developing company\" / is there a purpose beyond trying to promote other games you made?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/garbageeater\"> /u/garbageeater </a> <br/> <span><a href=\"https://www.red",
+      "publishedAt": "2026-06-06T12:08:04.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 10
+    "redditPosts": 6
   }
 }
