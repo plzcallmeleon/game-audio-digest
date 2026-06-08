@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-06-07T09:16:14.265Z",
+  "generatedAt": "2026-06-08T11:00:25.683Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  },
-  "errors": [
-    "Podcast: Failed to fetch RSS for Tonebenders Podcast: HTTP 403"
-  ]
+  }
 }

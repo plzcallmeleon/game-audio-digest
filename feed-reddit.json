@@ -1,75 +1,119 @@
 {
-  "generatedAt": "2026-06-07T09:16:35.895Z",
+  "generatedAt": "2026-06-08T11:00:58.984Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tz4g7a",
-      "title": "Every time I make a post about my game I want to vomit",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tz4g7a/every_time_i_make_a_post_about_my_game_i_want_to/",
+      "fullname": "t3_1tzff7r",
+      "title": "6 years later, 20k+ copies sold, $135k revenue and I only launched on Console",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tzff7r/6_years_later_20k_copies_sold_135k_revenue_and_i/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am proud of my game and feel it's really fun to play, but making a post about it still feels like walking up to a stranger and demanding their attention for my hobby art project. It's cringy. And I think that probably comes through in my posts. </p> <p>I think I'll try leaning a bit more into short form videos for a while. At least there I can say to myself \"Hey, I didn't invade your subreddit. The algorithm chose this for you.\"</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Pycho_Games\"> /u/Pycho_Games </a> <br/> <spa",
-      "publishedAt": "2026-06-07T06:28:27.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Ok so this comes a bit out of nowhere and I’m LATE to the party on making this postmortem but that graphic at Summer Games Fest of over 9k+ games being launched on steam had me thinking. So here this goes. Feel free to ask me anything and I’d be more than happy to chat about set up, who to contact, my experience, all the things.</p> <p>Context:<br/> I work in AAA now and I HATE looking at that game because it’s so wack lol</p> <p>Only launched on one console (I regret that but was young and dumb)</p> <p>$135k in sales (about $35k the fist 3 months)</p> <p>20,6",
+      "publishedAt": "2026-06-07T15:38:54.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tyw6as",
-      "title": "Whats the right degree/college for game design?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tyw6as/whats_the_right_degreecollege_for_game_design/",
+      "fullname": "t3_1tzwakd",
+      "title": "Roblox; 100 get 50% of gameplay, other half split 8,501,000 games",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tzwakd/roblox_100_get_50_of_gameplay_other_half_split/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've recently been researching colleges for game design but every link leads me to pages talking about a BFA (bachelor's degree in fine arts) and seems to only teach the drawing and modeling parts. When looking into the curriculum of a few schools, the programming courses are almost entirely missing, other than a single one which teaches basic programming appropriate for an artist only. </p> <p>The careers they list too only pertain to art. For example 3-D modeller, animator, editor, concept artist, video producer, and digital artist. </p> <p>Is this what I'm ",
-      "publishedAt": "2026-06-06T23:31:00.000Z"
+      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tzwakd/roblox_100_get_50_of_gameplay_other_half_split/\"> <img src=\"https://external-preview.redd.it/lqrxjpt30l5h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ea2a293c34a42217302b36fefc1ef6cd156f072\" alt=\"Roblox; 100 get 50% of gameplay, other half split 8,501,000 games\" title=\"Roblox; 100 get 50% of gameplay, other half split 8,501,000 games\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We kinda know the top games get the most sales, here's another chart to prove it.</p> </div><!-- SC_ON --> &#32; submitted by &#",
+      "publishedAt": "2026-06-08T03:18:28.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tys0o9",
-      "title": "When do you implement sound for early days of gamedev?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tys0o9/when_do_you_implement_sound_for_early_days_of/",
+      "fullname": "t3_1tzrr2f",
+      "title": "What do y'all do about art?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tzrr2f/what_do_yall_do_about_art/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Originally I was under the impression that finishing the core gameplay and UI before adding music and SFX is the right way. After all finding the right assets or making them is a long process.</p> <p>Lately I’m starting to realise how much audio impacts people and that maybe adding it along the way could boost how the posts/clips/devlogs are perceived by potential players on social medias.</p> <p>What are best practices? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eRickoCS\"> /u/eRickoCS </a> <br/> <span><a href=\"http",
-      "publishedAt": "2026-06-06T20:31:23.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am creative, but I have never been good at art. I am a strong coder, and with the right tools, I could figure out how to code almost anything. I have a passion for making games, but I always feel that I am held back by the fact that I can't create textures, animations, models, rigs, or any of the nice visual components that really make a game feel immersive. I know that If I were to get a job at an actual studio, that I would just be coding, and other people would be doing the art, but if I want full game projects as a solo dev that I can show off for better",
+      "publishedAt": "2026-06-07T23:43:00.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tz6b5v",
-      "title": "How much does it cost to host a Torn-like PBBG",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tz6b5v/how_much_does_it_cost_to_host_a_tornlike_pbbg/",
+      "fullname": "t3_1u03qlx",
+      "title": "Where specifically to promote your game (while not released)?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u03qlx/where_specifically_to_promote_your_game_while_not/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi y'all, pretty much just the question above. </p> <p>I'm a solo dev looking to make a Torn-like PBBG but with a different theme and setting etc. This would be my first project like this, and realistically I need to try and understand what are the sort of costs involved for hosting a server for something like this? Mainly so I can build in an appropriate level of monetization and really see if it's feasible and scalable as a business (which I know might not be appropriate this early but I'm a planner). </p> <p>Like what kind of server, with whom, costing how ",
-      "publishedAt": "2026-06-07T08:17:53.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My game is years away from completion, but at some point I will have to start promoting it. I've read \"social media\" but that is so vague. Do they mean blogposts on niche subreddits? Or 5 second tiktok clips (I don't think that'll work for my game?)? Or substack? I can also create a discord but that sounds like something to do once you actually have a following already.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RobbertGone\"> /u/RobbertGone </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1u03qlx/w",
+      "publishedAt": "2026-06-08T10:14:14.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tz547k",
-      "title": "Does &quot;Cross-Promotion&quot; Work? What Are the Results?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tz547k/does_crosspromotion_work_what_are_the_results/",
+      "fullname": "t3_1tzc4go",
+      "title": "We've Been Releasing One Game per Month for 18 months! Here's What We Learned",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tzc4go/weve_been_releasing_one_game_per_month_for_18/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello game developers. </p> <p>Games have a special section where you can post different types of ads. </p> <p>A long time ago, I tried using <strong>\"Cross-Promotion\"</strong> for my game (a new part of the game), but in my experience, it didn't bring me anything, maybe 20-30 buyers. I got the impression it's very ineffective and pointless. Have you had any results? </p> <p>When you first read this type of ad, it seems like it's pretty cool.</p> <p><a href=\"https://ibb.co/493zdS9\"><strong>Link to the image</strong></a></p> </div><!-- SC_ON --> &#32; submitted",
-      "publishedAt": "2026-06-07T07:06:10.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong>Context</strong>: We're a video game collective of four close friends based in Brussels (Belgium). We originally met during the 2024 Brussels Game Jam, and it immediately clicked. We shared the same passion for indie games, and at the time we had almost no experience making them. So we decided to release one game every month to gain experience and challenge us to release games. Since then, we've released 17 monthly games plus a few bonus games, on both <a href=\"https://store.steampowered.com/curator/46148486\">Steam</a> and <a href=\"https://cumulet.itch",
+      "publishedAt": "2026-06-07T13:26:22.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tyfjyi",
-      "title": "I made a game on my own. When the Steam / Google Play stores ask me things like &quot;developer&quot; and &quot;publisher&quot;, is this something I should consider beyond just putting... my name? Is there a purpose of those game startup screens with company names / logos if I don't plan on making another game?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tyfjyi/i_made_a_game_on_my_own_when_the_steam_google/",
+      "fullname": "t3_1u035lk",
+      "title": "Promotion music on Social media",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u035lk/promotion_music_on_social_media/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>When you open my game, it goes right to the welcome screen, which almost seems... tacky? Even though I have no desire to make myself seem like some formal production entity / promote myself as a person, I feel like I might be missing a different reason for this.</p> <p>What's the etiquette for labeling yourself as a \"developing company\" / is there a purpose beyond trying to promote other games you made?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/garbageeater\"> /u/garbageeater </a> <br/> <span><a href=\"https://www.red",
-      "publishedAt": "2026-06-06T12:08:04.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys I have a question. I see all the time short videos on Social media using copyright music (popular songs). Is this legal for showcasing something? For example I want to use a popular song to decorate my game trailer on Social media. </p> <p>Is this ok or not (since it is not for monetisation).</p> <p>Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ypanos\"> /u/ypanos </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1u035lk/promotion_music_on_social_media/\">[link]</a></span> &#32; <span><",
+      "publishedAt": "2026-06-08T09:42:12.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tzkaxi",
+      "title": "What actually makes money in game dev (for solo/indie devs)?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tzkaxi/what_actually_makes_money_in_game_dev_for/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m an indie dev trying to figure out where to focus my time, and honestly there’s way too much noise out there.</p> <p>You see people talking about Steam games, mobile games, hyper/hybrid casual with publishers, web games (Poki/CrazyGames), freelancing, even devlogs/content but it’s hard to tell what actually makes money vs what just sounds good.</p> <p>So I just want to hear from people who’ve actually made money<br/> What path worked for you personally?<br/> What didn’t work at all (even if it’s hyped)?<br/> And if you were starting again today, what would ",
+      "publishedAt": "2026-06-07T18:42:15.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1tzucki",
+      "title": "Need some Devlog context",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tzucki/need_some_devlog_context/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So... ive recently released my first game (it didnt go well) and im working on a next one, and I'm starting to think about sharing development progress and building a small community around it.</p> <p>The thing is, I really dont enjoy making youtube content. Like, at all, i hate being talking head, and it will draw my atention from game itself.</p> <p>I am myself an artist, so i could share arts, early scenario drafts, some gifs with early code thingys etc.</p> <p>So, my questions are:</p> <ol> <li>Where do you post your Devlogs?</li> <li>Do people actually fo",
+      "publishedAt": "2026-06-08T01:43:55.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1u04bak",
+      "title": "Where to promote isometric post-apocalyptic games",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u04bak/where_to_promote_isometric_postapocalyptic_games/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey</p> <p>Over a month ago, I released a post-apocalyptic game called Arkansas 2125. I have a huge problem with promoting the game on Steam. Of course, at first, there were downloads, now when one copy is sold, it's a celebration. The question is where to promote it a month after its release. I wanted to promote it on Fallout-related subreddits, but it says that if something is unrelated, it gets deleted. I don't know how to reach my target audience? The game isn't expensive either, only $5. The problem might be that it's in Early Access. Do you have any sugg",
+      "publishedAt": "2026-06-08T10:45:24.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1u040ef",
+      "title": "Texturepacks and spirits",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u040ef/texturepacks_and_spirits/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Im very new to development so for now im only using free texurepapacks and focusing on learning the framework. But i wonder about if anyone has experience coming from more of a backend background and creating texturepacks, is it hard, whats the best tools, is it better to pay a artist(how much does that cost normally), buying finished texture packs, or using AI to make it. I havent found any tools for the last one, but i have my hopes up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DirectorSouth1405\"> /u/DirectorSouth",
+      "publishedAt": "2026-06-08T10:29:05.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 6
+    "redditPosts": 10
   }
 }
