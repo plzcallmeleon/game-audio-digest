@@ -1,119 +1,86 @@
 {
-  "generatedAt": "2026-06-08T11:00:58.984Z",
+  "generatedAt": "2026-06-09T09:50:37.289Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tzff7r",
-      "title": "6 years later, 20k+ copies sold, $135k revenue and I only launched on Console",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tzff7r/6_years_later_20k_copies_sold_135k_revenue_and_i/",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1u0y2k9",
+      "title": "Any footstep packs yall swear by?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1u0y2k9/any_footstep_packs_yall_swear_by/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Ok so this comes a bit out of nowhere and I’m LATE to the party on making this postmortem but that graphic at Summer Games Fest of over 9k+ games being launched on steam had me thinking. So here this goes. Feel free to ask me anything and I’d be more than happy to chat about set up, who to contact, my experience, all the things.</p> <p>Context:<br/> I work in AAA now and I HATE looking at that game because it’s so wack lol</p> <p>Only launched on one console (I regret that but was young and dumb)</p> <p>$135k in sales (about $35k the fist 3 months)</p> <p>20,6",
-      "publishedAt": "2026-06-07T15:38:54.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Trying to get some footsteps I'm allowed to use in a licensed product but don't really know how to approach getting a diverse and high quality set. Any that yall find especially useful?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gutters0451\"> /u/gutters0451 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1u0y2k9/any_footstep_packs_yall_swear_by/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1u0y2k9/any_footstep_packs_yall_swear_by/\">[comments]</a></span>",
+      "publishedAt": "2026-06-09T07:26:36.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1u0jsaz",
+      "title": "How are the voice packs in NTE so small?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1u0jsaz/how_are_the_voice_packs_in_nte_so_small/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/tl9vcayua46h1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=0cfb02edac3c9bc4291715a28801944aa774102d\">https://preview.redd.it/tl9vcayua46h1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=0cfb02edac3c9bc4291715a28801944aa774102d</a></p> <p><a href=\"https://preview.redd.it/c43udgmxa46h1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=04c2653e336b53a287d925e07ee0768d94a3e52a\">https://preview.redd.it/c43udgmxa46h1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=04c2653e336b53a287d925e07ee0768d94a3e52a</a></p> <p>i can no",
+      "publishedAt": "2026-06-08T20:27:49.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tzwakd",
-      "title": "Roblox; 100 get 50% of gameplay, other half split 8,501,000 games",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tzwakd/roblox_100_get_50_of_gameplay_other_half_split/",
+      "fullname": "t3_1u0xzwg",
+      "title": "Launched my game with thousands of wishlists, but almost ZERO conversion. What am I missing?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u0xzwg/launched_my_game_with_thousands_of_wishlists_but/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<table> <tr><td> <a href=\"https://www.reddit.com/r/gamedev/comments/1tzwakd/roblox_100_get_50_of_gameplay_other_half_split/\"> <img src=\"https://external-preview.redd.it/lqrxjpt30l5h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ea2a293c34a42217302b36fefc1ef6cd156f072\" alt=\"Roblox; 100 get 50% of gameplay, other half split 8,501,000 games\" title=\"Roblox; 100 get 50% of gameplay, other half split 8,501,000 games\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We kinda know the top games get the most sales, here's another chart to prove it.</p> </div><!-- SC_ON --> &#32; submitted by &#",
-      "publishedAt": "2026-06-08T03:18:28.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I recently launched my indie game on Steam, and I’m hitting a massive roadblock that I honestly don't know how to diagnose.</p> <p>Leading up to the launch, I spent a lot of time marketing and managed to accumulate a few thousand wishlists (around <strong>2000</strong> US wishlists). I was cautiously optimistic, expecting at least a standard launch-week conversion rate.</p> <p>However, now that the game is live, the reality check has been brutal. The wishlists are barely converting into purchases—it feels like almost none of those who wishlisted the game are a",
+      "publishedAt": "2026-06-09T07:22:20.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tzrr2f",
-      "title": "What do y'all do about art?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tzrr2f/what_do_yall_do_about_art/",
+      "fullname": "t3_1u0hheh",
+      "title": "A few game development resources and sites I wanted to share!",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u0hheh/a_few_game_development_resources_and_sites_i/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am creative, but I have never been good at art. I am a strong coder, and with the right tools, I could figure out how to code almost anything. I have a passion for making games, but I always feel that I am held back by the fact that I can't create textures, animations, models, rigs, or any of the nice visual components that really make a game feel immersive. I know that If I were to get a job at an actual studio, that I would just be coding, and other people would be doing the art, but if I want full game projects as a solo dev that I can show off for better",
-      "publishedAt": "2026-06-07T23:43:00.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Here are some of the most useful sites and resources that mostly every game developer should know:</p> <ol> <li><a href=\"https://noclip.website/\">https://noclip.website/</a> Is a website where you can no clip around game maps!</li> <li><a href=\"https://gamemechanicexplorer.com/\">https://gamemechanicexplorer.com/</a> Is a really useful website for exploring game mechanics</li> <li><a href=\"https://www.gameuidatabase.com/index.php\">https://www.gameuidatabase.com/index.php</a> Is a collection of UIs from thousands of games</li> <li><a href=\"https://pixabay.com/\">",
+      "publishedAt": "2026-06-08T19:06:30.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1u03qlx",
-      "title": "Where specifically to promote your game (while not released)?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u03qlx/where_specifically_to_promote_your_game_while_not/",
+      "fullname": "t3_1u0qx01",
+      "title": "Making a free browser game to promote a documentary and looking for advice on finding players",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u0qx01/making_a_free_browser_game_to_promote_a/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My game is years away from completion, but at some point I will have to start promoting it. I've read \"social media\" but that is so vague. Do they mean blogposts on niche subreddits? Or 5 second tiktok clips (I don't think that'll work for my game?)? Or substack? I can also create a discord but that sounds like something to do once you actually have a following already.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RobbertGone\"> /u/RobbertGone </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1u03qlx/w",
-      "publishedAt": "2026-06-08T10:14:14.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"https://www.reddit.com/r/gamedev/\">r/gamedev</a>. First time posting here so apologies if this has been covered elsewhere.</p> <p>I am a documentary filmmaker at a college film program. I have spent the last several months building a free browser-based card survival game called Making the Cut as a promotional tool for a documentary series I am releasing on YouTube called Freshman Up. The game simulates surviving the first year of film school and is based on real students and light film themed scenarios about student filmmaking.</p> <p>The game is ",
+      "publishedAt": "2026-06-09T01:20:30.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1tzc4go",
-      "title": "We've Been Releasing One Game per Month for 18 months! Here's What We Learned",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tzc4go/weve_been_releasing_one_game_per_month_for_18/",
+      "fullname": "t3_1u0djho",
+      "title": "How to be confident enough to share my games I'm making with others?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u0djho/how_to_be_confident_enough_to_share_my_games_im/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong>Context</strong>: We're a video game collective of four close friends based in Brussels (Belgium). We originally met during the 2024 Brussels Game Jam, and it immediately clicked. We shared the same passion for indie games, and at the time we had almost no experience making them. So we decided to release one game every month to gain experience and challenge us to release games. Since then, we've released 17 monthly games plus a few bonus games, on both <a href=\"https://store.steampowered.com/curator/46148486\">Steam</a> and <a href=\"https://cumulet.itch",
-      "publishedAt": "2026-06-07T13:26:22.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I have a hard time showing my games to people. Even my friends that are gamers. I got a twitch streamer to play my game but I couldn't watch them play it and I basically went dark.</p> <p>I need feedback, but I have levels of trust.</p> <p>I post or show the game and get feedback like, It doesn't have this, it doesn't do that. Then they start adding stuff to the scope of the game. If you added this and maybe if it did that. Which wasn't part of the scope of the game.</p> <p>If I show it to my friends, I write down all the notes they give me.</p> <p>I rarely sh",
+      "publishedAt": "2026-06-08T16:51:59.000Z"
     },
     {
       "source": "reddit",
       "subreddit": "gamedev",
-      "fullname": "t3_1u035lk",
-      "title": "Promotion music on Social media",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u035lk/promotion_music_on_social_media/",
+      "fullname": "t3_1u0qd7q",
+      "title": "Creating a prototype for a indie game",
+      "url": "https://www.reddit.com/r/gamedev/comments/1u0qd7q/creating_a_prototype_for_a_indie_game/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys I have a question. I see all the time short videos on Social media using copyright music (popular songs). Is this legal for showcasing something? For example I want to use a popular song to decorate my game trailer on Social media. </p> <p>Is this ok or not (since it is not for monetisation).</p> <p>Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ypanos\"> /u/ypanos </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1u035lk/promotion_music_on_social_media/\">[link]</a></span> &#32; <span><",
-      "publishedAt": "2026-06-08T09:42:12.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tzkaxi",
-      "title": "What actually makes money in game dev (for solo/indie devs)?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tzkaxi/what_actually_makes_money_in_game_dev_for/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’m an indie dev trying to figure out where to focus my time, and honestly there’s way too much noise out there.</p> <p>You see people talking about Steam games, mobile games, hyper/hybrid casual with publishers, web games (Poki/CrazyGames), freelancing, even devlogs/content but it’s hard to tell what actually makes money vs what just sounds good.</p> <p>So I just want to hear from people who’ve actually made money<br/> What path worked for you personally?<br/> What didn’t work at all (even if it’s hyped)?<br/> And if you were starting again today, what would ",
-      "publishedAt": "2026-06-07T18:42:15.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1tzucki",
-      "title": "Need some Devlog context",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tzucki/need_some_devlog_context/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So... ive recently released my first game (it didnt go well) and im working on a next one, and I'm starting to think about sharing development progress and building a small community around it.</p> <p>The thing is, I really dont enjoy making youtube content. Like, at all, i hate being talking head, and it will draw my atention from game itself.</p> <p>I am myself an artist, so i could share arts, early scenario drafts, some gifs with early code thingys etc.</p> <p>So, my questions are:</p> <ol> <li>Where do you post your Devlogs?</li> <li>Do people actually fo",
-      "publishedAt": "2026-06-08T01:43:55.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u04bak",
-      "title": "Where to promote isometric post-apocalyptic games",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u04bak/where_to_promote_isometric_postapocalyptic_games/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey</p> <p>Over a month ago, I released a post-apocalyptic game called Arkansas 2125. I have a huge problem with promoting the game on Steam. Of course, at first, there were downloads, now when one copy is sold, it's a celebration. The question is where to promote it a month after its release. I wanted to promote it on Fallout-related subreddits, but it says that if something is unrelated, it gets deleted. I don't know how to reach my target audience? The game isn't expensive either, only $5. The problem might be that it's in Early Access. Do you have any sugg",
-      "publishedAt": "2026-06-08T10:45:24.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u040ef",
-      "title": "Texturepacks and spirits",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u040ef/texturepacks_and_spirits/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Im very new to development so for now im only using free texurepapacks and focusing on learning the framework. But i wonder about if anyone has experience coming from more of a backend background and creating texturepacks, is it hard, whats the best tools, is it better to pay a artist(how much does that cost normally), buying finished texture packs, or using AI to make it. I havent found any tools for the last one, but i have my hopes up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DirectorSouth1405\"> /u/DirectorSouth",
-      "publishedAt": "2026-06-08T10:29:05.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I want to better my knowledge about creating prototypes and I want to get a better understanding of how other people do it so if you have some time please review and critique my current prototype workflow, thanks</p> <p>Some key details:</p> <p>solo developer using unity and this is the first project where I am applying a more serious workflow. My game (after prototype) will be a short horror story game with a big focus on mechanics and the story will mostly be visual and some reading, almost no cutscenes or voice lines.</p> <p>I have read about prototypes lik",
+      "publishedAt": "2026-06-09T00:55:38.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 10
+    "redditPosts": 7
   }
 }
