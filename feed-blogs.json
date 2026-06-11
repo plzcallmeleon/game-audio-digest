@@ -1,32 +1,39 @@
 {
-  "generatedAt": "2026-06-10T10:05:57.354Z",
+  "generatedAt": "2026-06-11T10:40:17.868Z",
   "lookbackHours": 72,
   "blogs": [
     {
       "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "Looking back on AirCon26: 31 livestreams, 40 meetups worldwide, and the biggest Airwiggles year yet!",
-      "url": "https://www.asoundeffect.com/aircon26-wrapup/",
-      "publishedAt": "2026-06-09T16:22:50.000Z",
+      "name": "Designing Sound",
+      "title": "Designing Sound",
+      "url": "https://designingsound.org/",
+      "publishedAt": null,
       "author": "",
       "description": "",
-      "content": "Lewis Thompson from Airwiggles looks back at AirCon26, the free online audio conference: The post Looking back on AirCon26: 31 livestreams, 40 meetups worldwide, and the biggest Airwiggles year yet! appeared first on A Sound Effect ."
+      "content": "Jack and I couldn't shift the site into archive/hibernation mode without putting together one last post. When we announced the decision, we heard from so many in the community about what the site has meant to you over the years. We hope you'll forgive a little self-indulgence as we look back on what the site has meant to us, because it...and all of you...have had a big impact &#x02026; [Read More...]"
     },
     {
       "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "29 great new sound effects libraries: Surround Rome, nocturnal insects, older cars, horror vocals &#038; more",
-      "url": "https://www.asoundeffect.com/29-great-new-sound-effects-libraries-surround-rome-nocturnal-insects-older-cars-horror-vocals-more/",
-      "publishedAt": "2026-06-09T11:23:36.000Z",
+      "name": "Designing Sound",
+      "title": "About",
+      "url": "https://designingsound.org/about/",
+      "publishedAt": null,
       "author": "",
       "description": "",
-      "content": "Explore 29 new sound effects libraries: 5.0 surround Rome ambiences, a Madurai festival in ambisonics, a 192 kHz '89 Toyota Celica, horror vocal FX, and more. The post 29 great new sound effects libraries: Surround Rome, nocturnal insects, older cars, horror vocals &#038; more appeared first on A Sound Effect ."
+      "content": "DesigningSound.org is a resource dedicated to the art and technique of sound design, with the aim of sharing information and knowledge for free and without advertising. Founded by Miguel Isaza in 2008, it was later merged with Jake Riehle&#8217;s Filmsound Daily . In 2011, Designing Sound was handed over to Jack Menhorn , Shaun Farley and Varun Nair , who ran the site until it was put into hibernation in January of 2019. The site, and all of its valuable content, remains preserved here until the day someone new can be trusted with it. Staff Contributors Have Included&#8230; (in no particular order) Damian Kastbauer Peter Albrechtsen Michael Taylor Sam Ejnes Damian Kastbauer Cormac Donnelly Erica Basnicki Berrak Nil Boya Doron Reizes Marie Tueje Joshau Kaplan Topher Pirkl John Black Craig Deskins Graham Donnelly Bradley Myer Adriane Kuzminski Michael Klier Ashley Coull Richard Gould Charlie Huguenard Sally-Anne Kellaway Doug Siebum Korey Pereira Ethan Grafton Braden Alexander Luca Fusi Marco Saez Martinez Morten Brogaard Oscar Coen Rodrigo Sacic Victor Zottman Wilfried Nass"
+    },
+    {
+      "source": "blog",
+      "name": "Designing Sound",
+      "title": "Site Policies",
+      "url": "https://designingsound.org/site-policy/",
+      "publishedAt": null,
+      "author": "",
+      "description": "",
+      "content": "Designing Sound is a non-commercial website run by a team of volunteers. We do not align ourselves to products, brands or companies and strive to make sure our content serves the community first. In simpler words: we do not endorse products, have no advertising, do not do paid reviews or publish any content that is paid for. The line can get blurry, as not all commercial transactions involve money. We use the following guidelines to chose the kind of content we publish on this site. Content The content must educate the reader: teach, inform, enquire or question. Products can be mentioned by name, as long its benefit is clear. Eg: Instead of &#8220;Product XYZ is so awesome!&#8221;, &#8220;Product XYZ brought value to our project because it enabled the team to do X quicker&#8221;. Promotion We are happy to back-link projects, website, blogs or products that have direct relevance to sound design or the article that is being published. We are also happy promote websites that align with our philosophy. We treat such requests on a case by case basis through an internal democratic process. News and Contributions Working on something interesting or have news for us? Get in touch, but make sure you are clear about your proposition. We get a lot of emails and traffic. It is easier for the team to sort the signal from noise if you are clear from the start. Most often we encourage guest contributions as we do not have the bandwidth to follow up every case with a detailed interview. It will benefit you and the community if you put your thoughts down as an engaging article. Guest contributions are reviewed by the editor you are in touch with and might also be reviewed by the rest of the team, if required. It is important for us to maintain editorial quality on the site and we might get back to you with suggestions or changes. Our news team usually combines similar news stories into a single post. This helps us keep the site&#8217;s content focused. Since we aren&#8217;t concerned about revenue or ad clicks, we aren&#8217;t pressurised to &#8216;break news&#8217;. If you get in touch with relevant news, it might take a few days till it you see it up on the site. With the amount of news requests we receive, we might publish a few of the stories just on social media (Twitter/Facebook). Reviews As much as we&#8217;d like to support the community by reviewing every product that is out there, we are limited by the size of the team and available time. Every person on the DS team works on the site in their spare time, which is tough to find in the media industry! Get in touch if you have a product that you&#8217;d like reviewed and we&#8217;ll get back to you about it being possible or not — such decisions have no relation to the quality of your product. All reviews are voluntary, so if it is a month where all members of DS are busy we might not be able to commit to a review right away. It is also tough for us to commit to quick turn around times as it often depends on how much spare the time person reviewing it has and, in the case of items with a very specific function, having the right material or circumstances to thoroughly test a product. If we are unable to commit to a review, we&#8217;ll return the NFR licence — if such a thing is possible. ** The DS team is committed to the site and none of this would be possible without the support we have received through all these years from the community. We&#8217;d like to be as open as possible about our policies so that it works to the benefit of everyone."
     }
   ],
   "stats": {
-    "blogPosts": 2
-  },
-  "errors": [
-    "Blog: Error processing Designing Sound: The operation was aborted due to timeout"
-  ]
+    "blogPosts": 3
+  }
 }
