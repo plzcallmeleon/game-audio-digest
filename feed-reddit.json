@@ -1,97 +1,11 @@
 {
-  "generatedAt": "2026-06-11T10:40:20.935Z",
+  "generatedAt": "2026-06-12T10:17:37.513Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u2rip4",
-      "title": "Share Your Wins",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u2rip4/share_your_wins/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Game dev is daunting and I imagine most of you are rather introverted like myself. And if you're a solo dev perhaps even more so. Silently grinding away, trying to make the best game you can. I recently had a huge win after several months of trying to figure out a clean workflow for creating seamless isometric tiles that work in my game. When they lined up I jumped from my chair with joy. </p> <p>I hadn't had anyone to share it with, and figured a few of you all might not either. So, please share some of your recent wins, I'd love to hear about them.</p> </div",
-      "publishedAt": "2026-06-11T06:50:16.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u22ue9",
-      "title": "The Steam Personal Calendar is the best change valve has made in years.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u22ue9/the_steam_personal_calendar_is_the_best_change/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've got a hot take, since everyone has been terrified of the new steam changes, thinking it will destroy indies and make their release plan useless. </p> <p>I get that change is scary, but I believe this change will prove to be an incredible boost for indies and discoverability.</p> <p>This comes down to a few things that in my opinion make up for losing Popular Upcoming multiple times over:</p> <ol> <li><p>Rather than showing your game to <strong>all</strong> of steam, it specifically shows it to people who are interested in similar games. This automatically",
-      "publishedAt": "2026-06-10T13:52:58.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u2ugif",
-      "title": "My first 3 reviews are negative and almost meaningless. What did i do wrong? Why is this hapening?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u2ugif/my_first_3_reviews_are_negative_and_almost/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I have been working on this project nonstop for more than a year. After releasing the demo, I was excitedly waiting for player reviews.</p> <p>Then I received my first review . The player's PC specifications were below the minimum requirements, yet he complained about poor optimization and said he couldn't play the game because of the level design.</p> <p>First of all, the optimization in this game is actually pretty good. I used very low-poly assets and spent a lot of time optimizing the game. Even after receiving that review, I tried to take it positively an",
-      "publishedAt": "2026-06-11T09:44:31.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u2relv",
-      "title": "How difficult is it actually to support split-screen in PC games?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u2relv/how_difficult_is_it_actually_to_support/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I posted a discussion in the Halo subreddit about the developer's decision to not support split-screen on PC even though it's being supported on consoles. I was met with a large number of responses generalizing that \"PC is difficult to optimize for\" and it would be too large a development effort to devote time to. I wanted to get the opinion of any game developers with some more insight into this topic. </p> <p>For example, for Halo: Campaign Evolved (a UE5 game), what's a estimation for how difficult it is to support split screen on PC versions but still supp",
-      "publishedAt": "2026-06-11T06:43:50.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u2v9le",
-      "title": "is there any in demand skill on game dev right now?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u2v9le/is_there_any_in_demand_skill_on_game_dev_right_now/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>this is my idea right now but I am not sure, is this true?</p> <p>In demand:</p> <p>- UE5</p> <p>- Environment design?</p> <p>- Senior tech art?</p> <p>- storyboards?</p> <p>a few low in demand due to high supply would be?></p> <p>concept art, pixel art, sound and composers?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/allbirdssongs\"> /u/allbirdssongs </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1u2v9le/is_there_any_in_demand_skill_on_game_dev_right_now/\">[link]</a></span> &#32; <span><a href=\"ht",
-      "publishedAt": "2026-06-11T10:29:48.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u2ut0z",
-      "title": "I recently updated my steam page according to advice people give me on reddit and now I'm looking for some feedback",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u2ut0z/i_recently_updated_my_steam_page_according_to/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I created my first steam page some days ago and posted it here and lots of people gave me advice to make it better, i recently updated it and want you to check out and give me some feedback on it.</p> <p>Steam page - <a href=\"https://store.steampowered.com/app/4615660/Woke_Up_In_a_Dark_Nightmare/\">https://store.steampowered.com/app/4615660/Woke_Up_In_a_Dark_Nightmare/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Mkssaps\"> /u/Mkssaps </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1u2ut0z/i_recen",
-      "publishedAt": "2026-06-11T10:04:03.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u2iu8n",
-      "title": "I want to build my first game",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u2iu8n/i_want_to_build_my_first_game/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Nothing really started yet. I just turned 18 and start college in the fall so I’d have to finish it before then. but I have ADHD and get possessed with projects so learning curves don’t exist. I have some experience with blender and 3-D modeling/sculpting. And only recently opened unreal engine 5. My coding knowledge is almost nonexistent but I can learn really quickly or ask someone that I know to help. I have played a Bajillion games. The question is, how do I figure out what kind of game I’m building? For example, should I choose Friend slop, multiplayer, s",
-      "publishedAt": "2026-06-10T23:44:42.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u2obgw",
-      "title": "How do you tell when your Steam page is clear to players, not just clear to you as the dev?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u2obgw/how_do_you_tell_when_your_steam_page_is_clear_to/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My team and I recently launched the demo for our game on Steam, and one thing I’m learn about is how to better describe and present a game to an audience? </p> <p>In our case, the core idea is that players generate playable characters who become actual strategic units in a roguelike autobattler. So the AI part isn’t just asset generation or back-end workflow, it changes the run-to-run strategy layer. </p> <p>I’d love honest feedback on two things:<br/> 1. Does that distinction sound meaningful to you?<br/> 2. If you saw this on a Steam page, what wording would",
-      "publishedAt": "2026-06-11T03:58:50.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 8
-  }
+    "redditPosts": 0
+  },
+  "errors": [
+    "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
+  ]
 }
