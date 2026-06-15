@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-14T09:38:29.095Z",
+  "generatedAt": "2026-06-15T12:20:05.037Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1u5fbx2",
-      "title": "No sound",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1u5fbx2/no_sound/",
+      "fullname": "t3_1u5qny3",
+      "title": "Wwise audio question",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1u5qny3/wwise_audio_question/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Anyone experiencing a game with no sound? Im trying to play Eternal Sonata but there's no sound.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lm_not_surprised\"> /u/lm_not_surprised </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1u5fbx2/no_sound/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1u5fbx2/no_sound/\">[comments]</a></span>",
-      "publishedAt": "2026-06-14T08:09:30.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I have created some music stems to be played behind closed doors of nightclubs scattered around a city. </p> <p>I currently have them in my actor mixer. Should I keep them there or should I move them over to the interactive Music Hierarchy? </p> <p>Currently using 2024.1.9 due to the nature of the game build, I believe in modern versions the two are the same?</p> <p>What would you guys do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kalimoray\"> /u/Kalimoray </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/",
+      "publishedAt": "2026-06-14T17:08:25.000Z"
     }
   ],
   "stats": {
