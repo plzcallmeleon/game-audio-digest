@@ -1,97 +1,11 @@
 {
-  "generatedAt": "2026-06-17T11:01:01.874Z",
+  "generatedAt": "2026-06-18T10:24:22.192Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1u7d680",
-      "title": "Your favourite power up / item pickup sounds from the 8 and 16 bit eras?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1u7d680/your_favourite_power_up_item_pickup_sounds_from/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>For me the timeless champions are: </p> <p>- Castlevania NES: I strongly recommend any sound designer to study them, slow them down to see how they were constructed. It's incredible how effective and satisfying they sound, and how creative and resourceful the sound people on this game were. Picking up a heart or throwing the holy water sound fantastic even by the standards of today.</p> <p>- The Legend of Zelda NES: there's something so special and \"key like\" when picking up a key on a dungeon.</p> <p>- Metal Slug 1/2/X/3 on theNEO GEO: picking up any weapon a",
-      "publishedAt": "2026-06-16T13:12:22.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u85xfu",
-      "title": "How many copies to break even? Most devs guess too low. Notes from someone who worked at a publisher",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u85xfu/how_many_copies_to_break_even_most_devs_guess_too/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong>Premise</strong>: this stuff is not sexy or exciting, but is important to understand when starting to put togetheer a pitchdeck to show to the Publishers, to ask for funding.</p> <p><strong><em>TLDR: Your break-even threshold is not Dev budget divided by Retail Price.</em></strong></p> <p>It is in copies, and the number is almost always higher than people expect, because a $29.99 price on Steam turns into roughly $14 of actual net by the time it reaches you.<br/> Spent some good years on the publishing side and this always caught off guard the devs I t",
-      "publishedAt": "2026-06-17T10:01:25.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u839co",
-      "title": "Marketing Tip: How focusing on an extreme historical niche got my solo dev game featured by real historians (and boosted my wishlists).",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u839co/marketing_tip_how_focusing_on_an_extreme/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey fellow devs, I’m a solo dev from Japan. I wanted to share a marketing approach that worked surprisingly well for my zero-budget game.</p> <p><strong>The Game:</strong> A sandbox RPG set in the Hundred Years' War with exactly 1,015 real historical figures. (Yes, I manually researched their stats and relationships).<br/> <strong>The Problem:</strong> I had no marketing budget, and pitching a UI-heavy, complex historical game to mainstream gaming media felt impossible.</p> <p><strong>The Strategy:</strong> Instead of gaming journalists, I targeted absolute ex",
-      "publishedAt": "2026-06-17T07:22:17.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u7cl6q",
-      "title": "MECCHA CHAMELEON earned almost 10 million dollars and was made in two months.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u7cl6q/meccha_chameleon_earned_almost_10_million_dollars/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>The game costs less than $5, looks like something most people would scroll past on Steam without a second thought, and yet it sold over 2 million copies in just a few days. That amounts to approximately $9.6 million in gross revenue. It's only been two days, but things are really picking up. With all this hype, I think it'll easily sell twice as much.<br/> I know full well that games like this are one in a million among all the flops out there, but that doesn’t change the fact that this is a single developer who had previously released mediocre games that didn",
-      "publishedAt": "2026-06-16T12:48:49.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u82rf2",
-      "title": "UE Blueprint devs: inventory system from scratch or premade?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u82rf2/ue_blueprint_devs_inventory_system_from_scratch/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>If you needed an inventory system with some custom functionality, would you start from scratch or use an existing one?</p> <p>I went with a Fab pack because it seemed faster. Now it feels like every change turns into a debugging session. I’ll fix one thing and break something else.</p> <p>At this point I’m spending more time reading someone else’s blueprints than actually adding features. Starting from scratch sounded like a bad idea at first, but now I’m wondering if it would’ve been less work 😫</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"http",
-      "publishedAt": "2026-06-17T06:53:26.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u80gsc",
-      "title": "If i decided to make an rpg should i use Game Maker or RPG Maker?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u80gsc/if_i_decided_to_make_an_rpg_should_i_use_game/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I have an idea for a Final Fantasy like rpg and i was wondering if i could make a game of it, but i cant decide if im going to use Game Maker or RPG Maker, i know it may sound silly but i have an explanation.</p> <p>I used to do some projects on Game Maker a few years back, the last time i used it was 2020, and RPG Maker i used more in 2017 and 2018. The question is, i have an rpg in mind, i could do it in Game Maker, but it would take way more time since i would have to do stuff like, inventory, text boxes, battle system and all the stuff a rpg have, but on t",
-      "publishedAt": "2026-06-17T04:46:19.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u7d762",
-      "title": "New Popular Upcoming - How it actually works + AMA about steam algorithms",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u7d762/new_popular_upcoming_how_it_actually_works_ama/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'v been seeing lot of misinformation on the new algorithm, this should help you understand how it works. It's a bit complicated.</p> <p><strong>Misconceptions</strong>...</p> <ul> <li>New algorithm does NOT use total wishlists meaning a 10k wishlist game can technically be above a 100k one (odds wise this usually won't happen but it's possible)</li> <li>The new algorithm is not ordered by release date. (It's possible there is a hidden boost releasing sooner than others but it's not a hard order system)</li> <li>The new algorithm does not require 7k wishlists ",
-      "publishedAt": "2026-06-16T13:13:28.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1u7jemb",
-      "title": "When does procedural generation work well in games, and when does it not?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u7jemb/when_does_procedural_generation_work_well_in/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>(Excluding LLM-based generation)</p> <p>I’m building a roguelike and looking at procedural generation systems to improve replayability, and I’m curious what games you felt like handle it well (or don’t). </p> <p>I love the maps in Deep Rock Galactic. Each run feels unique.</p> <p>I felt like Starfield map generation was not done as well as it could have been. Each outpost felt like a reskin.</p> <p>What are your favorite examples of good/bad procedural generation and why?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Pe",
-      "publishedAt": "2026-06-16T17:03:01.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 8
-  }
+    "redditPosts": 0
+  },
+  "errors": [
+    "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
+  ]
 }
