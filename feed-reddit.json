@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-18T10:24:22.192Z",
+  "generatedAt": "2026-06-19T10:41:03.730Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1u9v4ma",
+      "title": "On Krotos Video to Sound integration with Adobe Premiere, and why I think we're being too optimistic",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1u9v4ma/on_krotos_video_to_sound_integration_with_adobe/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I want to start with something that I think gets overlooked in these conversations.</p> <p>This industry is already in a pretty dire state. The demand for work vastly outweighs the supply of real, decent-paying opportunities. Formal hiring barely exists. Networking is practically the only way in. Post houses almost never hire mid or senior level from outside. The number of people who actually make a stable living exclusively from this work is tiny.</p> <p>That's the baseline. That's where we already are.</p> <p>Now tools like Krotos' new integration come along",
+      "publishedAt": "2026-06-19T07:16:18.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

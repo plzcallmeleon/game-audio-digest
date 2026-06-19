@@ -1,30 +1,9 @@
 {
-  "generatedAt": "2026-06-18T10:24:21.019Z",
+  "generatedAt": "2026-06-19T10:41:02.359Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "Shedding Light on the Sound of &#8216;Star Wars: Maul &#8211; Shadow Lord&#8217; – with David W. Collins",
-      "url": "https://www.asoundeffect.com/star-wars-maul-shadow-lord-sound/",
-      "publishedAt": "2026-06-17T11:45:32.000Z",
-      "author": "",
-      "description": "",
-      "content": "David W. Collins takes you behind the thrilling sound of Star Wars: Maul – Shadow Lord - out now on Disney+ The post Shedding Light on the Sound of &#8216;Star Wars: Maul &#8211; Shadow Lord&#8217; – with David W. Collins appeared first on A Sound Effect ."
-    },
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "Shaping the sound of Spider Noir",
-      "url": "https://www.asoundeffect.com/spider-noir-sound/",
-      "publishedAt": "2026-06-17T11:33:50.000Z",
-      "author": "",
-      "description": "",
-      "content": "Go behind the sound of Amazon Prime's Spider Noir this video interview with the show's sound team + get the more stories behind the sound of Spider-Man. The post Shaping the sound of Spider Noir appeared first on A Sound Effect ."
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 2
+    "blogPosts": 0
   },
   "errors": [
     "Blog: Error processing Designing Sound: The operation was aborted due to timeout"
