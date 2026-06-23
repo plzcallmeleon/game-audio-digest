@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-22T12:08:32.104Z",
+  "generatedAt": "2026-06-23T09:44:03.396Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1ucxlis",
+      "title": "Unity can't read the generated soundbank path of audiokinetic wwise.",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1ucxlis/unity_cant_read_the_generated_soundbank_path_of/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/7bb763icjw8h1.png?width=1017&amp;format=png&amp;auto=webp&amp;s=009d73486d72ad4bd54ff8a964eae18d0650525e\">https://preview.redd.it/7bb763icjw8h1.png?width=1017&amp;format=png&amp;auto=webp&amp;s=009d73486d72ad4bd54ff8a964eae18d0650525e</a></p> <p>Hello. I am trying to figure out why unity can't read the soundbank path of wwise and even if the path is correct in Wwise integration settings. The message below appears after i begin running the game.</p> <p><a href=\"https://preview.redd.it/8vp09c2gjw8h1.png?width=1920&amp;format=png&",
+      "publishedAt": "2026-06-22T21:28:10.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

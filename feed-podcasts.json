@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-22T12:08:19.881Z",
+  "generatedAt": "2026-06-23T09:43:42.340Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "363 – This Is The Way_Carrying The Star Wars Sonic Legacy Forward",
+      "guid": "tag:soundcloud,2010:tracks/2344254503",
+      "url": "https://soundcloud.com/tonebenders-podcast/363-this-is-the-way_carrying",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "transcript": "David Acord, Matthew Wood, Bonnie Wild and David Collins have had their ears on just about every high-level Star Wars project in the last decade or more. From films to games to series (both live action and animated) these four are the modern-day trail blazers of the sounds from that galaxy far, far away. We discuss the Star Wars Sound Effects library, how the iconic sounds of the franchise are evolving, and why The Mandalorian And Grogu was the most fun they have ever had on a Star Wars gig. _____SPONSORS: Get up to 60% off Sound Ideas proprietary libraries right now. Sound Ideas hasn’t offered a sale like this before, so if you’re building out your sound effects library for upcoming projects, this is a great time to take another look at what they have to offer. The more you spend, the more you save: with discounts of 30%, 50%, or 60% depending on your order total. Pick up the libraries you’ve had on your wish list, or add something new before the next project needs it. Stock up now at https://sound-ideas.com/ ________ Tonebenders’ host, Tim Muirhead, will be hosting and moderating a FREE screening of Independence Day to mark the films 30th anniversary. In attendance will be some of the original sound crew that worked on it. This will take place in Toronto, on July 6th, starting at 6pm at the Hot Docs Theatre. After the screening I will talk with the film’s Supervising Sound Editor Val Kuklowski, Foley Artist Andy Malcom and Sound Effects Editor Mark Lanza about their work on this groundbreaking film. Go to: https://www.eventbrite.ca/e/vff-mpse-present-independence-day-30th-anniversary-screening-live-qa-tickets-1984406081007?aff=erellivmlt and use the code “VFFTonebenders” to claim your free seats and entrance to the post screening party where there will be complimentary bites and refreshments. _________Attention, sound designers! The community run Field Recording Slack Channel’s Mechanical Malfunctions Crowdsource is open from now through July 17th. All you have to"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
