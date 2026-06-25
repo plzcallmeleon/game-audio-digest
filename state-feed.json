@@ -1,16 +1,12 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "54c45c77-1845-4154-8b7e-ee02b1cd88a4": 1781694029804,
     "tag:soundcloud,2010:tracks/2335857311": 1781778243428,
     "tag:soundcloud,2010:tracks/2344254503": 1782207822340,
     "54190be2-651a-11f1-b8e3-cfd29079b951": 1782293640022,
     "tag:soundcloud,2010:tracks/2339449835": 1782293640919
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/sale/": 1781694036523,
-    "https://www.asoundeffect.com/shop": 1781694039239,
-    "https://www.asoundeffect.com/mindfulaudio/": 1781694042664,
     "https://www.asoundeffect.com/star-wars-maul-shadow-lord-sound/": 1781778244967,
     "https://www.asoundeffect.com/spider-noir-sound/": 1781778244967,
     "https://designingsound.org/": 1782130105453,
@@ -20,15 +16,8 @@
     "https://www.asoundeffect.com/36-new-sound-effects-libraries-combat-gore-surround-seas/": 1782293642353
   },
   "seenRedditPosts": {
-    "t3_1u7d680": 1781694060302,
-    "t3_1u85xfu": 1781694061374,
-    "t3_1u839co": 1781694061374,
-    "t3_1u7cl6q": 1781694061374,
-    "t3_1u82rf2": 1781694061374,
-    "t3_1u80gsc": 1781694061374,
-    "t3_1u7d762": 1781694061374,
-    "t3_1u7jemb": 1781694061374,
     "t3_1u9v4ma": 1781865663139,
-    "t3_1ucxlis": 1782207842843
+    "t3_1ucxlis": 1782207842843,
+    "t3_1uedzki": 1782379553898
   }
 }
