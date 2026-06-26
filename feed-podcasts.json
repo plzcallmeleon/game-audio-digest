@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-25T09:25:34.870Z",
+  "generatedAt": "2026-06-26T09:31:21.967Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Soundworks Collection Podcast",
+      "title": "The Sound of Monarch: Legacy of Monsters",
+      "guid": "54c45c77-1845-4154-8b7e-ee02b1cd88a4",
+      "url": "https://podcasters.spotify.com/pod/show/soundworkscollection/episodes/The-Sound-of-Monarch-Legacy-of-Monsters-e3kt7vp",
+      "publishedAt": "2026-06-17T05:11:26.000Z",
+      "transcript": "<p>Go behind the scenes of Monarch: Legacy of Monsters with re-recording mixer and sound effects editor Shaughnessy Hare and re-recording mixer Brittany Ellis as they explore the art of building scale, emotion, and immersion through sound. From shaping the massive presence of Titans like Godzilla to crafting intimate, story-driven moments, they break down how sound design, mixing, and music work together to guide the audience’s experience.</p>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }

@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-06-25T09:25:54.423Z",
+  "generatedAt": "2026-06-26T09:31:49.844Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1uedzki",
-      "title": "Are Fmod and compass changes no good friends?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1uedzki/are_fmod_and_compass_changes_no_good_friends/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I'm trying to implement a music track into a game. This track has a bunch of compass changes (as you can see in the image) that LINE PERFECTLY WITH THE TIMELINE. I know 39, 40 and 41 look too much together, it's because of the compass changes.</p> <p><a href=\"https://preview.redd.it/c3gmny8gh89h1.png?width=1867&amp;format=png&amp;auto=webp&amp;s=03016136b895137b7fd4941da079eb4742496b36\">https://preview.redd.it/c3gmny8gh89h1.png?width=1867&amp;format=png&amp;auto=webp&amp;s=03016136b895137b7fd4941da079eb4742496b36</a></p> <p>I'm having a problem with the tr",
-      "publishedAt": "2026-06-24T13:46:26.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
