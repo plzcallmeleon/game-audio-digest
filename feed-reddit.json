@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-06-27T08:39:03.410Z",
+  "generatedAt": "2026-06-28T08:55:59.864Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1ugc406",
-      "title": "Way to measure LUFS value from game output when engine doesn't have its own way?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1ugc406/way_to_measure_lufs_value_from_game_output_when/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Im currently helping out on a unity game that is just using unity's own audio engine.</p> <p>I should add no I cannot add any additional code / plugins / extensions etc to the project itself.</p> <p>Is there some way I can measure LUFS values, perhaps with some bit of software running on my PC in the background? I have an RME interface if that makes a difference. I ask as stuff like OBS has a volume readout even when not capturing, perhaps there is something that can do LUFS?</p> <p>I have searched about online and results are just for vst plugins or software ",
-      "publishedAt": "2026-06-26T16:45:36.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
