@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-06-29T11:04:25.804Z",
+  "generatedAt": "2026-06-30T09:40:34.773Z",
   "lookbackHours": 72,
   "blogs": [],
   "stats": {
     "blogPosts": 0
-  },
-  "errors": [
-    "Blog: Error processing Designing Sound: The operation was aborted due to timeout"
-  ]
+  }
 }
