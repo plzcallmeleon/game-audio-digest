@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-06-30T09:40:36.368Z",
+  "generatedAt": "2026-07-01T09:52:07.308Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1uk1zfn",
+      "title": "Logic Pro for Game Audio",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1uk1zfn/logic_pro_for_game_audio/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello everybody. I'm a spanish music producer who wants to get into the Game Audio industry, and even though I know Reaper is the man, I believe Logic is a great tool for sound design with a lot of powerful stock plugins. However, I'm considering giving Reaper a shot mostly because it handles massive audio rendering way better than any other DAW. I just wanted to know if somebody in the industry uses Logic.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/summerwaze\"> /u/summerwaze </a> <br/> <span><a href=\"https://www.red",
+      "publishedAt": "2026-06-30T21:19:30.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1ujl1ah",
+      "title": "Sounds API recommendation?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1ujl1ah/sounds_api_recommendation/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Anyone any recommendations to implement a sound library into a web application? Users should access these into game creation. Which platforms offer these?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/crazygipi\"> /u/crazygipi </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1ujl1ah/sounds_api_recommendation/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1ujl1ah/sounds_api_recommendation/\">[comments]</a></span>",
+      "publishedAt": "2026-06-30T10:07:08.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 2
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
