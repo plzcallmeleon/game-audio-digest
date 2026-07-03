@@ -1,32 +1,9 @@
 {
-  "generatedAt": "2026-07-02T09:16:04.029Z",
+  "generatedAt": "2026-07-03T09:21:45.519Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1ukigyy",
-      "title": "The /r/GameAudio Community Career Corner July, 2026 - for job seekers, help wanted, new career queries, and evaluation requests",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1ukigyy/the_rgameaudio_community_career_corner_july_2026/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>This is the <strong><em>only</em></strong> place in the sub for queries and requests related to;</p> <ul> <li>seeking work</li> <li>seeking help</li> <li>new career advice</li> <li>evaluations of work</li> </ul> <p>If this pertains to your own website, then it goes in comments section of the current <strong>Share Mine</strong> community pinned post</p> <hr/> <p>Some links related to industry jobs</p> <table><thead> <tr> <th align=\"left\">Site / Company</th> <th align=\"left\">URL</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>General/Industry Job Sites<",
-      "publishedAt": "2026-07-01T11:02:10.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1ukifgn",
-      "title": "The GameAudio Share Mine July, 2026 - Use this post to link to / discuss your site, works, product, business or anything you created or are affiliated with",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1ukifgn/the_gameaudio_share_mine_july_2026_use_this_post/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><h3>Game Audio related Self-Promotion welcomed in the comments of this post</h3> <p>The comments section of this post is where you can provide info and links pertaining to your site, blog, video, sfx kickstarter or anything else you are affiliated with related to Game Audio. Instead of banning or removing this kind of content outright, this monthly post allows you to get your info out to our readers while keeping our front page free from billboarding. This as an opportunity for you and our readers to have a regular go-to for discussion regarding your latest news/",
-      "publishedAt": "2026-07-01T11:00:14.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 2
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

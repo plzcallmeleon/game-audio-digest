@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-07-02T09:16:02.883Z",
+  "generatedAt": "2026-07-03T09:21:44.034Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "Caring for the Skywalker Sound Library and recording Impulse responses &#8211; with sound librarian &#038; recordist Kai Paquin",
+      "url": "https://www.asoundeffect.com/skywalker-sound-library/",
+      "publishedAt": "2026-07-02T09:52:07.000Z",
+      "author": "",
+      "description": "",
+      "content": "Ben Reichstein&#8217;s Field &#38; Foley Podcast &#8211; a member of the Audio Podcast Alliance &#8211; has shared this interesting new interview with Kai Paquin, sound librarian and recordist at Skywalker Sound, on caring for the studio&#8217;s vast sound library and the craft of recording impulse responses: Here&#8217;s the official episode description My guest today is [&#8230;] The post Caring for the Skywalker Sound Library and recording Impulse responses &#8211; with sound librarian &#038; recordist Kai Paquin appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   },
   "errors": [
     "Blog: Error processing Designing Sound: The operation was aborted due to timeout"
