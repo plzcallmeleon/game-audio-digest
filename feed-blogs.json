@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-07-04T08:40:17.628Z",
+  "generatedAt": "2026-07-05T08:55:28.595Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "Get great deals on excellent sound effects libraries, plugins &#038; instruments &#8211; and free sounds with ANY order!",
+      "url": "https://www.asoundeffect.com/sale/",
+      "publishedAt": "2026-07-02T11:21:54.000Z",
+      "author": "",
+      "description": "",
+      "content": "Land excellent deals on sound libraries, plugins and instruments here - while you have the chance! The post Get great deals on excellent sound effects libraries, plugins & instruments &#8211; and free sounds with ANY order! appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   },
   "errors": [
     "Blog: Error processing Designing Sound: The operation was aborted due to timeout"

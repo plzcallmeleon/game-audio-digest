@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-04T08:40:18.978Z",
+  "generatedAt": "2026-07-05T08:55:30.146Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1und7v9",
+      "title": "Inspired by the OST from the game MiSide, I want to start making music with the same feel! Where do I begin?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1und7v9/inspired_by_the_ost_from_the_game_miside_i_want/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I recently finished playing through the game and I loved the OST so much that it has inspired me to want to make music just like it, but I don't know where to begin.</p> <p>I assume the music was made in some sort of music production software, but other than that, I don't know how the developers made the ambient sounds, the instruments, and everything else.</p> <p>I was hoping someone here could help me out or point me in the right direction! I would really love to learn how to make this style of music and share my tracks with everyone :)</p> </div><!-- SC_ON ",
+      "publishedAt": "2026-07-04T16:21:34.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
