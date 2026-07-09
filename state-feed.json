@@ -1,22 +1,18 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2350518764": 1782899507830,
-    "tag:soundcloud,2010:tracks/2344254503": 1782983744510,
     "tag:soundcloud,2010:tracks/2353930577": 1783417539508
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/13-new-sound-effects-libraries-footsteps-horror-household/": 1782899509465,
     "https://www.asoundeffect.com/skywalker-sound-library/": 1783070482000,
     "https://www.asoundeffect.com/sale/": 1783241711979,
     "https://www.asoundeffect.com/shop": 1783333625224,
     "https://www.asoundeffect.com/mindfulaudio/": 1783333628684
   },
   "seenRedditPosts": {
-    "t3_1uk1zfn": 1782899526762,
-    "t3_1ujl1ah": 1782899526762,
-    "t3_1ukigyy": 1782983763496,
-    "t3_1ukifgn": 1782983763496,
-    "t3_1und7v9": 1783241729507
+    "t3_1und7v9": 1783241729507,
+    "t3_1urdj2b": 1783590246481,
+    "t3_1urdmzp": 1783590246481,
+    "t3_1uqvib2": 1783590246481
   }
 }
