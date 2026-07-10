@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-07-09T09:43:05.093Z",
+  "generatedAt": "2026-07-10T09:38:28.424Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "364 - Disclosure Day with Gary Rydstrom",
+      "guid": "tag:soundcloud,2010:tracks/2350518764",
+      "url": "https://soundcloud.com/tonebenders-podcast/364-disclosure-day-with-gary",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "transcript": "Gary Rydstrom sits down with Tim for a fun talk about his work on director Steven Spielberg's latest film, Disclosure Day. Gary's enthusiasm for the craft is evident as he discusses some of his favourite techniques, including building in small sections of silence during action sequences, removing ambient sounds to manipulate the audience, and how Spielberg films often begin with sound montages before music or picture even arrive. Disclosure Day has a stand out sequence involving the main character speaking an alien language consisting of clicks. From script to the final version, Gary takes us through his role in the evolution of this language coming to life. _____SPONSORS: Get up to 60% off Sound Ideas proprietary libraries right now. Sound Ideas hasn’t offered a sale like this before, so if you’re building out your sound effects library for upcoming projects, this is a great time to take another look at what they have to offer. The more you spend, the more you save: with discounts of 30%, 50%, or 60% depending on your order total. Pick up the libraries you’ve had on your wish list, or add something new before the next project needs it. Stock up now at https://sound-ideas.com/ ________ Tonebenders’ host, Tim Muirhead, will be hosting and moderating a FREE screening of Independence Day to mark the films 30th anniversary. In attendance will be some of the original sound crew that worked on it. This will take place in Toronto, on July 6th, starting at 6pm at the Hot Docs Theatre. After the screening I will talk with the film’s Supervising Sound Editor Val Kuklowski, Foley Artist Andy Malcom and Sound Effects Editor Mark Lanza about their work on this groundbreaking film. Go to: https://www.eventbrite.ca/e/vff-mpse-present-independence-day-30th-anniversary-screening-live-qa-tickets-1984406081007?aff=erellivmlt and use the code “VFFTonebenders” to claim your free seats and entrance to the post screening party where there will be complimentary bites and refreshments. ____"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }

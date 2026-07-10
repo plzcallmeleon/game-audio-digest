@@ -1,13 +1,42 @@
 {
-  "generatedAt": "2026-07-09T09:44:05.805Z",
+  "generatedAt": "2026-07-10T09:39:22.260Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "Recording the sounds of an anthill",
+      "url": "https://www.asoundeffect.com/recording-the-sounds-of-an-anthill/",
+      "publishedAt": "2026-07-09T16:18:50.000Z",
+      "author": "",
+      "description": "",
+      "content": "What does an anthill sound like? Find out in this great new video by sound designer and field recordist Rick Blything: The post Recording the sounds of an anthill appeared first on A Sound Effect ."
+    },
+    {
+      "source": "blog",
+      "name": "Designing Sound",
+      "title": "Designing Sound",
+      "url": "https://designingsound.org/",
+      "publishedAt": null,
+      "author": "",
+      "description": "",
+      "content": "Jack and I couldn't shift the site into archive/hibernation mode without putting together one last post. When we announced the decision, we heard from so many in the community about what the site has meant to you over the years. We hope you'll forgive a little self-indulgence as we look back on what the site has meant to us, because it...and all of you...have had a big impact &#x02026; [Read More...]"
+    },
+    {
+      "source": "blog",
+      "name": "Designing Sound",
+      "title": "About",
+      "url": "https://designingsound.org/about/",
+      "publishedAt": null,
+      "author": "",
+      "description": "",
+      "content": "DesigningSound.org is a resource dedicated to the art and technique of sound design, with the aim of sharing information and knowledge for free and without advertising. Founded by Miguel Isaza in 2008, it was later merged with Jake Riehle&#8217;s Filmsound Daily . In 2011, Designing Sound was handed over to Jack Menhorn , Shaun Farley and Varun Nair , who ran the site until it was put into hibernation in January of 2019. The site, and all of its valuable content, remains preserved here until the day someone new can be trusted with it. Staff Contributors Have Included&#8230; (in no particular order) Damian Kastbauer Peter Albrechtsen Michael Taylor Sam Ejnes Damian Kastbauer Cormac Donnelly Erica Basnicki Berrak Nil Boya Doron Reizes Marie Tueje Joshau Kaplan Topher Pirkl John Black Craig Deskins Graham Donnelly Bradley Myer Adriane Kuzminski Michael Klier Ashley Coull Richard Gould Charlie Huguenard Sally-Anne Kellaway Doug Siebum Korey Pereira Ethan Grafton Braden Alexander Luca Fusi Marco Saez Martinez Morten Brogaard Oscar Coen Rodrigo Sacic Victor Zottman Wilfried Nass"
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 3
   },
   "errors": [
-    "Blog: Error fetching article https://designingsound.org/: The operation was aborted due to timeout",
-    "Blog: Error fetching article https://designingsound.org/about/: The operation was aborted due to timeout",
     "Blog: Error fetching article https://designingsound.org/site-policy/: The operation was aborted due to timeout"
   ]
 }

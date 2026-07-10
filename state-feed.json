@@ -1,18 +1,23 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2353930577": 1783417539508
+    "tag:soundcloud,2010:tracks/2353930577": 1783417539508,
+    "tag:soundcloud,2010:tracks/2350518764": 1783676308424
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/skywalker-sound-library/": 1783070482000,
     "https://www.asoundeffect.com/sale/": 1783241711979,
     "https://www.asoundeffect.com/shop": 1783333625224,
-    "https://www.asoundeffect.com/mindfulaudio/": 1783333628684
+    "https://www.asoundeffect.com/mindfulaudio/": 1783333628684,
+    "https://www.asoundeffect.com/recording-the-sounds-of-an-anthill/": 1783676311312,
+    "https://designingsound.org/": 1783676334123,
+    "https://designingsound.org/about/": 1783676345324
   },
   "seenRedditPosts": {
     "t3_1und7v9": 1783241729507,
     "t3_1urdj2b": 1783590246481,
     "t3_1urdmzp": 1783590246481,
-    "t3_1uqvib2": 1783590246481
+    "t3_1uqvib2": 1783590246481,
+    "t3_1usdxde": 1783676363032,
+    "t3_1usfe9q": 1783676363032
   }
 }
