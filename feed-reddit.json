@@ -1,32 +1,9 @@
 {
-  "generatedAt": "2026-07-10T09:39:23.626Z",
+  "generatedAt": "2026-07-11T07:59:09.365Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1usdxde",
-      "title": "GameAudio July, 2026 - Game Sound Blog and Podcast Roundup",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1usdxde/gameaudio_july_2026_game_sound_blog_and_podcast/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>Game Sound Related Blogs</em></strong></p> <p><em>Updated March 2022</em></p> <p>Welcome to the subreddit feature post for Game Audio industry and related blogs and podcasts. If you know of a blog or podcast or have your own that posts consistently a minimum of once per month, please add the link here and we'll put it in the roundup. The current roundup is;</p> <table><thead> <tr> <th align=\"left\">Site</th> <th align=\"left\">Blog</th> </tr> </thead><tbody> <tr> <td align=\"left\">Audio Kinetic Blog</td> <td align=\"left\"><a href=\"https://blog.audiokine",
-      "publishedAt": "2026-07-10T05:00:14.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1usfe9q",
-      "title": "Is there a fix to the very low sound problem other than fx sound?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1usfe9q/is_there_a_fix_to_the_very_low_sound_problem/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>While fx sound fixed the low sound problem it caused low sound quality and sound delay </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PlanktonClassic\"> /u/PlanktonClassic </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1usfe9q/is_there_a_fix_to_the_very_low_sound_problem/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1usfe9q/is_there_a_fix_to_the_very_low_sound_problem/\">[comments]</a></span>",
-      "publishedAt": "2026-07-10T06:20:04.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 2
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
