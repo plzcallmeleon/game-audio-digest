@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-07-13T09:30:52.115Z",
+  "generatedAt": "2026-07-14T08:09:01.661Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Twenty Thousand Hertz",
+      "title": "Eurovision Song Contest: Inside the Gimmicks &amp; Glamour",
+      "guid": "8ed29a84-7a58-11f1-a952-9fbfcdce5a8d",
+      "url": "https://www.20k.org/episodes/eurovision",
+      "publishedAt": "2026-07-13T10:00:00.000Z",
+      "transcript": "For millions of people, Eurovision is a cultural institution, and one of the biggest live television events on Earth. But for many Americans, it remains a complete mystery. In this episode, producer Andrew Anderson takes Dallas and Grace on a joyful crash course through the history, music, controversies, and glorious absurdity of the Eurovision Song Contest. Along the way, they discover which music superstars got their start in Eurovision, how receiving “nul points” can ruin or launch a career, and what this competition reveals about Europe itself. Featuring “Doctor Eurovision” Paul Jordan. Learn more about your ad choices. Visit megaphone.fm/adchoices"
+    },
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "366 – 2026 Sound Effects Field Recording Roundtable Pt 2",
+      "guid": "tag:soundcloud,2010:tracks/2359674533",
+      "url": "https://soundcloud.com/tonebenders-podcast/366-2026-sound-effects-field",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "transcript": "This episode jumps back in into my interview with John Fasal, Charlie Campagna and Eric Potter. 3 of the world’s top field recordists, working in films and games. They discuss the never ending list of new gear out there and how they approach what gear they use, plus their favourite non traditional types of microphones and when they use them. We also announce the details on how you can take part in this year’s Tonebenders Listener Field Recording Stories. Go to https://tonebenderspodcast.com/field-recording-story-submissions/ to get all the details. Go back and here part one of this talk in Eps 365. ______ SPONSORS: If summer has your next project heating up, Sound Ideas is making it easier to build up the library you’ll need. During the Sound Ideas Mid Year Sale, you can save 50% on all proprietary items. From impacts and ambiences to vehicles, animals, machinery, production elements, and specialty effects, you can stock up on professional sounds before the next deadline hits. Get ahead of the edit with sounds ready for the scenes, transitions, textures, and surprises still to come. Shop the 50% off, Mid Year Sale now at https://sound-ideas.com/ ________ If you are interested in field recording, you should know about the O-Mini P48 and the brand new O-Mini PIP miniature omni-directional electret microphones. Each one is hand made by Chris Trevino, a practicing field recordist, and a really engaged member of the sound community. He puts a lot of work into making and testing each mic to ensure they live up to his high standards. They are ultra-sonic capable, which makes manipulating your recordings with them a lot of fun. They are also extremely affordable. At $150us for the P48 & $130 for the PIP, they offer a lot of value for a stereo matched pair. Find out more at https://www.chrisatrevino.com/store * Please note that the Plug-In Power O-Minis are currently our of stock and will be available again in August '26. ________ Make sure you are up to date with everything"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
