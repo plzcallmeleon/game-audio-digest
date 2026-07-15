@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-14T08:09:27.800Z",
+  "generatedAt": "2026-07-15T08:15:34.632Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1uwy7bf",
+      "title": "Would you prototype spatial audio outside your DAW?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1uwy7bf/would_you_prototype_spatial_audio_outside_your_daw/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been experimenting with a standalone spatial composition tool because I wanted to design movement much faster than drawing automation by hand in a DAW.<br/> Instead of tracks, the project focuses around:</p> <p>sound objects<br/> movement behaviors<br/> rooms<br/> scenes<br/> timeline</p> <p>It exports binaural and up to 3rd-order Ambisonics.<br/> My question for people working in games:<br/> Do you think there’s value in authoring complex spatial movement in a dedicated tool before bringing assets into your engine?<br/> I’m happy to hear your thoughts.</",
+      "publishedAt": "2026-07-15T06:55:12.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
