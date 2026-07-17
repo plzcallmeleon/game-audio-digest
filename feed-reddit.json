@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-07-16T08:17:08.930Z",
+  "generatedAt": "2026-07-17T08:12:31.832Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1uxgi1c",
-      "title": "New Security breach audio files (2026)",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1uxgi1c/new_security_breach_audio_files_2026/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I want to create a new SFM video, but the file organization is very complex, and the file specifications aren't compatible with SFM.</p> <p>Could you please rename and reformat the audio files into WAV format—41kHz, mono or stereo—so they are ready for use in Source Filmmaker? I need this urgently.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Negative-Ad1992\"> /u/Negative-Ad1992 </a> <br/> <span><a href=\"https://www.reddit.com/r/technicalFNaF/comments/rl698s/security_breach_audio_dump/?share_id=iuEgfRRULOUcJfSaa_dTv&am",
-      "publishedAt": "2026-07-15T19:53:02.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
