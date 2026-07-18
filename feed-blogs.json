@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-07-17T08:12:30.552Z",
+  "generatedAt": "2026-07-18T07:54:00.775Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "How to design modern anime sound effects",
+      "url": "https://www.asoundeffect.com/anime-sound-effects/",
+      "publishedAt": "2026-07-17T12:15:48.000Z",
+      "author": "",
+      "description": "",
+      "content": "This great tutorial from Dietrich Dice Sound helps you design your own modern anime sound effects: The post How to design modern anime sound effects appeared first on A Sound Effect ."
+    },
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "19 great new sound effects libraries: Animal footsteps, rain in surround, racing SFX, ambisonic sci-fi &#038; more",
+      "url": "https://www.asoundeffect.com/19-new-sound-effects-libraries-surround-grand-prix/",
+      "publishedAt": "2026-07-17T11:37:06.000Z",
+      "author": "",
+      "description": "",
+      "content": "Explore 19 new sound effects libraries: 5.0 surround rain and trains, a Baltimore Grand Prix, hyper-real animal footsteps, ambisonic sci-fi, and more. The post 19 great new sound effects libraries: Animal footsteps, rain in surround, racing SFX, ambisonic sci-fi &#038; more appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 2
   },
   "errors": [
     "Blog: Error processing Designing Sound: The operation was aborted due to timeout"
