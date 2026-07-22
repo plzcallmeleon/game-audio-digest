@@ -1,17 +1,19 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2353930577": 1784189805098
+    "tag:soundcloud,2010:tracks/2353930577": 1784189805098,
+    "8ed29a84-7a58-11f1-a952-9fbfcdce5a8d": 1784709102848,
+    "tag:soundcloud,2010:tracks/2359674533": 1784709103663
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/phase-plant-for-game-audio-sound-design/": 1784103317407,
     "https://www.asoundeffect.com/shop": 1784189807672,
     "https://www.asoundeffect.com/mindfulaudio/": 1784189811155,
     "https://www.asoundeffect.com/anime-sound-effects/": 1784361223438,
-    "https://www.asoundeffect.com/19-new-sound-effects-libraries-surround-grand-prix/": 1784361223438
+    "https://www.asoundeffect.com/19-new-sound-effects-libraries-surround-grand-prix/": 1784361223438,
+    "https://www.asoundeffect.com/9-new-sound-effects-libraries-argentina-machinery/": 1784709105460
   },
   "seenRedditPosts": {
-    "t3_1uwy7bf": 1784103334087,
-    "t3_1uxgi1c": 1784189828367
+    "t3_1uxgi1c": 1784189828367,
+    "t3_1v38gwy": 1784709122476
   }
 }

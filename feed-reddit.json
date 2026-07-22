@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-21T08:32:11.732Z",
+  "generatedAt": "2026-07-22T08:32:03.026Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1v38gwy",
+      "title": "&quot;Document failed to load&quot; on migrating WWise 2024 to WWise 2025",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1v38gwy/document_failed_to_load_on_migrating_wwise_2024/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/i7kztgqlbqeh1.png?width=622&amp;format=png&amp;auto=webp&amp;s=1c06e9e79b05cce2fad2ac9917431f8f1b59cd2f\">https://preview.redd.it/i7kztgqlbqeh1.png?width=622&amp;format=png&amp;auto=webp&amp;s=1c06e9e79b05cce2fad2ac9917431f8f1b59cd2f</a></p> <p>Is there anyone having this issue? Tried to migrating WWise version </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MssSonagi\"> /u/MssSonagi </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1v38gwy/document_failed_to_load_on_mig",
+      "publishedAt": "2026-07-22T07:00:11.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
