@@ -1,20 +1,40 @@
 {
-  "generatedAt": "2026-07-22T08:32:01.698Z",
+  "generatedAt": "2026-07-23T08:33:12.124Z",
   "lookbackHours": 72,
   "blogs": [
     {
       "source": "blog",
       "name": "A Sound Effect Blog",
-      "title": "9 great new sound effects libraries: Argentina ambiences, industrial machinery, gore foley &#038; more",
-      "url": "https://www.asoundeffect.com/9-new-sound-effects-libraries-argentina-machinery/",
-      "publishedAt": "2026-07-22T07:22:08.000Z",
+      "title": "Get great deals on excellent sound effects libraries, plugins &#038; instruments &#8211; and free sounds with ANY order!",
+      "url": "https://www.asoundeffect.com/sale/",
+      "publishedAt": "2026-07-22T15:53:52.000Z",
       "author": "",
       "description": "",
-      "content": "Explore 9 new sound effects libraries: Argentina ambiences, a VW Touran in 5.0 surround, 1,400 industrial machinery sounds, gore foley, and more. The post 9 great new sound effects libraries: Argentina ambiences, industrial machinery, gore foley &#038; more appeared first on A Sound Effect ."
+      "content": "Land excellent deals on sound libraries, plugins and instruments here - while you have the chance! The post Get great deals on excellent sound effects libraries, plugins & instruments &#8211; and free sounds with ANY order! appeared first on A Sound Effect ."
+    },
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "Behind the quirky sound of Widow&#8217;s Bay:",
+      "url": "https://www.asoundeffect.com/widows-bay-sound/",
+      "publishedAt": "2026-07-22T10:54:55.000Z",
+      "author": "",
+      "description": "",
+      "content": "Larry Benjamin, Tim Hoogenakker, Matt Yocum and Kevin S. Parker on creating the quirky sound of Widow’s Bay: The post Behind the quirky sound of Widow&#8217;s Bay: appeared first on A Sound Effect ."
+    },
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "Watch &#8216;Sound of Dreamers&#8217; &#8211; a glorious tribute to game audio, and the people who create it",
+      "url": "https://www.asoundeffect.com/game-audio-tribute/",
+      "publishedAt": "2026-07-22T10:33:16.000Z",
+      "author": "",
+      "description": "",
+      "content": "Audiokinetic &#8211; the creators of Wwise &#8211; has released a fantastic tribute to game audio, the audio community &#8211; and the art of creating sound for games. Be sure to check out their in-depth documentary: Watch the full film below: Read the official description &#9662; In the realm of human imagination, where creativity and dreams [&#8230;] The post Watch &#8216;Sound of Dreamers&#8217; &#8211; a glorious tribute to game audio, and the people who create it appeared first on A Sound Effect ."
     }
   ],
   "stats": {
-    "blogPosts": 1
+    "blogPosts": 3
   },
   "errors": [
     "Blog: Error processing Designing Sound: The operation was aborted due to timeout"
