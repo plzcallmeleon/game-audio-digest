@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-23T08:33:13.604Z",
+  "generatedAt": "2026-07-24T08:29:55.590Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1v544ww",
+      "title": "Fortnite in game Visualize Sound Effects does not work when using directX 12",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1v544ww/fortnite_in_game_visualize_sound_effects_does_not/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>For the last 2 season in Fortnite for some reason my fortnite Visualize Sound Effects setting does not work when using the directX 12 rendering mode, it does not show any radar when there is footsteps, chests, or gunshots nearby. But if I change the game rendering mode into performance mode the Visualize Sound Effects setting works as normal and shows on radar when there is something making noise nearby.</p> <p>For more information I'm playing on PC and my spec is a Ryzen 7 5700X and RX 9060 XT, I have also updated all driver that I have, I know that playing t",
+      "publishedAt": "2026-07-24T07:16:07.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

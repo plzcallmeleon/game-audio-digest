@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-07-23T08:32:53.561Z",
+  "generatedAt": "2026-07-24T08:29:30.726Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "367 - I Love Boosters (Plus a big announcement!)",
+      "guid": "tag:soundcloud,2010:tracks/2366635997",
+      "url": "https://soundcloud.com/tonebenders-podcast/367-i-love-boosters-plus-a-big",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "transcript": "Supervising Sound Editor Andre Fenley and Re-recording Mixer Kent Sparling join Tonebenders to talk about working with Director Boots Riley on his latest film, I Love Boosters. They discuss how the challenge of creating sound to match the heights reached by the vibrant and arresting visuals in this film, where the line is on how comedic the sounds should be, designing demon voice processing and lots more. Plus a big announcement of Tonebenders biggest live event ever! Get ready for SoundDay LA on August 9th. Go to https://luma.com/58xnoz87 for full details and to claim your seat. ______ SPONSORS: If summer has your next project heating up, Sound Ideas is making it easier to build up the library you’ll need. During the Sound Ideas Mid Year Sale, you can save 50% on all proprietary items. From impacts and ambiences to vehicles, animals, machinery, production elements, and specialty effects, you can stock up on professional sounds before the next deadline hits. Get ahead of the edit with sounds ready for the scenes, transitions, textures, and surprises still to come. Shop the 50% off, Mid Year Sale now at https://sound-ideas.com/ _______ Listeners in NYC check out this screening of American Pachuco: The Legend of Lius Valdez on July 24th at 6:40pm, featuring Supervising Sound Editor Peter Albretchsen in attendance for a Q&A. Get Tickets at https://my.filmforum.org/american-pachuco/51540 _______ Make sure you are up to date with everything Tonebenders is doing, from upcoming events to the latest episodes by signing up for the once-a-month Tonebenders email newsletter: https://tonebenderspodcast.com/join-our-email-list/ Episode Notes: https://tonebenderspodcast.com/367-i-love-boosters/ Podcast Homepage: https://tonebenderspodcast.com/ This episode is hosted by Timothy Muirhead"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
