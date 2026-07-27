@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-26T08:28:47.277Z",
+  "generatedAt": "2026-07-27T09:55:13.534Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1v774i6",
+      "title": "I made a Max for Live device to batch-export into WAV files all the SFX for my game",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1v774i6/i_made_a_max_for_live_device_to_batchexport_into/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I made a Max for Live device to batch-export notes from Wavetable.</p> <p>I wanted to test a large number of different sounds, but manually exporting every note was becoming tedious. So I made a small device that automatically triggers a MIDI note for each octave I specify and exports each result as a separate <code>.wav</code> file.</p> <p>I couldn't find a straightforward way to automate this workflow, so I ended up building my own device.</p> <p>It has made sound design much faster for me since I can iterate on many variations without dealing with the expor",
+      "publishedAt": "2026-07-26T15:33:42.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
