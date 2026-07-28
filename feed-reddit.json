@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-27T09:55:13.534Z",
+  "generatedAt": "2026-07-28T08:36:45.710Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1v774i6",
-      "title": "I made a Max for Live device to batch-export into WAV files all the SFX for my game",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1v774i6/i_made_a_max_for_live_device_to_batchexport_into/",
+      "fullname": "t3_1v8caax",
+      "title": "Metasounds and general probably dumb ambience question",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1v8caax/metasounds_and_general_probably_dumb_ambience/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I made a Max for Live device to batch-export notes from Wavetable.</p> <p>I wanted to test a large number of different sounds, but manually exporting every note was becoming tedious. So I made a small device that automatically triggers a MIDI note for each octave I specify and exports each result as a separate <code>.wav</code> file.</p> <p>I couldn't find a straightforward way to automate this workflow, so I ended up building my own device.</p> <p>It has made sound design much faster for me since I can iterate on many variations without dealing with the expor",
-      "publishedAt": "2026-07-26T15:33:42.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So I'm really kinda just figuring this stuff out, we're exclusively using metasounds and whatever is built into Unreal. </p> <p>With Ambience, in our fairly decent sized, mostly all outdoor map, what is the proper best practice to ambience? I would want this to be affected by occlusion, so I know it has to be a 3d sound. Do you do multiple overlapping 3d sounds, a volume, or one massive sphere encasing the whole level with an attenuation set to it? seems unwieldy that way. This of course would just be for a looping ambience animation, I'm starting simple. Than",
+      "publishedAt": "2026-07-27T20:30:49.000Z"
     }
   ],
   "stats": {
