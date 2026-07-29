@@ -1,13 +1,11 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "8ed29a84-7a58-11f1-a952-9fbfcdce5a8d": 1784709102848,
-    "tag:soundcloud,2010:tracks/2359674533": 1784709103663,
     "tag:soundcloud,2010:tracks/2366635997": 1784881770726,
-    "prx_18144_beb1a4b2-dba5-40bd-a92c-c78466cc7a1f": 1785227783413
+    "prx_18144_beb1a4b2-dba5-40bd-a92c-c78466cc7a1f": 1785227783413,
+    "tag:soundcloud,2010:tracks/2369948507": 1785314593123
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/9-new-sound-effects-libraries-argentina-machinery/": 1784709105460,
     "https://www.asoundeffect.com/sale/": 1784795575171,
     "https://www.asoundeffect.com/widows-bay-sound/": 1784795575171,
     "https://www.asoundeffect.com/game-audio-tribute/": 1784795575171,
@@ -15,7 +13,6 @@
     "https://www.asoundeffect.com/mindfulaudio/": 1784881777565
   },
   "seenRedditPosts": {
-    "t3_1v38gwy": 1784709122476,
     "t3_1v544ww": 1784881795044,
     "t3_1v774i6": 1785146112990,
     "t3_1v8caax": 1785227805179

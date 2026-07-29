@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-07-28T08:36:45.710Z",
+  "generatedAt": "2026-07-29T08:43:32.365Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1v8caax",
-      "title": "Metasounds and general probably dumb ambience question",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1v8caax/metasounds_and_general_probably_dumb_ambience/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>So I'm really kinda just figuring this stuff out, we're exclusively using metasounds and whatever is built into Unreal. </p> <p>With Ambience, in our fairly decent sized, mostly all outdoor map, what is the proper best practice to ambience? I would want this to be affected by occlusion, so I know it has to be a 3d sound. Do you do multiple overlapping 3d sounds, a volume, or one massive sphere encasing the whole level with an attenuation set to it? seems unwieldy that way. This of course would just be for a looping ambience animation, I'm starting simple. Than",
-      "publishedAt": "2026-07-27T20:30:49.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
