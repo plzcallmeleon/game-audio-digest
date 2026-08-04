@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-03T09:48:56.643Z",
+  "generatedAt": "2026-08-04T08:39:26.399Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "369 - RuPaul's Drag Race",
+      "guid": "tag:soundcloud,2010:tracks/2374171058",
+      "url": "https://soundcloud.com/tonebenders-podcast/369-rupauls-drag-race",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "transcript": "Re-recording mixers Erik Valenzuela & Sal Ojeda join Tonebenders to talk about their wild schedule during audio post on RuPaul's Drag Race. Between them they have combined to work on over 330 episodes of Drag Race, making them experts on reality TV postproduction workflows. Dialog often presents the largest challenges and they have to use every tool they can get their hands on to make the final show sound smooth and clean. We also dig deep into the Rusical (a Rupaul Musical) episodes and the many challenges they present. Los Angeles listeners, make sure you sign up now for SoundDay LA on August 9th https://luma.com/58xnoz87 ____ For full details on how you can take part in this year's Tonebenders Listener Field Recording Stories, go to https://tonebenderspodcast.com/field-recording-story-submissions/ ______ SPONSORS: If summer has your next project heating up, Sound Ideas is making it easier to build up the library you’ll need. During the Sound Ideas Mid Year Sale, you can save 50% on all proprietary items. From impacts and ambiences to vehicles, animals, machinery, production elements, and specialty effects, you can stock up on professional sounds before the next deadline hits. Get ahead of the edit with sounds ready for the scenes, transitions, textures, and surprises still to come. Shop the 50% off, Mid Year Sale now at https://sound-ideas.com/ _____ Big thanks to SoundDay LA’s event sponsor Remoto Playback. Pitch-perfect remote review sessions without a monthly subscription. Go to remotopro.io to learn more ______ Make sure you are up to date with everything Tonebenders is doing, from upcoming events to the latest episodes by signing up for the once-a-month Tonebenders email newsletter: https://tonebenderspodcast.com/join-our-email-list/ Episode Notes: https://tonebenderspodcast.com/369-rupauls-drag-race/ Podcast Homepage: https://tonebenderspodcast.com/ This episode is hosted by Timothy Muirhead"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }

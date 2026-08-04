@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-08-03T09:49:01.468Z",
+  "generatedAt": "2026-08-04T08:39:31.220Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1vempzf",
+      "title": "Any proper audio programmer roadmap?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1vempzf/any_proper_audio_programmer_roadmap/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys! I was wondering if there is any definitive roadmap guide to audio programming? I want to work on game audio and would really appreciate any guidelines that might help me land a gig in more of technical aspects than creative ones.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Parallez\"> /u/Parallez </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1vempzf/any_proper_audio_programmer_roadmap/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1vempzf/any_proper",
+      "publishedAt": "2026-08-03T19:05:51.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1veh6i4",
+      "title": "How much do random tracks affect CPU usage in Wwise?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1veh6i4/how_much_do_random_tracks_affect_cpu_usage_in/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello!</p> <p>I'm using Wwise, and creating music playlists with a large number of randomized tracks.</p> <p>For example, I have a Music Playlist Container with four Music Segments. Each segment contains around eight Music Tracks, and each track is set to <strong>Random Step</strong> and can select from up to eight different layers or variations (see screenshots). I set it up this way so that the music keeps evolving and rarely repeats the same combination of tracks.</p> <p>My question is: how much could this setup affect CPU performance?</p> <p>The Wwise docu",
+      "publishedAt": "2026-08-03T15:47:40.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 2
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
