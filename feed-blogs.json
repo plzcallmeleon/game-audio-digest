@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-08-04T08:39:29.987Z",
+  "generatedAt": "2026-08-05T08:38:03.420Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "5 great new sound effects libraries: Adriatic storm winds, first-person scuba, car destruction, exhibition halls &#038; more",
+      "url": "https://www.asoundeffect.com/5-new-sound-effects-libraries-car-crashes-scuba/",
+      "publishedAt": "2026-08-04T15:20:11.000Z",
+      "author": "",
+      "description": "",
+      "content": "Get sounds of car destruction, first-person scuba recordings, Adriatic storm winds, and more. The post 5 great new sound effects libraries: Adriatic storm winds, first-person scuba, car destruction, exhibition halls &#038; more appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   }
 }
