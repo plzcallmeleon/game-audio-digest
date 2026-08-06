@@ -1,19 +1,29 @@
 {
-  "generatedAt": "2026-08-05T08:38:03.420Z",
+  "generatedAt": "2026-08-06T08:38:27.062Z",
   "lookbackHours": 72,
   "blogs": [
     {
       "source": "blog",
       "name": "A Sound Effect Blog",
-      "title": "5 great new sound effects libraries: Adriatic storm winds, first-person scuba, car destruction, exhibition halls &#038; more",
-      "url": "https://www.asoundeffect.com/5-new-sound-effects-libraries-car-crashes-scuba/",
-      "publishedAt": "2026-08-04T15:20:11.000Z",
+      "title": "Grow your audio career with a mentor &#8211; here&#8217;s how:",
+      "url": "https://www.asoundeffect.com/find-an-audio-mentor/",
+      "publishedAt": "2026-08-05T10:25:27.000Z",
       "author": "",
       "description": "",
-      "content": "Get sounds of car destruction, first-person scuba recordings, Adriatic storm winds, and more. The post 5 great new sound effects libraries: Adriatic storm winds, first-person scuba, car destruction, exhibition halls &#038; more appeared first on A Sound Effect ."
+      "content": "Here's how to find an audio mentor: The post Grow your audio career with a mentor &#8211; here&#8217;s how: appeared first on A Sound Effect ."
+    },
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "What Game Audio Employers Are Looking For In 2026 &#8211; by Brian Schmidt:",
+      "url": "https://www.asoundeffect.com/game-audio-jobs-and-skills-2026/",
+      "publishedAt": "2026-08-05T08:26:00.000Z",
+      "author": "",
+      "description": "",
+      "content": "Check out Brian Schmidt's great annual analysis on game audio hiring trends, skills and roles: The post What Game Audio Employers Are Looking For In 2026 &#8211; by Brian Schmidt: appeared first on A Sound Effect ."
     }
   ],
   "stats": {
-    "blogPosts": 1
+    "blogPosts": 2
   }
 }
