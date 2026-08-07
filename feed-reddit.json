@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-08-06T08:38:28.626Z",
+  "generatedAt": "2026-08-07T07:18:16.233Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1vgxb2d",
-      "title": "How to practice writing tailored music when there are no opportunities?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1vgxb2d/how_to_practice_writing_tailored_music_when_there/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Market so saturated that you even have to compete against 100 people to write an OST for free, so how do you even get opportunities to practice doing it?</p> <p>Not asking how to get jobs, it’s really about how to get practice.</p> <p>Sitting down and coming up with ideas for asset packs isn’t the same…</p> <p>Not looking for networking, game jams or coming up with fictional ideas myself.</p> <p>I know networking is important but currently I don’t have time and energy for that, I just want to practice.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=",
-      "publishedAt": "2026-08-06T07:26:33.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
