@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-08-07T07:18:16.233Z",
+  "generatedAt": "2026-08-08T06:56:12.570Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1vif9ih",
+      "title": "Help: Music Looping Tips",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1vif9ih/help_music_looping_tips/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I hace recently gotten into composing for games and am participating in my second game jam. I need some advice on how to loop music effectively. I dont know any middleware yet so I am relying on the programmers to input it into our small game for the game jam where time is already limited. How can I bounce my track so that it loops effectively? Do I bounce it with the audio tail at the end or have it cut off right at the end? Any tips on how to go about this and how it works?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/use",
+      "publishedAt": "2026-08-07T22:47:53.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1vib0z8",
+      "title": "How do you export audio tracks from your DAW?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1vib0z8/how_do_you_export_audio_tracks_from_your_daw/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello!</p> <p>I'm trying to find the best way to export music tracks without creating duplicate files.</p> <p>For example, let's say I have three sections (Explore, Combat, and Boss) and three instrument groups (Drums, Bass, and Synths). In my DAW, I organize them into three columns (Explore, Combat, Boss), each containing those three instrument groups.</p> <p>Here's the problem: only the drums and bass change between sections, while the synths stay the same. I can create cycle markers and export all the tracks at once, but that would result in exporting the e",
+      "publishedAt": "2026-08-07T19:57:27.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 2
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
