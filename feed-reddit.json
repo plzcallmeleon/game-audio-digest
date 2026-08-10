@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-09T06:58:56.455Z",
+  "generatedAt": "2026-08-10T07:44:57.424Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1vjh8gn",
-      "title": "Seamless audio loop",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1vjh8gn/seamless_audio_loop/",
+      "fullname": "t3_1vkbh07",
+      "title": "GameAudio August, 2026 - Game Sound Blog and Podcast Roundup",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1vkbh07/gameaudio_august_2026_game_sound_blog_and_podcast/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>After experimenting with lengthy, descriptive prompts on ElevenLabs, and going through dozens of potential candidates, I finally found/created the perfect 30s audio track for a game I'm developing, that requires indefinitely looping background music. The problem, as you probably guessed, is it doesn't loop seamlessly.</p> <p>I have used various techniques in Audacity and have made a little improvement, and the subtle flaw would likely be undetectable to some, but I know it's there, and because I've spent so much time meticulously designing every other aspect o",
-      "publishedAt": "2026-08-09T05:22:43.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>Game Sound Related Blogs</em></strong></p> <p><em>Updated March 2022</em></p> <p>Welcome to the subreddit feature post for Game Audio industry and related blogs and podcasts. If you know of a blog or podcast or have your own that posts consistently a minimum of once per month, please add the link here and we'll put it in the roundup. The current roundup is;</p> <table><thead> <tr> <th align=\"left\">Site</th> <th align=\"left\">Blog</th> </tr> </thead><tbody> <tr> <td align=\"left\">Audio Kinetic Blog</td> <td align=\"left\"><a href=\"https://blog.audiokine",
+      "publishedAt": "2026-08-10T05:00:24.000Z"
     }
   ],
   "stats": {
