@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-08-11T07:10:20.150Z",
+  "generatedAt": "2026-08-12T07:26:51.764Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "SAROS: Behind the Dark, Brutal Sound &#8211; huge game audio interview",
+      "url": "https://www.asoundeffect.com/saros-game-audio/",
+      "publishedAt": "2026-08-11T10:49:51.000Z",
+      "author": "",
+      "description": "",
+      "content": "Get the complete game audio story behind SAROS, Housemarque's fantastic sci-fi game: The post SAROS: Behind the Dark, Brutal Sound &#8211; huge game audio interview appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   }
 }
