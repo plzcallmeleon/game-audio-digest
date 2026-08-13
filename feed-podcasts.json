@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-08-12T07:26:47.775Z",
+  "generatedAt": "2026-08-13T07:36:40.815Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "Soundworks Collection Podcast",
+      "title": "The Sound of Spider-Noir",
+      "guid": "5db28241-047c-42db-8ed8-042f0716f0cb",
+      "url": "https://podcasters.spotify.com/pod/show/soundworkscollection/episodes/The-Sound-of-Spider-Noir-e3namhg",
+      "publishedAt": "2026-08-12T15:44:26.000Z",
+      "transcript": "<p>The sound of Spider-Noir blends gritty period character with immersive mixing. Re-recording Mixer/Sound Designer Ryan Collins and Re-recording Mixer Nick Offord explore vintage dialogue treatments, atmospheric transitions, distinctive web effects, and inventive sonic details—including a unique sound for Spider-Sense—to create a fresh sonic identity for this new take on Spider-Man.</p><p>The team also created a unique sonic identity for Spider-Man’s web powers, deliberately moving away from the familiar sound of previous Spider-Man films. Ben Reilly’s suppressed abilities inspired a drier, more cobweb-like sound incorporating textures reminiscent of bone creaks, while old magnetic film stock was manipulated to create the distinctive trailing sound of the web.</p><p>Electricity was another opportunity for experimentation, combining synthetic sounds with organic details to give the power surges weight and scale while maintaining the show’s period character. Even small sounds were carefully crafted, including a skincare wand recording that became the foundation for subtle electrical movements.</p><p>It’s a fascinating look at how Collins, Offord, and the wider sound team used experimentation, collaboration, and immersive mixing to give Spider-Noir a sonic identity all its own—all within the intense challenge of a five-day final mix.</p>"
+    },
+    {
+      "source": "podcast",
       "name": "Tonebenders Podcast",
-      "title": "372 - The Bear &amp; Beef S2",
-      "guid": "tag:soundcloud,2010:tracks/2380005657",
-      "url": "https://soundcloud.com/tonebenders-podcast/372-the-bear-beef-s2",
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "transcript": "Emmy nominated re-recording mixers Andy Lange & Penny Harold (Beef), join Steve “Major” Giammaria (The Bear) in conversation about life on the mix stage for high end shows. All three discuss how they approached the mixes for the most recent season of both series. They compare and contrast what a day looks like while working through an episode, their techniques for getting in and out of music heavy scenes smoothly, what their reverb chains look like and lots more. ____ For full details on how you can take part in this year's Tonebenders Listener Field Recording Stories, go to https://tonebenderspodcast.com/field-recording-story-submissions/ ______ SPONSORS: If summer has your next project heating up, Sound Ideas is making it easier to build up the library you’ll need. During the Sound Ideas Mid Year Sale, you can save 50% on all proprietary items. From impacts and ambiences to vehicles, animals, machinery, production elements, and specialty effects, you can stock up on professional sounds before the next deadline hits. Get ahead of the edit with sounds ready for the scenes, transitions, textures, and surprises still to come. Shop the 50% off, Mid Year Sale now at https://sound-ideas.com/ ______ Make sure you are up to date with everything Tonebenders is doing, from upcoming events to the latest episodes by signing up for the once-a-month Tonebenders email newsletter: https://tonebenderspodcast.com/join-our-email-list/ Episode Notes: https://tonebenderspodcast.com/372-the-bear-beef-s2/ Podcast Homepage: https://tonebenderspodcast.com/ This episode is hosted by Timothy Muirhead"
+      "title": "369 - RuPaul's Drag Race",
+      "guid": "tag:soundcloud,2010:tracks/2374171058",
+      "url": "https://soundcloud.com/tonebenders-podcast/369-rupauls-drag-race",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "transcript": "Re-recording mixers Erik Valenzuela & Sal Ojeda join Tonebenders to talk about their wild schedule during audio post on RuPaul's Drag Race. Between them they have combined to work on over 330 episodes of Drag Race, making them experts on reality TV postproduction workflows. Dialog often presents the largest challenges and they have to use every tool they can get their hands on to make the final show sound smooth and clean. We also dig deep into the Rusical (a Rupaul Musical) episodes and the many challenges they present. Los Angeles listeners, make sure you sign up now for SoundDay LA on August 9th https://luma.com/58xnoz87 ____ For full details on how you can take part in this year's Tonebenders Listener Field Recording Stories, go to https://tonebenderspodcast.com/field-recording-story-submissions/ ______ SPONSORS: If summer has your next project heating up, Sound Ideas is making it easier to build up the library you’ll need. During the Sound Ideas Mid Year Sale, you can save 50% on all proprietary items. From impacts and ambiences to vehicles, animals, machinery, production elements, and specialty effects, you can stock up on professional sounds before the next deadline hits. Get ahead of the edit with sounds ready for the scenes, transitions, textures, and surprises still to come. Shop the 50% off, Mid Year Sale now at https://sound-ideas.com/ _____ Big thanks to SoundDay LA’s event sponsor Remoto Playback. Pitch-perfect remote review sessions without a monthly subscription. Go to remotopro.io to learn more ______ Make sure you are up to date with everything Tonebenders is doing, from upcoming events to the latest episodes by signing up for the once-a-month Tonebenders email newsletter: https://tonebenderspodcast.com/join-our-email-list/ Episode Notes: https://tonebenderspodcast.com/369-rupauls-drag-race/ Podcast Homepage: https://tonebenderspodcast.com/ This episode is hosted by Timothy Muirhead"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
