@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2377171952": 1786087088153,
     "tag:soundcloud,2010:tracks/2369948507": 1786172167328,
     "tag:soundcloud,2010:tracks/2378441006": 1786347883516,
     "prx_18144_b4a5504b-f3b5-436f-8941-075f9142ff24": 1786432215205,
@@ -10,22 +9,17 @@
     "tag:soundcloud,2010:tracks/2374171058": 1786606600815
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/find-an-audio-mentor/": 1786005505209,
-    "https://www.asoundeffect.com/game-audio-jobs-and-skills-2026/": 1786005505209,
-    "https://www.asoundeffect.com/sounds-of-magic/": 1786087090112,
-    "https://designingsound.org/": 1786087091130,
-    "https://designingsound.org/about/": 1786087091810,
-    "https://designingsound.org/site-policy/": 1786087092515,
     "https://www.asoundeffect.com/sale/": 1786347889004,
     "https://www.asoundeffect.com/shop": 1786347890061,
     "https://www.asoundeffect.com/mindfulaudio/": 1786347893369,
     "https://www.asoundeffect.com/saros-game-audio/": 1786519609326
   },
   "seenRedditPosts": {
-    "t3_1vgxb2d": 1786005508096,
     "t3_1vif9ih": 1786172172023,
     "t3_1vib0z8": 1786172172023,
     "t3_1vjh8gn": 1786258735848,
-    "t3_1vkbh07": 1786347896818
+    "t3_1vkbh07": 1786347896818,
+    "t3_1vnpaap": 1786692419130,
+    "t3_1vnpu4h": 1786692419130
   }
 }
