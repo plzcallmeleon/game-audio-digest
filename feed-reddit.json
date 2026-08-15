@@ -1,32 +1,9 @@
 {
-  "generatedAt": "2026-08-14T07:26:59.743Z",
+  "generatedAt": "2026-08-15T06:40:33.811Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1vnpaap",
-      "title": "Games with nice use of interactive music?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1vnpaap/games_with_nice_use_of_interactive_music/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>hey everybody! long time producer/composer here, again trying to dip my toes in interactive audio, doing the whole FMOD + wwise courses and whatnot.</p> <p>Just wanted to ask for recommendations for games you consider great examples for interactive music (and interactive audio as second priority) - games I've been playing lately all feature really good music but not much in the \"wow, it changes with your gameplay\" field. Essentially, I want to see how do real life composers apply the stuff the courses teach.</p> <p>Thank you very much in advance!</p> </div><!-",
-      "publishedAt": "2026-08-13T22:22:48.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1vnpu4h",
-      "title": "Music loops are really two separate problems, and most threads only talk about the first one",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1vnpu4h/music_loops_are_really_two_separate_problems_and/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Problem 1 is whether the engine even reads your loop points. WAV keeps them in the smpl chunk, OGG uses LOOPSTART/LOOPLENGTH vorbis comments, and support is all over the place. Godot reads smpl natively. Unity actually reads it too, which surprised me (undocumented, and the default vorbis import wrecks it, which is why everyone says it doesn't work). Unreal ignores smpl but reads cue markers sample-accurately. RPG Maker reads the OGG tags. FMOD and Wwise don't care about the file, you loop inside the project.</p> <p>Problem 2 is the one that gets you after the",
-      "publishedAt": "2026-08-13T22:45:21.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 2
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

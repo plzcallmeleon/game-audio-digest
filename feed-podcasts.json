@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-14T07:26:39.345Z",
+  "generatedAt": "2026-08-15T06:40:26.645Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "373 – Live From SoundDay LA_ Widow’s Bay, Pluribus &amp; Shrinking",
+      "guid": "tag:soundcloud,2010:tracks/2381664723",
+      "url": "https://soundcloud.com/tonebenders-podcast/373-live-from-soundday-la",
+      "publishedAt": "2026-08-15T00:00:00.000Z",
+      "transcript": "The first panel of SoundDay LA was a wonderful talk with some of AppleTV's Emmy nominated sound teams. Including Larry Benjamin, Tim Hoogenakker, Matt Yocum and Sang Kim from Window's Bay. Anna Wilborn and Alex Jongbloed from Shrinking. As well as Phillip Palmer from Pluribus (Larry and Tim mixed Pluribus too). As a group they discuss finding the voice of a show, capturing the dialog on set in difficult situations, how foley can be an emotional catalyst and lots more. Big Thanks to SoundDay LA's sponsors: Remoto Playback (https://remotopro.io/), ASG (https://www.asgllc.com/) & Sound Ideas (https://sound-ideas.com/) ____ For full details on how you can take part in this year's Tonebenders Listener Field Recording Stories, go to ____ For full details on how you can take part in this year's Tonebenders Listener Field Recording Stories, go to https://tonebenderspodcast.com/field-recording-story-submissions/ ______ SPONSORS: If summer has your next project heating up, Sound Ideas is making it easier to build up the library you’ll need. During the Sound Ideas Mid Year Sale, you can save 50% on all proprietary items. From impacts and ambiences to vehicles, animals, machinery, production elements, and specialty effects, you can stock up on professional sounds before the next deadline hits. Get ahead of the edit with sounds ready for the scenes, transitions, textures, and surprises still to come. Shop the 50% off, Mid Year Sale now at https://sound-ideas.com/ ______ Make sure you are up to date with everything Tonebenders is doing, from upcoming events to the latest episodes by signing up for the once-a-month Tonebenders email newsletter: https://tonebenderspodcast.com/join-our-email-list/ Episode Notes: https://tonebenderspodcast.com/373-live-from-soundday-la-widows-bay-pluribus-shrinking/ Podcast Homepage: https://tonebenderspodcast.com/"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
