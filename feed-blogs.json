@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-08-17T06:58:05.211Z",
+  "generatedAt": "2026-08-18T06:45:43.851Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "9 great new sound effects libraries: Medieval sieges, Costa Rican ambisonics, construction sounds &#038; more",
+      "url": "https://www.asoundeffect.com/9-new-sound-effects-libraries-ambisonics-medieval-sieges/",
+      "publishedAt": "2026-08-17T17:41:54.000Z",
+      "author": "",
+      "description": "",
+      "content": "Explore 9 new sound effects libraries, including Costa Rican ambisonic soundscapes, medieval siege combat, 674 construction site sounds, and more: The post 9 great new sound effects libraries: Medieval sieges, Costa Rican ambisonics, construction sounds &#038; more appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   }
 }
