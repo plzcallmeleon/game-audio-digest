@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-18T06:45:43.851Z",
+  "generatedAt": "2026-08-19T06:46:11.493Z",
   "lookbackHours": 72,
   "blogs": [
     {
       "source": "blog",
       "name": "A Sound Effect Blog",
-      "title": "9 great new sound effects libraries: Medieval sieges, Costa Rican ambisonics, construction sounds &#038; more",
-      "url": "https://www.asoundeffect.com/9-new-sound-effects-libraries-ambisonics-medieval-sieges/",
-      "publishedAt": "2026-08-17T17:41:54.000Z",
+      "title": "Capturing wild sounds of Southern Elephant Seals &#8211; a new sound library by Andy Leeder",
+      "url": "https://www.asoundeffect.com/seal-sound-effects/",
+      "publishedAt": "2026-08-18T13:53:11.000Z",
       "author": "",
       "description": "",
-      "content": "Explore 9 new sound effects libraries, including Costa Rican ambisonic soundscapes, medieval siege combat, 674 construction site sounds, and more: The post 9 great new sound effects libraries: Medieval sieges, Costa Rican ambisonics, construction sounds &#038; more appeared first on A Sound Effect ."
+      "content": "Andy Leeder just released a magnificent new library that brings you intense sounds of Southern Elephant Seals: The post Capturing wild sounds of Southern Elephant Seals &#8211; a new sound library by Andy Leeder appeared first on A Sound Effect ."
     }
   ],
   "stats": {
