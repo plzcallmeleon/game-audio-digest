@@ -1,23 +1,86 @@
 {
-  "generatedAt": "2026-08-19T06:46:12.965Z",
+  "generatedAt": "2026-08-20T06:49:01.022Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1vrk4hk",
-      "title": "How do i make a good looping ball rolling sound",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1vrk4hk/how_do_i_make_a_good_looping_ball_rolling_sound/",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vrnqyt",
+      "title": "r/gamedev Policy on AI Use",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vrnqyt/rgamedev_policy_on_ai_use/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello people, i'm making a 2d game where you are an armadillo that can become a ball and roll around the levels, i need to make or find a good looping ball rolling sound, i'm really new to sound design in videogames so i don't have any idea on how to make something similar.<br/> Hope someone can help me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tommy-102\"> /u/Tommy-102 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1vrk4hk/how_do_i_make_a_good_looping_ball_rolling_sound/\">[link]</a></span> &#",
-      "publishedAt": "2026-08-18T09:20:39.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>AI is one of the most contentious subjects in game development right now, and we regularly see posts reported or discussions derailed simply because AI was involved somewhere in the process.</p> <p>We want to be clear about our position: <a href=\"/r/gamedev\">r/gamedev</a> <strong>does not prohibit the use of AI, and using AI does not automatically make a post low effort.</strong></p> <p>This is not an endorsement of every AI company, model, or use case. Legitimate technical, legal, economic, ethical, and creative concerns exist around these tools, and those co",
+      "publishedAt": "2026-08-18T12:27:45.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vt96zh",
+      "title": "I designed a game around the things that made me abandon my other projects",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vt96zh/i_designed_a_game_around_the_things_that_made_me/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>My point in making this post is to hopefully help somebody find a pathway and/or the motivation to actually bring something they love to market, despite \"failures\" or a tendency to \"give up\". </p> <p>I first installed Unreal Engine in late 2023 with the goal of creating a multiplayer, match-based, base-building capture-the-flag game. At the time, I had no formal game development experience, but I did have a programming background. Since then, I’ve sunk a massive amount of time into 3 development projects that I ultimately abandoned. My fourth and current proje",
+      "publishedAt": "2026-08-20T04:20:39.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vshhok",
+      "title": "Literally 5 hours ago, a legendary Japanese magazine covered our indie game... After months of imposter syndrome, I'm still processing it.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vshhok/literally_5_hours_ago_a_legendary_japanese/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm typing this while still trying to process what just happened. About 5 hours ago, Famitsu published an article about our demo for The Next Stop.</p> <p>When you’re working in a vacuum for months, tweaking mechanics and polishing UI late at night, it’s ridiculously easy to start doubting everything. We kept asking ourselves: Is this mechanic actually interesting? Is anyone going to play this?</p> <p>Seeing them break down our time-stopped subway mystery—and specifically call out mechanics we almost scrapped, like misclicks subtly altering the environment—fee",
+      "publishedAt": "2026-08-19T09:28:23.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vtaisb",
+      "title": "What download size for mobile game?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vtaisb/what_download_size_for_mobile_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>From a fair amount of Googling, it looks like most people recommend trying to keep your game in the 100-200 MB download range (in particular, beneath 200 MB so your phone doesn’t recommend being on Wifi), but what I’m confused on is whether this is mostly just because research says people give up on large downloads, or if it’s the actual SIZE. It seems like it’s the former, and the strategy is to make the initial download tiny, and then basically immediately have the user download most of your bigger stuff via Addressables. So my question is: <strong>what is t",
+      "publishedAt": "2026-08-20T05:31:18.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vszglm",
+      "title": "Player retention problem in my Multiplayer FPS Game",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vszglm/player_retention_problem_in_my_multiplayer_fps/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>almost one month ago i released my multiplayer fps <a href=\"https://store.steampowered.com/app/2932480/OrbitalCrash/\">game </a>and since then i have problems with player retention because of empty lobbies.</p> <p>My question is about the gameplay loop and game design.</p> <p>Here are some rough ideas i've got:</p> <p>- \"\"\"smart\"\"\" bots in match are out of the question since they'd mean months of work, this is because the game has physics mechanics like the grapple and kick, and also because some maps are spherical and cube shaped.<br/> - More sma",
+      "publishedAt": "2026-08-19T21:17:36.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vt79ay",
+      "title": "Indie Studio Japan Advice",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vt79ay/indie_studio_japan_advice/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've been working as a concept artist at a game studio in Osaka (mostly outsourcing for other local studios, thats how the smaller ones tend to stay funded) that wants to branch out into making in-house titles but is being stifled by the need to constantly be churning stuff out for adult games, smartphone stuff and graphics for pachinko etc. Its a shame because there is/was a lot of talent there and due to the lack of actual game design/programming ability that is abundant in Western development none of the cool ideas they've had for original projects so far h",
+      "publishedAt": "2026-08-20T02:46:29.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vsnweh",
+      "title": "MS-DOS Devblog 0: The What and the Why",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vsnweh/msdos_devblog_0_the_what_and_the_why/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><h1><a href=\"https://kneelian.github.io/posts/devblog-0-the-what-and-the-why.html\">Blogpost link</a></h1> <p>Resubmitting as it seems like you can't both submit a link and put body text on old Reddit :')</p> <p>Previous description:</p> <blockquote> <p>Now, this is a mess of a post, but I got inspired by posters like <a href=\"/u/mightykin\">u/mightykin</a> and <a href=\"/u/Swing-Dancing-Dragon\">u/Swing-Dancing-Dragon</a> in another thread who wanted to see more bloggy stuff about bizarre bullshit. I dusted off a blogpost I was drafting a couple months ago and finis",
+      "publishedAt": "2026-08-19T14:23:25.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 1
-  },
-  "errors": [
-    "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
-  ]
+    "redditPosts": 7
+  }
 }
