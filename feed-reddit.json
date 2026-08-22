@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-21T06:50:09.188Z",
+  "generatedAt": "2026-08-22T06:41:35.722Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1vuj1h4",
+      "title": "Is FMOD hard to learn?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1vuj1h4/is_fmod_hard_to_learn/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I'm a sound engineering student, and I want to learn game audio. I've seen a lot of sound designer job postings on LinkedIn, but I can't apply because I don't know FMOD yet. I wanted to ask: Is FMOD difficult to learn, and how many months does it usually take to learn it?</p> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ardaerenn\"> /u/Ardaerenn </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1vuj1h4/is_fmod_hard_to_learn/\">[link]</a></span> &#32; <span><a href=\"https://www.r",
+      "publishedAt": "2026-08-21T15:10:18.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

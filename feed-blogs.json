@@ -1,29 +1,8 @@
 {
-  "generatedAt": "2026-08-21T06:50:07.734Z",
+  "generatedAt": "2026-08-22T06:41:34.463Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "Behind the sound of Backrooms: Mono found footage, exaggerated Foley &#8211; and camel screams",
-      "url": "https://www.asoundeffect.com/the-sound-of-backrooms/",
-      "publishedAt": "2026-08-20T12:58:05.000Z",
-      "author": "",
-      "description": "",
-      "content": "A lot of what makes Backrooms so terrifying is its effective use of sound - here's how it was done: The post Behind the sound of Backrooms: Mono found footage, exaggerated Foley &#8211; and camel screams appeared first on A Sound Effect ."
-    },
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "How do you create a great sound design showreel? &#8211; with Audio Director Tom Johnson",
-      "url": "https://www.asoundeffect.com/sound-design-showreel-guide/",
-      "publishedAt": "2026-08-20T08:20:21.000Z",
-      "author": "",
-      "description": "",
-      "content": "How do you create a great sound design showreel? Audio Director &#038; Senior Sound Designer Tom Johnson shares his insights here: The post How do you create a great sound design showreel? &#8211; with Audio Director Tom Johnson appeared first on A Sound Effect ."
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 2
+    "blogPosts": 0
   }
 }

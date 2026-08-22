@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-08-21T06:50:03.612Z",
+  "generatedAt": "2026-08-22T06:41:29.559Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "Soundworks Collection Podcast",
+      "title": "The Sound of Spider-Noir",
+      "guid": "5db28241-047c-42db-8ed8-042f0716f0cb",
+      "url": "https://podcasters.spotify.com/pod/show/soundworkscollection/episodes/The-Sound-of-Spider-Noir-e3namhg",
+      "publishedAt": "2026-08-12T15:44:26.000Z",
+      "transcript": "<p>The sound of Spider-Noir blends gritty period character with immersive mixing. Re-recording Mixer/Sound Designer Ryan Collins and Re-recording Mixer Nick Offord explore vintage dialogue treatments, atmospheric transitions, distinctive web effects, and inventive sonic details—including a unique sound for Spider-Sense—to create a fresh sonic identity for this new take on Spider-Man.</p><p>The team also created a unique sonic identity for Spider-Man’s web powers, deliberately moving away from the familiar sound of previous Spider-Man films. Ben Reilly’s suppressed abilities inspired a drier, more cobweb-like sound incorporating textures reminiscent of bone creaks, while old magnetic film stock was manipulated to create the distinctive trailing sound of the web.</p><p>Electricity was another opportunity for experimentation, combining synthetic sounds with organic details to give the power surges weight and scale while maintaining the show’s period character. Even small sounds were carefully crafted, including a skincare wand recording that became the foundation for subtle electrical movements.</p><p>It’s a fascinating look at how Collins, Offord, and the wider sound team used experimentation, collaboration, and immersive mixing to give Spider-Noir a sonic identity all its own—all within the intense challenge of a five-day final mix.</p>"
+    },
+    {
+      "source": "podcast",
       "name": "Tonebenders Podcast",
-      "title": "375 – Live From SoundDay LA_Stranger Things",
-      "guid": "tag:soundcloud,2010:tracks/2385182346",
-      "url": "https://soundcloud.com/tonebenders-podcast/375-live-from-soundday",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "transcript": "The sound team from Stranger Things, Season 5, joined SoundDay LA to discuss how the series has changed since it's beginning and the massive undertaking they took on to complete the series' final season. Supervising Sound Editor Craig Henighan divulges an super interesting and creative story about what makes up the Mind Flayers massive vocal screams. Music Editors Lena Glikson and David Klotz breakdown, in detail, a specific scene to show how the music evolved over a full year of tackling it. Re-recording Mixers Will FIles and Mark Paterson discuss their approach to huge action sequences that have to play on anything, from full up home theatres to iPads. Big Thanks to SoundDay LA's sponsors: Remoto Playback (https://remotopro.io/) , ASG (https://www.asgllc.com/) & Sound Ideas (https://sound-ideas.com/) ______ SPONSORS: If summer has your next project heating up, Sound Ideas is making it easier to build up the library you’ll need. During the Sound Ideas Mid Year Sale, you can save 50% on all proprietary items. From impacts and ambiences to vehicles, animals, machinery, production elements, and specialty effects, you can stock up on professional sounds before the next deadline hits. Get ahead of the edit with sounds ready for the scenes, transitions, textures, and surprises still to come. Shop the 50% off, Mid Year Sale now at https://sound-ideas.com/ ______ Make sure you are up to date with everything Tonebenders is doing, from upcoming events to the latest episodes by signing up for the once-a-month Tonebenders email newsletter: https://tonebenderspodcast.com/join-our-email-list/ Episode Notes: https://tonebenderspodcast.com/375-live-from-soundday-la-stranger-things/ Podcast Homepage: https://tonebenderspodcast.com/ This episode is hosted by Timothy Muirhead"
+      "title": "376 – Live From SoundDay LA_The Pitt, DTF St Louis &amp; Hacks",
+      "guid": "tag:soundcloud,2010:tracks/2385692808",
+      "url": "https://soundcloud.com/tonebenders-podcast/376-live-from-soundday-la_the",
+      "publishedAt": "2026-08-22T00:00:00.000Z",
+      "transcript": "In the final episode of the talks from SoundDay LA, we have the HBO Panel of Emmy nominated re-recording mixers from The Pitt, DTF St Louis and Hacks. James Parnell, Todd Grace & Ed Carr join Tim, for a lively talk in front of a packed house at Glen Glenn Film Center in Hollywood, California. They discuss their approaches to long \"oners\" and the detailed panning they need, pushing backgrounds and ambiences as much as they can without crowding dialog, and how far is too far with the sounds of medical procedures. Big Thanks to SoundDay LA's sponsors: Remoto Playback (https://remotopro.io/) , ASG (https://www.asgllc.com/) & Sound Ideas (https://sound-ideas.com/) ______ SPONSORS: If summer has your next project heating up, Sound Ideas is making it easier to build up the library you’ll need. During the Sound Ideas Mid Year Sale, you can save 50% on all proprietary items. From impacts and ambiences to vehicles, animals, machinery, production elements, and specialty effects, you can stock up on professional sounds before the next deadline hits. Get ahead of the edit with sounds ready for the scenes, transitions, textures, and surprises still to come. Shop the 50% off, Mid Year Sale now at https://sound-ideas.com/ ______ Make sure you are up to date with everything Tonebenders is doing, from upcoming events to the latest episodes by signing up for the once-a-month Tonebenders email newsletter: https://tonebenderspodcast.com/join-our-email-list/ Episode Notes: https://tonebenderspodcast.com/376-live-from-soundday-la-the-pitt-dtf-st-louis-hacks/ Podcast Homepage: https://tonebenderspodcast.com/ This episode is hosted by Timothy Muirhead"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
