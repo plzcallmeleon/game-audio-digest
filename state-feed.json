@@ -1,13 +1,13 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2377171952": 1786862497065,
     "tag:soundcloud,2010:tracks/2383592550": 1787035538489,
     "tag:soundcloud,2010:tracks/2378441006": 1787121968136,
     "prx_18144_b4a5504b-f3b5-436f-8941-075f9142ff24": 1787208526194,
     "tag:soundcloud,2010:tracks/2385182346": 1787295003612,
     "5db28241-047c-42db-8ed8-042f0716f0cb": 1787380888077,
-    "tag:soundcloud,2010:tracks/2385692808": 1787380889559
+    "tag:soundcloud,2010:tracks/2385692808": 1787380889559,
+    "tag:soundcloud,2010:tracks/2381664723": 1787467365337
   },
   "seenArticles": {
     "https://www.asoundeffect.com/9-new-sound-effects-libraries-ambisonics-medieval-sieges/": 1787035540091,
@@ -16,7 +16,10 @@
     "https://www.asoundeffect.com/shop": 1787208533824,
     "https://www.asoundeffect.com/mindfulaudio/": 1787208536828,
     "https://www.asoundeffect.com/the-sound-of-backrooms/": 1787295005387,
-    "https://www.asoundeffect.com/sound-design-showreel-guide/": 1787295005387
+    "https://www.asoundeffect.com/sound-design-showreel-guide/": 1787295005387,
+    "https://designingsound.org/": 1787467367700,
+    "https://designingsound.org/about/": 1787467368236,
+    "https://designingsound.org/site-policy/": 1787467368764
   },
   "seenRedditPosts": {
     "t3_1vrk4hk": 1787121972347,
