@@ -1,11 +1,86 @@
 {
-  "generatedAt": "2026-08-23T06:42:51.473Z",
+  "generatedAt": "2026-08-24T07:01:02.404Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vvk356",
+      "title": "Spelkollektivet Fundraising",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vvk356/spelkollektivet_fundraising/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://gofund.me/d82ac92d7\">https://gofund.me/d82ac92d7</a></p> <p>We have no connection with Spelkollektivet. But I have met a bunch of people who have gone there for short or long term stays to work on their dream of being a full time indie. </p> <p>It would be a shame to hear this unique gamedev haven lost its building. If you can support it, do so. If not, spread the word. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SkyTech6\"> /u/SkyTech6 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/commen",
+      "publishedAt": "2026-08-22T18:33:19.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vwiudn",
+      "title": "What do you think about games like Cruelty Squad?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vwiudn/what_do_you_think_about_games_like_cruelty_squad/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong>Edit:</strong> I'm not talking about clones / copy cats of this game but rather games that break the rules and do very non-conventional, subversive stuff</p> <p>For those who don't know: <a href=\"https://store.steampowered.com/app/1388770/Cruelty_Squad/\">https://store.steampowered.com/app/1388770/Cruelty_Squad/</a></p> <p>I've discovered this game completely randomly by browsing Godot sub because someone mentioned that the game was made in it. I'm fascinated. It goes against almost all rules of designing a good game; it doesn't have intuitive UI/UX, it",
+      "publishedAt": "2026-08-23T20:59:46.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vvrh0q",
+      "title": "Have we lost a generation of juniors?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vvrh0q/have_we_lost_a_generation_of_juniors/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>With the state of the industry right now (layoffs and low hiring and AI and everything else on top), it's very hard to get hired at the entry level. I graduated a few years ago and was the only one of my cohort that got a job in the industry through sheer dumb luck. Pretty much everyone I studied with has transitioned to a different field, and I'm guessing it's the same for all graduate batches since.</p> <p>My company also went through redundancies recently and that wiped out all the juniors there as well.</p> <p>I just wonder what it's going to look like whe",
+      "publishedAt": "2026-08-22T23:39:52.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vwadhc",
+      "title": "Do you keep your games to yourself or let your family and friends know about them?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vwadhc/do_you_keep_your_games_to_yourself_or_let_your/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><em>Edit: Maybe posting this wasn't a good idea. Some of you have to be snarky and immediately assumed I'm a no fun grinch gamedev. Gamedev saved my life, I'm from the third world. Is it wrong that I see it as work first, and fun second?</em></p> <p>As soon as I saw gamedev as a valid career path (the USD exchange rate is vital for a third worlder like me), I immediately took it as a serious and confidential part of my life. Which means separating it from my personal life. \"Games\" are fun for others, but they're work for me, just like any other IT job.</p> <p>",
+      "publishedAt": "2026-08-23T15:36:38.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vwkjw6",
+      "title": "Question for Indie Devs - The means of publishing",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vwkjw6/question_for_indie_devs_the_means_of_publishing/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>It seems most indie's self publish their game, which makes sense. We have the means to do anything from the comfort of our homes. However, that barrier to entry makes it easy to charge ahead without a clear path forward.</p> <p>If you are an indie dev who found a publisher, what was your experience? What kind of support did they provide ( Marketing, Outsourcing, Industry connections, etc ). How did this support help you reach milestones and deliver an outstanding game?</p> <p>If you chose to self publish - what were the bottlenecks you hit. Did you ever have s",
+      "publishedAt": "2026-08-23T22:09:31.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vwtcdn",
+      "title": "When do Cutscenes and Cinematics add something?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vwtcdn/when_do_cutscenes_and_cinematics_add_something/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>For this discussion, a <strong>cutscene</strong> is any non-interactive segment that is rendered using the game engine, and a <strong>cinematic</strong> is something rendered outside the game engine and played back as a movie clip.</p> <p>I've learned to strongly dislike both cutscenes and cinematics. There are games that use them for great effect of course, I'm a fan of Her Story and Telltale games for example, but overall, when games remove interaction and replace it with something strictly narrative I don't like it. It's also some of the most expensive cont",
+      "publishedAt": "2026-08-24T05:04:10.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "gamedev",
+      "fullname": "t3_1vwm6dm",
+      "title": "Made a fancy rapier",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vwm6dm/made_a_fancy_rapier/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I made a fancy rapier in blender, but I am not too experienced, so its imperfect, but I made it, colored it in ue5 for use, and tried to make it game ready (almost there). Took ages so when I recorded it I put it in 3x speed and its still too long to go in reddit even with some modest cutting, but put it on youtube here: <a href=\"https://www.youtube.com/watch?v=qXEbLgdfFEQ\">https://www.youtube.com/watch?v=qXEbLgdfFEQ</a><br/> Anyone who is more experienced, how would you go around making assets like this? It took me almost an hour for one rapier, and some game",
+      "publishedAt": "2026-08-23T23:18:40.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
-  },
-  "errors": [
-    "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
-  ]
+    "redditPosts": 7
+  }
 }
