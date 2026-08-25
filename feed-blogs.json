@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-08-24T07:00:59.804Z",
+  "generatedAt": "2026-08-25T06:50:42.515Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "36 great new sound effects libraries: Bali waves, quantum computers, Ambisonic football &#038; much more",
+      "url": "https://www.asoundeffect.com/36-new-sound-effects-libraries-elephant-seals-35mm-cameras/",
+      "publishedAt": "2026-08-24T16:41:50.000Z",
+      "author": "",
+      "description": "",
+      "content": "Explore 36 new sound effects libraries, including sub-Antarctic elephant seals, six mechanical 35mm cameras, Ambisonic football crowds, and more. The post 36 great new sound effects libraries: Bali waves, quantum computers, Ambisonic football &#038; much more appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   }
 }
