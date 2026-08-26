@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-25T06:50:44.100Z",
+  "generatedAt": "2026-08-26T06:52:13.388Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1vyfdi0",
+      "title": "Can i use covers of songs in a free game?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1vyfdi0/can_i_use_covers_of_songs_in_a_free_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>For context, im from Uruguay but the game would be in english. I've been wanting to make a visual novel for a while and i wanted there to be a part where you can hear one of the characters singing in their room and i wanted to sing my own covers of a few songs i like for that part. It would be a short free game, im not sure if i could get in trouble if i posted it online or if it would be inconsequential since im not getting any money from it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Luke_Fox-\"> /u/Luke_Fox- </a> <",
+      "publishedAt": "2026-08-25T22:56:21.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
