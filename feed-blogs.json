@@ -1,8 +1,29 @@
 {
-  "generatedAt": "2026-08-26T06:52:11.747Z",
+  "generatedAt": "2026-08-27T17:25:52.737Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "How to get work &#8211; and keep working &#8211; in Audio Post: Joel D. Catalan shares insights from 18+ years in sound",
+      "url": "https://www.asoundeffect.com/audio-post-work/",
+      "publishedAt": "2026-08-26T14:18:05.000Z",
+      "author": "",
+      "description": "",
+      "content": "Joel D. Catalan shares insights on how to get work - and keep working - in audio post, from 18+ years in sound: The post How to get work &#8211; and keep working &#8211; in Audio Post: Joel D. Catalan shares insights from 18+ years in sound appeared first on A Sound Effect ."
+    },
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "The Airwiggles Audio Challenge starts September 1st &#8211; join here!",
+      "url": "https://www.asoundeffect.com/airwiggles-audio-challenge-2026/",
+      "publishedAt": "2026-08-26T13:37:46.000Z",
+      "author": "",
+      "description": "",
+      "content": "Airwiggles Audio Challenge, or AAC for short, is back for its fourth year and will be taking place next month! The post The Airwiggles Audio Challenge starts September 1st &#8211; join here! appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 2
   }
 }
