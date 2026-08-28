@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2385182346": 1787295003612,
     "5db28241-047c-42db-8ed8-042f0716f0cb": 1787380888077,
     "tag:soundcloud,2010:tracks/2385692808": 1787380889559,
     "tag:soundcloud,2010:tracks/2381664723": 1787467365337,
@@ -10,14 +9,15 @@
     "tag:soundcloud,2010:tracks/2383592550": 1787727128204
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/the-sound-of-backrooms/": 1787295005387,
-    "https://www.asoundeffect.com/sound-design-showreel-guide/": 1787295005387,
     "https://designingsound.org/": 1787467367700,
     "https://designingsound.org/about/": 1787467368236,
     "https://designingsound.org/site-policy/": 1787467368764,
     "https://www.asoundeffect.com/36-new-sound-effects-libraries-elephant-seals-35mm-cameras/": 1787640640130,
     "https://www.asoundeffect.com/audio-post-work/": 1787851547186,
-    "https://www.asoundeffect.com/airwiggles-audio-challenge-2026/": 1787851547186
+    "https://www.asoundeffect.com/airwiggles-audio-challenge-2026/": 1787851547186,
+    "https://www.asoundeffect.com/sale/": 1787941142232,
+    "https://www.asoundeffect.com/shop": 1787941143236,
+    "https://www.asoundeffect.com/mindfulaudio/": 1787941146356
   },
   "seenRedditPosts": {
     "t3_1vuj1h4": 1787380895177,

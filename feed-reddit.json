@@ -1,32 +1,9 @@
 {
-  "generatedAt": "2026-08-27T17:25:54.082Z",
+  "generatedAt": "2026-08-28T18:19:09.296Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1vzg6le",
-      "title": "What CC0 Sample Sources do you use?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1vzg6le/what_cc0_sample_sources_do_you_use/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello all! Long-time audiophile/composer here looking to get into game dev. I’m currently working on a project prototype where I need genuinely CC0/public domain audio (not just “royalty-free,” which usually still comes with its own restrictions). I’m building something that triggers individual samples directly rather than baking them into a finished mix, so I need sources with zero ambiguity on that front.</p> <p>So far I’ve found Versilian Studios Chamber Orchestra Community Edition and (obviously) freesound.org. </p> <p>What CC0 sources/samples do you rely ",
-      "publishedAt": "2026-08-27T01:31:52.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1vzidtc",
-      "title": "Question: How much is a normal rate per SFX?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1vzidtc/question_how_much_is_a_normal_rate_per_sfx/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I have been asked to create some SFX for a game. First time doing this for a paid gig. I have no idea how much to charge. They have to be semi elaborate but nothing too complex. What is everyone charging for solely SFX creations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Eat-the-rich33\"> /u/Eat-the-rich33 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1vzidtc/question_how_much_is_a_normal_rate_per_sfx/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1vzidtc/",
-      "publishedAt": "2026-08-27T03:12:02.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 2
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
