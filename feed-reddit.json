@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-30T11:28:32.820Z",
+  "generatedAt": "2026-08-31T13:00:14.219Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1w3binv",
+      "title": "Are there some companies that really just open vacancies to do test tasks? Or It`s really so hard to find right professional for that job?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1w3binv/are_there_some_companies_that_really_just_open/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello! Could you please share your thoughts on job state in game/mobile/gambling audio?</p> <p>I keep seeing the same companies looking for Sound Designers/Music Composers for months and months. Sometimes it’s the exact same position, posted by the same HR person, and then it gets closed and reopened a month later.</p> <p>It honestly makes me wonder: is it really that difficult to find the right person for these positions or they just grabbing on test tasks?</p> <p>I recently did a test task that took me literally 5(!) working days to complete. It included sev",
+      "publishedAt": "2026-08-31T11:52:44.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
