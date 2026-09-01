@@ -1,21 +1,43 @@
 {
-  "generatedAt": "2026-08-31T13:00:14.219Z",
+  "generatedAt": "2026-09-01T11:16:58.542Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1w3binv",
-      "title": "Are there some companies that really just open vacancies to do test tasks? Or It`s really so hard to find right professional for that job?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1w3binv/are_there_some_companies_that_really_just_open/",
+      "fullname": "t3_1w48o7l",
+      "title": "The /r/GameAudio Community Career Corner September, 2026 - for job seekers, help wanted, new career queries, and evaluation requests",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1w48o7l/the_rgameaudio_community_career_corner_september/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello! Could you please share your thoughts on job state in game/mobile/gambling audio?</p> <p>I keep seeing the same companies looking for Sound Designers/Music Composers for months and months. Sometimes it’s the exact same position, posted by the same HR person, and then it gets closed and reopened a month later.</p> <p>It honestly makes me wonder: is it really that difficult to find the right person for these positions or they just grabbing on test tasks?</p> <p>I recently did a test task that took me literally 5(!) working days to complete. It included sev",
-      "publishedAt": "2026-08-31T11:52:44.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>This is the <strong><em>only</em></strong> place in the sub for queries and requests related to;</p> <ul> <li>seeking work</li> <li>seeking help</li> <li>new career advice</li> <li>evaluations of work</li> </ul> <p>If this pertains to your own website, then it goes in comments section of the current <strong>Share Mine</strong> community pinned post</p> <hr/> <p>Some links related to industry jobs</p> <table><thead> <tr> <th align=\"left\">Site / Company</th> <th align=\"left\">URL</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>General/Industry Job Sites<",
+      "publishedAt": "2026-09-01T11:03:27.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1w3t1pw",
+      "title": "What’s the most satisfying item sound in any game you’ve played?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1w3t1pw/whats_the_most_satisfying_item_sound_in_any_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m curious about the really tiny sounds, such as equipping a weapon or ring/accessories, picking up loot, coins dropping, moving something in an inventory, opening something, a rare item dropping, etc.<br/> I’m particularly interested in sounds you still remember years later, or just some good dopamine-hitting sound effects that makes you want to keep playing the game.<br/> Many thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/litedata2\"> /u/litedata2 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameA",
+      "publishedAt": "2026-08-31T22:19:44.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1w48lrm",
+      "title": "The GameAudio Share Mine September, 2026 - Use this post to link to / discuss your site, works, product, business or anything you created or are affiliated with",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1w48lrm/the_gameaudio_share_mine_september_2026_use_this/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><h3>Game Audio related Self-Promotion welcomed in the comments of this post</h3> <p>The comments section of this post is where you can provide info and links pertaining to your site, blog, video, sfx kickstarter or anything else you are affiliated with related to Game Audio. Instead of banning or removing this kind of content outright, this monthly post allows you to get your info out to our readers while keeping our front page free from billboarding. This as an opportunity for you and our readers to have a regular go-to for discussion regarding your latest news/",
+      "publishedAt": "2026-09-01T11:00:29.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 3
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
