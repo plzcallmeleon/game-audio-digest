@@ -1,43 +1,9 @@
 {
-  "generatedAt": "2026-09-01T11:16:58.542Z",
+  "generatedAt": "2026-09-02T10:51:28.733Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1w48o7l",
-      "title": "The /r/GameAudio Community Career Corner September, 2026 - for job seekers, help wanted, new career queries, and evaluation requests",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1w48o7l/the_rgameaudio_community_career_corner_september/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>This is the <strong><em>only</em></strong> place in the sub for queries and requests related to;</p> <ul> <li>seeking work</li> <li>seeking help</li> <li>new career advice</li> <li>evaluations of work</li> </ul> <p>If this pertains to your own website, then it goes in comments section of the current <strong>Share Mine</strong> community pinned post</p> <hr/> <p>Some links related to industry jobs</p> <table><thead> <tr> <th align=\"left\">Site / Company</th> <th align=\"left\">URL</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>General/Industry Job Sites<",
-      "publishedAt": "2026-09-01T11:03:27.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1w3t1pw",
-      "title": "What’s the most satisfying item sound in any game you’ve played?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1w3t1pw/whats_the_most_satisfying_item_sound_in_any_game/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m curious about the really tiny sounds, such as equipping a weapon or ring/accessories, picking up loot, coins dropping, moving something in an inventory, opening something, a rare item dropping, etc.<br/> I’m particularly interested in sounds you still remember years later, or just some good dopamine-hitting sound effects that makes you want to keep playing the game.<br/> Many thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/litedata2\"> /u/litedata2 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameA",
-      "publishedAt": "2026-08-31T22:19:44.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1w48lrm",
-      "title": "The GameAudio Share Mine September, 2026 - Use this post to link to / discuss your site, works, product, business or anything you created or are affiliated with",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1w48lrm/the_gameaudio_share_mine_september_2026_use_this/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><h3>Game Audio related Self-Promotion welcomed in the comments of this post</h3> <p>The comments section of this post is where you can provide info and links pertaining to your site, blog, video, sfx kickstarter or anything else you are affiliated with related to Game Audio. Instead of banning or removing this kind of content outright, this monthly post allows you to get your info out to our readers while keeping our front page free from billboarding. This as an opportunity for you and our readers to have a regular go-to for discussion regarding your latest news/",
-      "publishedAt": "2026-09-01T11:00:29.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 3
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
