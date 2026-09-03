@@ -1,39 +1,8 @@
 {
-  "generatedAt": "2026-09-02T10:51:27.264Z",
+  "generatedAt": "2026-09-03T10:51:24.177Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "Has AI Replaced Technical Sound Designers? An experiment by Brennan Anderson:",
-      "url": "https://www.asoundeffect.com/has-ai-replaced-technical-sound-designers/",
-      "publishedAt": "2026-09-02T08:42:51.000Z",
-      "author": "",
-      "description": "",
-      "content": "Hear how it turned out when Technical Sound Designer Brennan Anderson tested AI on one of game audio’s most mind-numbing jobs – placing footsteps: The post Has AI Replaced Technical Sound Designers? An experiment by Brennan Anderson: appeared first on A Sound Effect ."
-    },
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "11 great new sound effects libraries: Death whistles, earthquakes, rainforests, radio signals &#038; more",
-      "url": "https://www.asoundeffect.com/11-new-sound-effects-libraries-death-whistles-game-voices/",
-      "publishedAt": "2026-09-02T08:00:00.000Z",
-      "author": "",
-      "description": "",
-      "content": "Explore 11 new sound effects libraries, including game character voices, Aztec death whistle screams, rainforest wetlands, analog radio signals, and more: The post 11 great new sound effects libraries: Death whistles, earthquakes, rainforests, radio signals &#038; more appeared first on A Sound Effect ."
-    },
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "The Airwiggles Audio Challenge is now live &#8211; join here!",
-      "url": "https://www.asoundeffect.com/airwiggles-audio-challenge-live/",
-      "publishedAt": "2026-09-01T15:29:21.000Z",
-      "author": "",
-      "description": "",
-      "content": "Showcase and hone your sound design skills + get the chance to win great sound effects: The post The Airwiggles Audio Challenge is now live &#8211; join here! appeared first on A Sound Effect ."
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 3
+    "blogPosts": 0
   }
 }
