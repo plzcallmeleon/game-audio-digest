@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-09-03T10:51:25.405Z",
+  "generatedAt": "2026-09-04T10:49:58.617Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1w6ze0y",
+      "title": "How do you get sound effects",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1w6ze0y/how_do_you_get_sound_effects/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello fellow sound developers, i am making a game and i want it to have 8-bit sfx but i can't for the life of me find exactly what i need in all those free sound libraries like pixabay.<br/> So, if anyone has ever made a game with 8-bit sound effects, did you make them or did you find them? and if you've found them, where did you find them?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tommy-102\"> /u/Tommy-102 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1w6ze0y/how_do_you_get_sound_effects/\">[l",
+      "publishedAt": "2026-09-04T09:22:32.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1w6z4te",
+      "title": "What are the foundations a rhythm game?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1w6z4te/what_are_the_foundations_a_rhythm_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm trying to make my own rhythm game with UE5 and Wwise. I'm still in the early stages, so I'd like to make my classes functional and easily mutable should things get complicated later on. </p> <p>So far, all I can think of is a time tracker (using SMPTE) and a beat tracker (midi time code). Does UE5 already have a precise game time tracker? Is midi time code enough to sync with music assets from Wwise?</p> <p>If there's anything I might be overlooking, let me know. If you have experience making a rhythm game, I'd love to hear about any struggles, bugs, or an",
+      "publishedAt": "2026-09-04T09:07:51.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1w6d5fn",
+      "title": "Importing cue markers from .wav meta data in Wwise",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1w6d5fn/importing_cue_markers_from_wav_meta_data_in_wwise/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I haven't been able to find a way to do this, at least not by default, and I don't see it in the import settings, but in case there's something I haven't thought of, or a work around, I wanted to consult the hive mind. Interestingly, Unreal is able to do it out of the box.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FlamboyantPirhanna\"> /u/FlamboyantPirhanna </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1w6d5fn/importing_cue_markers_from_wav_meta_data_in_wwise/\">[link]</a></span> &#32; <span><a",
+      "publishedAt": "2026-09-03T16:58:54.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 3
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
