@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-09-07T11:52:38.110Z",
+  "generatedAt": "2026-09-08T10:49:08.530Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Twenty Thousand Hertz",
-      "title": "I'm (Still) Lovin' It: The McDonald's Jingle Saga Continues",
-      "guid": "prx_18144_5cb40a7d-48f4-4d54-aff5-663d644c6dbb",
-      "url": "https://play.prx.org/listen?ge=prx_18144_5cb40a7d-48f4-4d54-aff5-663d644c6dbb&amp;uf=https%3A%2F%2Ffeed.20k.org",
-      "publishedAt": "2026-09-07T10:00:00.000Z",
-      "transcript": "Mona Davis Music . Twenty Thousand Hertz is produced by ⁠⁠Defacto Sound⁠⁠ . Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠⁠⁠⁠20k.org/plus⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Subscribe on ⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠Facebook⁠⁠ , and ⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠ . If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get three months of free payroll with Gusto at gusto.com/20k . Visit ⁠⁠⁠⁠⁠⁠quo.com/20k⁠⁠⁠⁠⁠⁠ for 20% of your first 6 months of business phone software.]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
