@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-09-10T10:51:48.729Z",
+  "generatedAt": "2026-09-11T10:48:29.720Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1wc9d3z",
-      "title": "GameAudio September, 2026 - Game Sound Blog and Podcast Roundup",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1wc9d3z/gameaudio_september_2026_game_sound_blog_and/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>Game Sound Related Blogs</em></strong></p> <p><em>Updated March 2022</em></p> <p>Welcome to the subreddit feature post for Game Audio industry and related blogs and podcasts. If you know of a blog or podcast or have your own that posts consistently a minimum of once per month, please add the link here and we'll put it in the roundup. The current roundup is;</p> <table><thead> <tr> <th align=\"left\">Site</th> <th align=\"left\">Blog</th> </tr> </thead><tbody> <tr> <td align=\"left\">Audio Kinetic Blog</td> <td align=\"left\"><a href=\"https://blog.audiokine",
-      "publishedAt": "2026-09-10T05:00:16.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
