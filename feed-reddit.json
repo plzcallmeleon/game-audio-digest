@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-09-11T10:48:29.720Z",
+  "generatedAt": "2026-09-12T10:17:01.229Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1we6nl3",
+      "title": "Learning via Audiokinetic: Performance Optimization &amp; Mobile Considerations - Trying to open Unity for the first time",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1we6nl3/learning_via_audiokinetic_performance/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello there :) </p> <p>I'm still in the learning phase, Fundamentals and Interactive Music are done.<br/> Right now I am trying to open Unity for the first time as explained in the Manual here <a href=\"https://www.audiokinetic.com/en/courses/wwise251/?source=wwise251&amp;id=Opening_the_WAG_Unity_project#read\">https://www.audiokinetic.com/en/courses/wwise251/?source=wwise251&amp;id=Opening_the_WAG_Unity_project#read</a> </p> <p>Unfortunately I am getting an error message when I try to open Unity…there seem to be compiling errors which prevent me from entering t",
+      "publishedAt": "2026-09-12T08:08:47.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1wdtrsq",
+      "title": "how do i get the sounds from my old ps2 game",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1wdtrsq/how_do_i_get_the_sounds_from_my_old_ps2_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>i dont even have the console anymore but i found an old ps2 game and the format of the audio files (bnk) are not supported on my windows 11 computer. how do i play them on my computer without the console and save them so i have them downloaded even without the disc in the computer</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Small-Sample7733\"> /u/Small-Sample7733 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1wdtrsq/how_do_i_get_the_sounds_from_my_old_ps2_game/\">[link]</a></span> &#32; <span><a ",
+      "publishedAt": "2026-09-11T21:44:17.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 2
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
