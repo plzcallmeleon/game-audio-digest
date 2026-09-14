@@ -1,12 +1,7 @@
 {
   "seenTweets": {},
-  "seenVideos": {
-    "prx_18144_5cb40a7d-48f4-4d54-aff5-663d644c6dbb": 1788781957162
-  },
+  "seenVideos": {},
   "seenArticles": {
-    "https://www.asoundeffect.com/sale/": 1788781964222,
-    "https://www.asoundeffect.com/shop": 1788781965867,
-    "https://www.asoundeffect.com/mindfulaudio/": 1788781969322,
     "https://www.asoundeffect.com/emmy-winners-sound-stories-2026/": 1788864550295,
     "https://www.asoundeffect.com/11-new-sound-effects-libraries-light-spells-siege-engines/": 1788864550295,
     "https://designingsound.org/": 1788951324525,
@@ -17,6 +12,7 @@
   "seenRedditPosts": {
     "t3_1wc9d3z": 1789037508199,
     "t3_1we6nl3": 1789208220703,
-    "t3_1wdtrsq": 1789208220703
+    "t3_1wdtrsq": 1789208220703,
+    "t3_1wfijpz": 1789387633635
   }
 }
