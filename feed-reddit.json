@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-09-14T12:07:14.257Z",
+  "generatedAt": "2026-09-15T11:18:52.979Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1wfijpz",
-      "title": "Is GameSoundCon worth it for a beginner?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1wfijpz/is_gamesoundcon_worth_it_for_a_beginner/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Graduated NYU with a bachelors in Music Technology a year ago while focusing on game audio and composition classes with not much to show for it. TLDR burned out *really* hard during the latter half of my time there and haven't done much in game audio since. Most of my portfolio stuff is a bit lackluster due to rushed school deadlines. With the uncertainty surrounding the industry (layoffs, ai tools, job position scarcity) it's been discouraging even brushing up on skills that I've lost.</p> <p>That being said, GameSoundCon is near to where I live so I don't ha",
-      "publishedAt": "2026-09-13T20:20:07.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

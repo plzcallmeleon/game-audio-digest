@@ -1,8 +1,29 @@
 {
-  "generatedAt": "2026-09-14T12:07:12.853Z",
+  "generatedAt": "2026-09-15T11:18:51.542Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "Hear the 2026 Airwiggles Audio Challenge entries here &#8211; and take part too!",
+      "url": "https://www.asoundeffect.com/airwiggles-audio-challenge-26-entries/",
+      "publishedAt": "2026-09-15T08:09:58.000Z",
+      "author": "",
+      "description": "",
+      "content": "The Airwiggles Audio Challenge is in full swing - hear some of the entries here (+ take part yourself too!) The post Hear the 2026 Airwiggles Audio Challenge entries here &#8211; and take part too! appeared first on A Sound Effect ."
+    },
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "14 great new sound effects libraries: Fantasy game audio, a Harley V-twin, alien biomes, snow footsteps &#038; more",
+      "url": "https://www.asoundeffect.com/14-new-sound-effects-libraries-fantasy-harley-biomes/",
+      "publishedAt": "2026-09-14T15:11:42.000Z",
+      "author": "",
+      "description": "",
+      "content": "Explore 14 new sound effects libraries, including over 1500 fantasy game sounds, a Harley Electra Glide, alien ambisonic biomes, icy snow footsteps, and more: The post 14 great new sound effects libraries: Fantasy game audio, a Harley V-twin, alien biomes, snow footsteps &#038; more appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 2
   }
 }

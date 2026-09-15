@@ -1,13 +1,16 @@
 {
   "seenTweets": {},
-  "seenVideos": {},
+  "seenVideos": {
+    "prx_18144_5cb40a7d-48f4-4d54-aff5-663d644c6dbb": 1789471126439,
+    "tag:soundcloud,2010:tracks/2400591372": 1789471127521
+  },
   "seenArticles": {
-    "https://www.asoundeffect.com/emmy-winners-sound-stories-2026/": 1788864550295,
-    "https://www.asoundeffect.com/11-new-sound-effects-libraries-light-spells-siege-engines/": 1788864550295,
     "https://designingsound.org/": 1788951324525,
     "https://designingsound.org/about/": 1788951325067,
     "https://designingsound.org/site-policy/": 1788951325599,
-    "https://www.asoundeffect.com/film-sound-mixing-2/": 1789037506140
+    "https://www.asoundeffect.com/film-sound-mixing-2/": 1789037506140,
+    "https://www.asoundeffect.com/airwiggles-audio-challenge-26-entries/": 1789471129522,
+    "https://www.asoundeffect.com/14-new-sound-effects-libraries-fantasy-harley-biomes/": 1789471129522
   },
   "seenRedditPosts": {
     "t3_1wc9d3z": 1789037508199,
