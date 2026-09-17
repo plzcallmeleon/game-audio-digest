@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-09-16T11:01:55.728Z",
+  "generatedAt": "2026-09-17T11:12:28.298Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1wh7gum",
-      "title": "Which game had a death sound effect &quot;why why why...&quot;",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1wh7gum/which_game_had_a_death_sound_effect_why_why_why/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I think I'm going crazy.</p> <p>I could have sworn years back I played a game that when the main character dies, he says \"w- w- why why why [echo]\".</p> <p>I thought it was one of the castlevania games. I can't even remember the console.</p> <p>All I have is this oddly specific memory of this sound effect.</p> <p>Does anyone know what I'm talking about?!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/beatinventor\"> /u/beatinventor </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1wh7gum/which_game_ha",
-      "publishedAt": "2026-09-15T17:49:49.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
