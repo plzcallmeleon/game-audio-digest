@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-20T10:51:35.733Z",
+  "generatedAt": "2026-09-21T12:16:12.361Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "Get the WIND GUSTS sound effects library &#8211; completely free (for a very limited time!):",
+      "url": "https://www.asoundeffect.com/gift/",
+      "publishedAt": "2026-09-21T06:32:15.000Z",
+      "author": "",
+      "description": "",
+      "content": "Get yourself free sound effects from the independent sound community - only on A Sound Effect: The post Get the WIND GUSTS sound effects library &#8211; completely free (for a very limited time!): appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   }
 }
