@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-09-22T11:09:09.519Z",
+  "generatedAt": "2026-09-23T10:59:29.396Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1wn10au",
-      "title": "If I know NOTHING about game audio but get sound effects from someone, how hard are they to implement into Unreal 5 with Wwise?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1wn10au/if_i_know_nothing_about_game_audio_but_get_sound/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Basically title, working on an indie project and our audio guy keeps flaking. Want to get the demo over the finish line, but have zero game audio experience. I’m a producer for context lol any advice help, thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Acrobatic_Mud_2343\"> /u/Acrobatic_Mud_2343 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1wn10au/if_i_know_nothing_about_game_audio_but_get_sound/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1wn10au/if",
-      "publishedAt": "2026-09-22T05:49:36.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

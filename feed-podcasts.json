@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-09-22T11:09:01.638Z",
+  "generatedAt": "2026-09-23T10:59:23.667Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Soundworks Collection Podcast",
+      "title": "The Sound of Backrooms",
+      "guid": "a1a1a130-5c37-42dd-b268-09f1253af874",
+      "url": "https://podcasters.spotify.com/pod/show/soundworkscollection/episodes/The-Sound-of-Backrooms-e3p89r0",
+      "publishedAt": "2026-09-22T17:03:56.000Z",
+      "transcript": "<p>Go behind the sound of the Backrooms with Re-Recording Mixer, Sound Designer &amp; Supervising Sound Editor Eugenio Battaglia and Production Sound Mixer Jan Hetmer.</p><p>In this SoundWorks Collection exclusive, Eugenio and Jan discuss the creative approach behind the film’s unsettling sonic world—from the intentionally sparse production sound and buzzing fluorescent lights to the use of silence, reverb, and spatial movement to build tension.</p><p>We explore how the sound design gradually expands from a restrained, almost mono presentation into a much more immersive and surreal soundscape as the tension increases. We also break down the recurring wind chime motif, electromagnetic recordings used to create unusual textures, and the importance of leaving space for the audience’s imagination.</p><p>The team also discusses the sound of the creature and how unexpected recordings—including camel sounds—became part of the process of creating something that felt unsettling without sounding like a conventional monster.</p><p>Rather than constantly showing or revealing the source of the horror, the sound team discovered that what you don’t hear can be just as frightening as what you do.</p>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
