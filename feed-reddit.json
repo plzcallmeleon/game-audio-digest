@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-23T10:59:29.396Z",
+  "generatedAt": "2026-09-24T11:18:36.672Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1woolfy",
+      "title": "Sci Fi shooter, cliches to avoid?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1woolfy/sci_fi_shooter_cliches_to_avoid/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Anything I should avoid when designing the audio for a sci fi shooter game? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ashleytoddaudio\"> /u/Ashleytoddaudio </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1woolfy/sci_fi_shooter_cliches_to_avoid/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1woolfy/sci_fi_shooter_cliches_to_avoid/\">[comments]</a></span>",
+      "publishedAt": "2026-09-24T01:40:29.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

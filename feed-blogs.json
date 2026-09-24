@@ -1,8 +1,29 @@
 {
-  "generatedAt": "2026-09-23T10:59:27.863Z",
+  "generatedAt": "2026-09-24T11:18:35.265Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "How to Rise to the Surface in a Flood of Game Audio Applications",
+      "url": "https://www.asoundeffect.com/stand-out-in-game-audio/",
+      "publishedAt": "2026-09-23T04:55:00.000Z",
+      "author": "",
+      "description": "",
+      "content": "Lewis Thompson shares fantastic insights on how to stand out in a cluttered field of game audio job applicants: The post How to Rise to the Surface in a Flood of Game Audio Applications appeared first on A Sound Effect ."
+    },
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "44 great new sound effects libraries: Tactical guns, haunted carnivals, split-flap signs, world ambiences &#038; more",
+      "url": "https://www.asoundeffect.com/44-new-sound-effects-libraries-robots-tactical-guns/",
+      "publishedAt": "2026-09-22T11:47:23.000Z",
+      "author": "",
+      "description": "",
+      "content": "This week on A Sound Effect, we explore 44 new sound effects libraries, from a robot workshop construction kit and 25 real service weapons to the eerie calliopes of a haunted carnival. You&#8217;ll also find a split-flap sign, spatial sci-fi whooshes, Spanish fireworks, fantasy spells, horror strings, Big Band game sounds, Southeast Asian ambiences, and [&#8230;] The post 44 great new sound effects libraries: Tactical guns, haunted carnivals, split-flap signs, world ambiences &#038; more appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 2
   }
 }
