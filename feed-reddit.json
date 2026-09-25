@@ -1,21 +1,32 @@
 {
-  "generatedAt": "2026-09-24T11:18:36.672Z",
+  "generatedAt": "2026-09-25T11:23:34.922Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1woolfy",
-      "title": "Sci Fi shooter, cliches to avoid?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1woolfy/sci_fi_shooter_cliches_to_avoid/",
+      "fullname": "t3_1wp9w29",
+      "title": "Tips for sword sounds?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1wp9w29/tips_for_sword_sounds/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Anything I should avoid when designing the audio for a sci fi shooter game? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ashleytoddaudio\"> /u/Ashleytoddaudio </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1woolfy/sci_fi_shooter_cliches_to_avoid/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1woolfy/sci_fi_shooter_cliches_to_avoid/\">[comments]</a></span>",
-      "publishedAt": "2026-09-24T01:40:29.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Any tips for creating sword swipe attacks? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ashleytoddaudio\"> /u/Ashleytoddaudio </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1wp9w29/tips_for_sword_sounds/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1wp9w29/tips_for_sword_sounds/\">[comments]</a></span>",
+      "publishedAt": "2026-09-24T18:40:40.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1wpgbnp",
+      "title": "What SFX pack categories do you wish existed (or existed but were actually good)?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1wpgbnp/what_sfx_pack_categories_do_you_wish_existed_or/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi..Curious what people think is genuinely missing from the SFX pack market, or what exists but everything available is either too polished/generic or too rough. Trying to understand where the real gaps are game impacts, mechanical/industrial, foley, nature, transitions what's oversaturated vs actually underserved?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No-Occasion-4628\"> /u/No-Occasion-4628 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1wpgbnp/what_sfx_pack_categories_do_you_wish_existed_",
+      "publishedAt": "2026-09-24T23:00:08.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 2
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
