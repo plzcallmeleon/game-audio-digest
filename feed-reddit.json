@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-26T10:59:28.022Z",
+  "generatedAt": "2026-09-27T11:37:27.996Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1wqwkbb",
+      "title": "In game cinematics: How do you implement audio for them?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1wqwkbb/in_game_cinematics_how_do_you_implement_audio_for/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, I'm a (technical) sound designer. I've worked the full pipeline on a couple of indie games being the whole audio department in one person (as is tradition).</p> <p>I was lead sound designer on Tormented Souls 2 (survival horror) and had to come up with a way to implement audio for in-game cinematics. Unreal Engine 5 + FMOD. Due to lack of time (as is also tradition) I ended up with this pipeline:</p> <ul> <li>Export each cinematic as video with the ffmpeg integration</li> <li>Worked the audio post for each cinematic as a short film</li> <li>Exported ",
+      "publishedAt": "2026-09-26T17:39:06.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
