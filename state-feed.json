@@ -1,12 +1,10 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "prx_18144_f83022e4-1bc3-4334-a167-82006368bcbb": 1789992967285,
     "a1a1a130-5c37-42dd-b268-09f1253af874": 1790161161612,
     "tag:soundcloud,2010:tracks/2400591372": 1790248710043
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/gift/": 1789992970346,
     "https://www.asoundeffect.com/stand-out-in-game-audio/": 1790248711933,
     "https://www.asoundeffect.com/44-new-sound-effects-libraries-robots-tactical-guns/": 1790248711933,
     "https://www.asoundeffect.com/sale/": 1790335404948,
@@ -17,11 +15,11 @@
     "https://designingsound.org/site-policy/": 1790335410832
   },
   "seenRedditPosts": {
-    "t3_1wloy2q": 1789992973210,
     "t3_1wn10au": 1790075348896,
     "t3_1woolfy": 1790248716042,
     "t3_1wp9w29": 1790335414378,
     "t3_1wpgbnp": 1790335414378,
-    "t3_1wqwkbb": 1790509047467
+    "t3_1wqwkbb": 1790509047467,
+    "t3_1wsaaqr": 1790601152416
   }
 }
