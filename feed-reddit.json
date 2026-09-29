@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-09-28T13:12:32.947Z",
+  "generatedAt": "2026-09-29T12:20:46.777Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1wsaaqr",
-      "title": "Map of Audio Portals Approach",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1wsaaqr/map_of_audio_portals_approach/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I'm working on the audio systems for my next game and trying to come up with a better solution for occlusion than just the standard line trace means low pass as the illusion falls apart pretty quickly.</p> <p>I'm heading down the path of audio portals placed at doorways/windows since I already use a basic version of that for having a bit of external ambience play at the doorways to buildings. </p> <p>I watched a video on the Dead Space Remake devs talking about their audio portal system and most of it makes sense to me. \"Dead Space | The Sound of Fear Reimagin",
-      "publishedAt": "2026-09-28T09:48:48.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
