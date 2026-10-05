@@ -1,97 +1,11 @@
 {
-  "generatedAt": "2026-10-04T11:56:01.446Z",
+  "generatedAt": "2026-10-05T13:55:08.263Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1wxaz5g",
-      "title": "Rendering my soldiers costs 4x more than simulating them and that's the least of problems.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wxaz5g/rendering_my_soldiers_costs_4x_more_than/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong>1. Canvas 2D gives up around 2,000 men and I need ten times that</strong></p> <p>1,000 a side in Chrome:</p> <pre><code>sim 5.3 ms/frame draw 22.9 ms/frame 18 fps </code></pre> <p>I spent about a week making the simulation faster. Turns out drawing costs 4x what the sim does and always did, so that was a week well spent.</p> <p>Every soldier takes roughly 80 canvas calls and Canvas 2D won't let me group them, so that's ~42k instructions per frame right now and about 1.6 million if I ever hit 20k men. I can batch by colour instead of by soldier, one pat",
-      "publishedAt": "2026-10-04T08:55:47.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1wwaijz",
-      "title": "People who support your game deserve more than being reduced to SEO",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wwaijz/people_who_support_your_game_deserve_more_than/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I saw a post recommending that developers send their games to very small YouTubers because they're more likely to cover them.</p> <p>The advice itself makes sense, but I really don't like the way the post talks about these creators.</p> <p>If someone with 200 subscribers takes the time to play your game and make a video about it, they're not just some SEO tool you found because nobody else will cover your game. They're a person who chose to spend their free time playing something you made.</p> <p>Especially as a small indie developer, I think it's worth rememb",
-      "publishedAt": "2026-10-03T01:13:35.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1wxcfgo",
-      "title": "Advice for a game story based on a detective in the UK",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wxcfgo/advice_for_a_game_story_based_on_a_detective_in/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey I'm developing a detective game. It's my first solo project, and I'm a bit lost on the narrative side. I have the core idea, but I'm not sure how to balance realism, the story structure, and player clue gathering.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Enough_Lavishness_60\"> /u/Enough_Lavishness_60 </a> <br/> <span><a href=\"https://www.reddit.com/r/gamedev/comments/1wxcfgo/advice_for_a_game_story_based_on_a_detective_in/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/gamedev/comments/1wxcfgo",
-      "publishedAt": "2026-10-04T10:29:02.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1ww1s6a",
-      "title": "You can massively boost your SEO by sending your game to below-1000 sub youtubers",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ww1s6a/you_can_massively_boost_your_seo_by_sending_your/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>\"<em>What's the point of sending my game to youtubers nobody watches?</em>\", you ask. The point is that initially nobody knows about your game either - <strong>especially Google</strong>. So when you start promoting your game and someone googles it, very likely it won't even show up, because google's crawlers didn't see the title enough times to consider it a real thing. And you NEED the first result to be your Steam page. No, people won't type \"<game title> steam\" to narrow the results, people are fucking lazy. They'll think \"probably some amateur shit\" and c",
-      "publishedAt": "2026-10-02T18:47:07.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1wx2r25",
-      "title": "Good Starting Point to Learn Godot or general game dev?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wx2r25/good_starting_point_to_learn_godot_or_general/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I mostly mean tutorials and the like good for beginners. I have very mild experience, but I want to do game dev as a passionate activity and am willing to dedicate significant time to it. So extensive tutorials are fine. Also if you have suggestions for better game engines that works too. I've just heard good things about godot.</p> <p>I'm asking since there are a lot of dev tutorials and I don't know where is reliable to start.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ElderberrySuperb2676\"> /u/ElderberrySuperb2676",
-      "publishedAt": "2026-10-04T00:57:10.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1wx8gq4",
-      "title": "How do small mobile studios compete with the big players?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wx8gq4/how_do_small_mobile_studios_compete_with_the_big/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, as we are all aware mobile games rely a lot on paid user acquisition and with these costs being what they are, I was curious how do small unfunded studios compete against studios with massive ad budgets? </p> <p>If you launched a mobile game without a UA war chest, how did you actually compete and get early traction? Did you have to rely on some form of outside financing regardless just to stay afloat? </p> <p>Would love to hear how indie mobile devs manage this. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/u",
-      "publishedAt": "2026-10-04T06:17:44.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1wx01v1",
-      "title": "I need help about songs",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wx01v1/i_need_help_about_songs/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi im currently developing my own retro type endless runner game with chess themed. It was actually a homework and now its almost finished and i am thinking to release it. I want to add songs to my game for boss or regular play exc. I can use ai generated songs but i dont like ai generated things. And im still a student so i cant pay someone for the songs. How can i find free songs for my game.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Trouble-Stunning\"> /u/Trouble-Stunning </a> <br/> <span><a href=\"https://www.redd",
-      "publishedAt": "2026-10-03T22:40:13.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "gamedev",
-      "fullname": "t3_1wwj2f5",
-      "title": "Take Steam Micro Trailer into account before making a full trailer",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wwj2f5/take_steam_micro_trailer_into_account_before/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I've been making a new trailer for my game recently, I matched action with the music so sword/bullet hits would match the beats and synth. Then I uploaded it to steam and micro trailer turned up to be just awful.</p> <p>Micro Trailer to my understanding always consists of 6 one-second shots, and for me steam arranged it such way that each of those 6 shots had transition between shots of my base trailer, and so It felt very fragmented.</p> <p>What I ended up doing is looking at what timestamps those micro trailer shots begin, and tried to rearrange my base trai",
-      "publishedAt": "2026-10-03T09:33:25.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 8
-  }
+    "redditPosts": 0
+  },
+  "errors": [
+    "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
+  ]
 }

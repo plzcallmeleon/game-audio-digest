@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-04T11:55:54.994Z",
+  "generatedAt": "2026-10-05T13:55:02.225Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Twenty Thousand Hertz",
+      "title": "Guess That Sound: Video Game Edition",
+      "guid": "prx_18144_dc0d6e49-854d-4239-90e8-bb4bd446caf9",
+      "url": "https://play.prx.org/listen?ge=prx_18144_dc0d6e49-854d-4239-90e8-bb4bd446caf9&amp;uf=https%3A%2F%2Ffeed.20k.org",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "transcript": "Joanna Fang , Senior Interactive Sound Designer Mark Kilborn , and Sound Designer and Composer Jeffrey Brice . Twenty Thousand Hertz is produced by ⁠⁠Defacto Sound⁠⁠ . Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠⁠⁠⁠20k.org/plus⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Subscribe on ⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠Facebook⁠⁠ , and ⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠ . If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get three months of free payroll with Gusto at gusto.com/20k . Visit ⁠⁠⁠⁠⁠⁠quo.com/20k⁠⁠⁠⁠⁠⁠ for 20% of your first 6 months of business phone software. Build your home sound system today at sonos.com .]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
