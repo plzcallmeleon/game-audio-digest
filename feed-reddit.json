@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-06T12:57:18.767Z",
+  "generatedAt": "2026-10-07T12:51:23.070Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1wz4cts",
+      "title": "Sound for games using protoold",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1wz4cts/sound_for_games_using_protoold/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>HI all! I did film and documentary in college but I specialised in audio. I have experience doing sfx for animation and live action. I wonder how and if I would be able to implement thoese skills for games? I have used protools but im seeing stuff about implementing it into games. Would that be the responsibility of the designer of game developer?</p> <p>Any advice is appreciated! EDIT: thanks for the responses I will look into mobile and wise!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Boreal59\"> /u/Boreal59 </a> <b",
+      "publishedAt": "2026-10-06T14:41:29.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
