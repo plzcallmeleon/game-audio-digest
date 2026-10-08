@@ -1,21 +1,32 @@
 {
-  "generatedAt": "2026-10-07T12:51:23.070Z",
+  "generatedAt": "2026-10-08T13:00:05.118Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1wz4cts",
-      "title": "Sound for games using protoold",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1wz4cts/sound_for_games_using_protoold/",
+      "fullname": "t3_1x0d5nw",
+      "title": "What makes a good UI sound?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1x0d5nw/what_makes_a_good_ui_sound/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>HI all! I did film and documentary in college but I specialised in audio. I have experience doing sfx for animation and live action. I wonder how and if I would be able to implement thoese skills for games? I have used protools but im seeing stuff about implementing it into games. Would that be the responsibility of the designer of game developer?</p> <p>Any advice is appreciated! EDIT: thanks for the responses I will look into mobile and wise!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Boreal59\"> /u/Boreal59 </a> <b",
-      "publishedAt": "2026-10-06T14:41:29.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>When designing UI elements what is it that you consider? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ashleytoddaudio\"> /u/Ashleytoddaudio </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1x0d5nw/what_makes_a_good_ui_sound/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1x0d5nw/what_makes_a_good_ui_sound/\">[comments]</a></span>",
+      "publishedAt": "2026-10-08T00:37:42.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1x02stp",
+      "title": "Ideal music for an idle mining / incremental game set on mars? lost for ideas",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1x02stp/ideal_music_for_an_idle_mining_incremental_game/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I'm building an idle mining / incremental game set on mars. The mood of the game is futuristic buildings and astronauts, on top of the red scorching dirt of the Mars. </p> <p><a href=\"https://preview.redd.it/gu6k04esy2uh1.png?width=441&amp;format=png&amp;auto=webp&amp;s=0dcf232c3b572f5816251800ad43317255c97c5f\">a small picture from the editor of the pic. </a></p> <p>What would be some good music for this? something futuristic? calm? </p> <p>I cant figure out the idea of it and a few people i contacted on fiver were telling they dont want to consult ",
+      "publishedAt": "2026-10-07T17:33:11.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 2
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

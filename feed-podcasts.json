@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-07T12:51:17.238Z",
+  "generatedAt": "2026-10-08T12:59:57.330Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "379 - Sound Editors that Mix &amp; Mixers that Edit",
+      "guid": "tag:soundcloud,2010:tracks/2415228918",
+      "url": "https://soundcloud.com/tonebenders-podcast/379-sound-editors-that-mix",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "transcript": "What is expected of the modern crafts person working in Audio Post? A lot of mixing is done in the sound edit, and a lot of editing is done on the mix stage. After a long day of work, 5 busy Los Angeles sound professionals gathered in Stage 10 on the Warner Brothers lot, to hash out how their jobs have evolved in recent years. They hash out what is expected from the sound team on high level projects like prestige series and wide release films. Greg King, Jon Greasley, Brittany Ellis, Nikola Semikic and Ben Cook all share their vast experience and thoughts on where things are going. _______ Register for the Inside NYC Audio Post Event coming up on Oct 15th at Sound Lounge here: https://www.mpse.org/event-6844200 ______ Come out to Audio Post MX in Mexico City on Oct 29th! For Full details and to register to attend go to: https://docs.google.com/forms/d/e/1FAIpQLSeSK9dYGm0rfAxP9cHGCNdkkiTdZEm7s-UmumDE9vNkw1mBjQ/viewform SPONSORS: Sound Ideas is heading to GameSoundCon 2026 at the Burbank Convention Center in Burbank, California, on October 20th–21st! The event features educational seminars and opportunities to connect with fellow industry professionals. Be sure to visit Sound Ideas at booth seven to meet the team and access exclusive offers available only at the show. Can’t make it in person? Contact Sound Ideas for some special offers. ______ 87 sound designers from the Field Recording Slack have come together to release a new crowdsourced sound effects library that they’re making available for charity. Handheld Gadgets is an 18GB library with 929 unique sounds, including multiple variations of bicycle pumps, zippo lighters, hand cranked radios, gaming controllers, tools and much more. The library is UCS compliant, covering 21 sound categories. The way to purchase the library is simple: donate $50.00 or more directly to Doctors Without Borders, World Central Kitchen or The Water Project, then email that receipt to frscharity@gmail.com. You will receive a reply email "
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
