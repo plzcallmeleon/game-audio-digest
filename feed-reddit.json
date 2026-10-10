@@ -1,21 +1,32 @@
 {
-  "generatedAt": "2026-10-09T12:46:29.479Z",
+  "generatedAt": "2026-10-10T12:04:47.241Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1x0zo72",
-      "title": "Normalizing volume of all audio assets",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1x0zo72/normalizing_volume_of_all_audio_assets/",
+      "fullname": "t3_1x2a0lw",
+      "title": "How did you learn sound design? Where should I start?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1x2a0lw/how_did_you_learn_sound_design_where_should_i/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I'm very inexperienced in sfx and looking for ways to normalize the volume of all audio assets in my game. Some of the assets are cc0 assets I found on the internet, some were recorded with a Zoom H1 and cleaned up in audacity and the music was recorded in Reaper.</p> <p>I started working on the audio layer in my game and I'm really not happy with how sfx, music and UI sounds mix together. What is the correct workflow here? Do I adjust gain in Audacity of every audio file manually or are there any plugins/software that can help with that? I imagine ",
-      "publishedAt": "2026-10-08T19:05:48.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong>Title: How do you create a sound that's hard to describe?</strong></p> <p>Hey everyone!</p> <p>I recently started learning game sound design, and so far, I've mostly been browsing Soundly and sample libraries to find sounds that fit my needs.</p> <p>For straightforward stuff like footsteps or monster sounds, I can usually tweak existing samples with pitch shifting and other plugins to get something that works.</p> <p><em>But I'm struggling when it comes to creating a specific sound that I can hear in my head but don't know how to make.</em></p> <p>For ",
+      "publishedAt": "2026-10-10T08:26:03.000Z"
+    },
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1x26ldi",
+      "title": "GameAudio October, 2026 - Game Sound Blog and Podcast Roundup",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1x26ldi/gameaudio_october_2026_game_sound_blog_and/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>Game Sound Related Blogs</em></strong></p> <p><em>Updated March 2022</em></p> <p>Welcome to the subreddit feature post for Game Audio industry and related blogs and podcasts. If you know of a blog or podcast or have your own that posts consistently a minimum of once per month, please add the link here and we'll put it in the roundup. The current roundup is;</p> <table><thead> <tr> <th align=\"left\">Site</th> <th align=\"left\">Blog</th> </tr> </thead><tbody> <tr> <td align=\"left\">Audio Kinetic Blog</td> <td align=\"left\"><a href=\"https://blog.audiokine",
+      "publishedAt": "2026-10-10T05:00:13.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 2
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
