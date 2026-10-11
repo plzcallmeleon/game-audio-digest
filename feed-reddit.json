@@ -1,32 +1,21 @@
 {
-  "generatedAt": "2026-10-10T12:04:47.241Z",
+  "generatedAt": "2026-10-11T12:18:21.553Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1x2a0lw",
-      "title": "How did you learn sound design? Where should I start?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1x2a0lw/how_did_you_learn_sound_design_where_should_i/",
+      "fullname": "t3_1x2o4io",
+      "title": "Designing laser gun tails.",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1x2o4io/designing_laser_gun_tails/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong>Title: How do you create a sound that's hard to describe?</strong></p> <p>Hey everyone!</p> <p>I recently started learning game sound design, and so far, I've mostly been browsing Soundly and sample libraries to find sounds that fit my needs.</p> <p>For straightforward stuff like footsteps or monster sounds, I can usually tweak existing samples with pitch shifting and other plugins to get something that works.</p> <p><em>But I'm struggling when it comes to creating a specific sound that I can hear in my head but don't know how to make.</em></p> <p>For ",
-      "publishedAt": "2026-10-10T08:26:03.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1x26ldi",
-      "title": "GameAudio October, 2026 - Game Sound Blog and Podcast Roundup",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1x26ldi/gameaudio_october_2026_game_sound_blog_and/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>Game Sound Related Blogs</em></strong></p> <p><em>Updated March 2022</em></p> <p>Welcome to the subreddit feature post for Game Audio industry and related blogs and podcasts. If you know of a blog or podcast or have your own that posts consistently a minimum of once per month, please add the link here and we'll put it in the roundup. The current roundup is;</p> <table><thead> <tr> <th align=\"left\">Site</th> <th align=\"left\">Blog</th> </tr> </thead><tbody> <tr> <td align=\"left\">Audio Kinetic Blog</td> <td align=\"left\"><a href=\"https://blog.audiokine",
-      "publishedAt": "2026-10-10T05:00:13.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Apart from passing the shot through an IR what else can you do for designing interesting laser gun tails? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ashleytoddaudio\"> /u/Ashleytoddaudio </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1x2o4io/designing_laser_gun_tails/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1x2o4io/designing_laser_gun_tails/\">[comments]</a></span>",
+      "publishedAt": "2026-10-10T19:42:18.000Z"
     }
   ],
   "stats": {
-    "redditPosts": 2
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
