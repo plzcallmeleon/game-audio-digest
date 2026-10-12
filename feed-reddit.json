@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-11T12:18:21.553Z",
+  "generatedAt": "2026-10-12T14:43:51.999Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1x2o4io",
-      "title": "Designing laser gun tails.",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1x2o4io/designing_laser_gun_tails/",
+      "fullname": "t3_1x3gl6a",
+      "title": "Switch container for gun tails???",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1x3gl6a/switch_container_for_gun_tails/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Apart from passing the shot through an IR what else can you do for designing interesting laser gun tails? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ashleytoddaudio\"> /u/Ashleytoddaudio </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1x2o4io/designing_laser_gun_tails/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1x2o4io/designing_laser_gun_tails/\">[comments]</a></span>",
-      "publishedAt": "2026-10-10T19:42:18.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Just wondering how you would set up a switch container for gun tails? I know how to do it with blend containers and states but I would rather work with a switch container if possible? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ashleytoddaudio\"> /u/Ashleytoddaudio </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1x3gl6a/switch_container_for_gun_tails/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1x3gl6a/switch_container_for_gun_tails/\">[comments]</a></span>",
+      "publishedAt": "2026-10-11T19:07:16.000Z"
     }
   ],
   "stats": {
