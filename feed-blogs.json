@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-10-13T13:46:26.057Z",
+  "generatedAt": "2026-10-14T11:24:12.995Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "NOVA by Mattia Cellotto is here! Get your exclusive launch deal:",
-      "url": "https://www.asoundeffect.com/nova/",
-      "publishedAt": "2026-10-13T07:50:24.000Z",
-      "author": "",
-      "description": "",
-      "content": "Don't miss the exclusive 20% off offer - today only! The post NOVA by Mattia Cellotto is here! Get your exclusive launch deal: appeared first on A Sound Effect ."
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 1
+    "blogPosts": 0
   }
 }
