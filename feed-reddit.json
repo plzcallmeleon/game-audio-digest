@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-14T11:24:14.404Z",
+  "generatedAt": "2026-10-15T11:00:46.363Z",
   "lookbackHours": 48,
-  "reddit": [],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "GameAudio",
+      "fullname": "t3_1x68rzk",
+      "title": "Improving sound design workflow",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1x68rzk/improving_sound_design_workflow/",
+      "upvotes": 0,
+      "commentCount": 0,
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I think I'm taking too long making sound effects, and I'm wondering how I can speed up my workflow (from foley to final sound) without sacrificing quality.</p> <p>For example, I recently made a set of 6 gib sfx (2 sounds, 3 variations each, not synced to animation) and it took me somewhere between 6-9 hours. That includes recording all the foley and processing the raw recordings, shaping the sfx, and mixing. </p> <p>I do know having a library of sounds helps a lot, and I'm steadily building this. Aside from that, how could I improve my workflow</p> </div><!-- ",
+      "publishedAt": "2026-10-15T01:23:56.000Z"
+    }
+  ],
   "stats": {
-    "redditPosts": 0
+    "redditPosts": 1
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"

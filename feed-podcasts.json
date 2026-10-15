@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-10-14T11:24:04.280Z",
+  "generatedAt": "2026-10-15T11:00:40.609Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Soundworks Collection Podcast",
+      "title": "The Music of Resident Evil with Hays and Ryan Holladay",
+      "guid": "59a982f1-53bc-46b5-b4c8-3eb915ab56cf",
+      "url": "https://podcasters.spotify.com/pod/show/soundworkscollection/episodes/The-Music-of-Resident-Evil-with-Hays-and-Ryan-Holladay-e3qhi48",
+      "publishedAt": "2026-10-15T04:34:23.000Z",
+      "transcript": "<p>How do you create a horror score that defies expectations? For Resident Evil, composers Hays Holladay and Ryan Holladay take an unconventional approach, blending manipulated brass, experimental electronics, and unexpected musical influences to create a distinctive sonic identity for director Zach Cregger’s film.In this conversation with SoundWorks Collection, the Holladay brothers discuss their long-standing creative partnership with Cregger, dating back to their years making music together in a band. They explore how that shared history has shaped their collaborative process, allowing them to experiment freely while remaining focused on the director’s vision.The brothers also reveal how jazz albums by Miles Davis, including Bitches Brew and Dark Magus, helped inform the score’s musical DNA, why they initially sought to avoid synthesizers, and how recorded trumpet and trombone performances were transformed into sounds that blur the line between acoustic instruments and electronic textures.From developing musical ideas before production begins to experimenting alongside the film’s edit, Hays and Ryan explain how an evolving, highly collaborative workflow allows them to discover the right sound for each scene. They also discuss the importance of restraint in horror scoring, avoiding genre clichés, and knowing when the most effective musical choice is to do less.Discover how the composers behind Resident Evil combine experimentation, shared musical instincts, and a deep creative connection with Zach Cregger to build a score that serves the film’s unsettling atmosphere and relentless action.Moderated by Charles Steinberg</p>"
+    },
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "380 - Sound Editors that Mix &amp; Mixers that Edit Part 2",
+      "guid": "tag:soundcloud,2010:tracks/2419160454",
+      "url": "https://soundcloud.com/tonebenders-podcast/380-sound-editors-that-mix",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "transcript": "The conversation continues about what is expected when working in audio post on high level films and series. Where is the line between an sound editor and sound mixer? Greg King, Jon Greasley, Brittany Ellis, Nikola Simikic and Ben Cook all share their vast experience and thoughts on where things are going. Make sure you go back, to catch part one of this roundtable talk in episode 379. _______ Register for the Inside NYC Audio Post Event coming up on Oct 15th at Sound Lounge here: https://www.mpse.org/event-6844200 ______ Come out to Audio Post MX in Mexico City on Oct 29th! For Full details and to register to attend go to: https://docs.google.com/forms/d/e/1FAIpQLSeSK9dYGm0rfAxP9cHGCNdkkiTdZEm7s-UmumDE9vNkw1mBjQ/viewform _______ Check out the full schedule at this year's, completely free to attend, SonicDays Conference in Denmark. https://sonicdays.com/ ________ SPONSORS: Sound Ideas is heading to GameSoundCon 2026 at the Burbank Convention Center in Burbank, California, on October 20th–21st! The event features educational seminars and opportunities to connect with fellow industry professionals. Be sure to visit Sound Ideas at booth seven to meet the team and access exclusive offers available only at the show. Can’t make it in person? Contact Sound Ideas for some special offers. Episode Notes: https://tonebenderspodcast.com/380-sound-editors-that-mix-mixers-that-edit-part-2/ Podcast Homepage: https://tonebenderspodcast.com/ This episode is hosted by Timothy Muirhead"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
