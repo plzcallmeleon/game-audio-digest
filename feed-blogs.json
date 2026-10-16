@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-10-15T11:00:45.031Z",
+  "generatedAt": "2026-10-16T10:56:39.876Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "Watch &#8216;The Secret World of Foley&#8217; here",
-      "url": "https://www.asoundeffect.com/the-secret-world-of-foley-26/",
-      "publishedAt": "2026-10-15T09:52:43.000Z",
-      "author": "",
-      "description": "",
-      "content": "Legendary Foley artist Pete Burgis sadly passed away recently - here are two fantastic documentaries that highlight his sonic artistry: The post Watch &#8216;The Secret World of Foley&#8217; here appeared first on A Sound Effect ."
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 1
+    "blogPosts": 0
   }
 }
