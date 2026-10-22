@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-10-21T11:21:17.881Z",
+  "generatedAt": "2026-10-22T11:20:47.500Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Twenty Thousand Hertz",
-      "title": "Needle Drops: How pop songs first started showing up in movies",
-      "guid": "prx_18144_a452dd09-d74f-4f36-afdf-2e827690076e",
-      "url": "https://play.prx.org/listen?ge=prx_18144_a452dd09-d74f-4f36-afdf-2e827690076e&amp;uf=https%3A%2F%2Ffeed.20k.org",
-      "publishedAt": "2026-10-12T10:00:00.000Z",
-      "transcript": "sonos.com . Twenty Thousand Hertz is produced by ⁠⁠Defacto Sound⁠⁠ . Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠⁠⁠⁠20k.org/plus⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Subscribe on ⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠Facebook⁠⁠ , and ⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠ . If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠⁠ .]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
