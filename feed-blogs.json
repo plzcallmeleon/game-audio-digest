@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-26T12:27:19.825Z",
+  "generatedAt": "2026-10-27T11:45:37.177Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "A Sound Effect Blog",
+      "title": "WARDOGS &#8211; a game audio deep-dive with Sean Garavan and Albin Jansson:",
+      "url": "https://www.asoundeffect.com/wardogs-game-audio/",
+      "publishedAt": "2026-10-26T15:37:00.000Z",
+      "author": "",
+      "description": "",
+      "content": "Go behind the sound for BULKHEAD's popular tactical shooter in this massive game audio deep-dive from APA member Audio Logs: The post WARDOGS &#8211; a game audio deep-dive with Sean Garavan and Albin Jansson: appeared first on A Sound Effect ."
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   }
 }
