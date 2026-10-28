@@ -1,18 +1,22 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "prx_18144_a452dd09-d74f-4f36-afdf-2e827690076e": 1792581676855,
     "59a982f1-53bc-46b5-b4c8-3eb915ab56cf": 1792753877508,
     "tag:soundcloud,2010:tracks/2419160454": 1792753878770,
-    "tag:soundcloud,2010:tracks/2425585377": 1793017635266
+    "tag:soundcloud,2010:tracks/2425585377": 1793017635266,
+    "prx_18144_749689d7-8535-4c85-b46f-fcbb50624ba5": 1793189964478
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/blood-of-dawnwalker-game-audio/": 1792581679544,
     "https://www.asoundeffect.com/7-new-sound-effects-libraries-dark-spells-tropics/": 1792668049082,
     "https://www.asoundeffect.com/sale/": 1792753884701,
     "https://www.asoundeffect.com/shop": 1792753885696,
     "https://www.asoundeffect.com/mindfulaudio/": 1792753889111,
-    "https://www.asoundeffect.com/wardogs-game-audio/": 1793101535953
+    "https://www.asoundeffect.com/wardogs-game-audio/": 1793101535953,
+    "https://www.asoundeffect.com/crystal-lake-series-sound/": 1793189969600,
+    "https://www.asoundeffect.com/12-new-sound-effects-libraries-western-weapons-cyberpunk/": 1793189969600,
+    "https://designingsound.org/": 1793189970241,
+    "https://designingsound.org/about/": 1793189970813,
+    "https://designingsound.org/site-policy/": 1793189971421
   },
   "seenRedditPosts": {
     "t3_1xgpezd": 1793101537796,

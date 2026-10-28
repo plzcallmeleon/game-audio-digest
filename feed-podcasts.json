@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-27T11:45:34.289Z",
+  "generatedAt": "2026-10-28T12:19:25.347Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Twenty Thousand Hertz",
+      "title": "How ​modern Music Supervisors ​craft the ​perfect Needle Drop",
+      "guid": "prx_18144_749689d7-8535-4c85-b46f-fcbb50624ba5",
+      "url": "https://play.prx.org/listen?ge=prx_18144_749689d7-8535-4c85-b46f-fcbb50624ba5&amp;uf=https%3A%2F%2Ffeed.20k.org",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "transcript": "Defacto Sound . Subscribe on YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠Facebook⁠⁠ , and ⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠ . If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠ . Automate your expenses with Ramp and get $250 off at ramp.com/20k . Get three months of free payroll with Gusto at gusto.com/20k . Get NetSuite's free business guide, \"Aligning for the Agentic Era: How AI Is Changing Everyday Work,\" at netsuite.com/20k .]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }

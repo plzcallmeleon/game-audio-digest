@@ -1,32 +1,9 @@
 {
-  "generatedAt": "2026-10-27T11:45:38.328Z",
+  "generatedAt": "2026-10-28T12:19:35.552Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1xgpezd",
-      "title": "Important sounds.",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1xgpezd/important_sounds/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hello, does anyone know of or have an existing library of key rainbow six siege operator-action audio assets, categorized by room type, acoustic material, and distance?? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YouUrble\"> /u/YouUrble </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1xgpezd/important_sounds/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1xgpezd/important_sounds/\">[comments]</a></span>",
-      "publishedAt": "2026-10-27T10:59:07.000Z"
-    },
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1xgotxz",
-      "title": "Text blips outside of games",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1xgotxz/text_blips_outside_of_games/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I'm not working on a game, however I have a project based on a video game that doesn't actually exist. I wanted to make simple scrolling text boxes with text blips using short samples that could be easily generated/exported to video to put in my project (which will be just a video). I have no clue how to make something like this myself without having to manually scroll the text in a video editor and duplicate the blip sound with random pitch modulations for variety. Does anyone know of a tool that helps with something like this?</p> <p>I'm open to having t",
-      "publishedAt": "2026-10-27T10:26:25.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 2
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
