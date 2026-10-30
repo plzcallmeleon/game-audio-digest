@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-10-29T12:28:33.042Z",
+  "generatedAt": "2026-10-30T12:20:15.281Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "Horror Sound: How the Scariest Sounds in Film, TV &#038; Games Are Made",
-      "url": "https://www.asoundeffect.com/ultimate-guide-horror-sound/",
-      "publishedAt": "2026-10-28T21:50:06.000Z",
-      "author": "",
-      "description": "",
-      "content": "70+ exclusive stories behind the scariest sounds in film, TV &#038; games - plus tutorials, free SFX and tips for making your own horror sound effects: The post Horror Sound: How the Scariest Sounds in Film, TV &#038; Games Are Made appeared first on A Sound Effect ."
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 1
+    "blogPosts": 0
   }
 }
