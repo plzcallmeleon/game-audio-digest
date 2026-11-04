@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-11-03T13:47:42.642Z",
+  "generatedAt": "2026-11-04T13:55:53.335Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "A Sound Effect Blog",
-      "title": "12 great new sound effects libraries: Cinematic explosions, barking dogs, Roman ambiences, jungles of Laos &#038; more",
-      "url": "https://www.asoundeffect.com/12-new-sound-effects-libraries-explosions-dog-barks/",
-      "publishedAt": "2026-11-02T09:09:00.000Z",
-      "author": "",
-      "description": "",
-      "content": "Explore 12 new sound effects libraries, including cinematic explosions, dogs barking across a Spanish valley, Roman ambiences, the jungles of Laos, and more. The post 12 great new sound effects libraries: Cinematic explosions, barking dogs, Roman ambiences, jungles of Laos &#038; more appeared first on A Sound Effect ."
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 1
+    "blogPosts": 0
   }
 }
