@@ -1,18 +1,21 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2427527724": 1793276910474,
     "prx_18144_afbf9c1c-866f-44dd-be5b-ddf2df04dd7b": 1793631624067,
-    "tag:soundcloud,2010:tracks/2425585377": 1793713657955
+    "tag:soundcloud,2010:tracks/2425585377": 1793713657955,
+    "tag:soundcloud,2010:tracks/2432474673": 1793887959918
   },
   "seenArticles": {
-    "https://www.asoundeffect.com/ultimate-guide-horror-sound/": 1793276911875,
     "https://www.asoundeffect.com/sale/": 1793447472149,
     "https://www.asoundeffect.com/shop": 1793447473334,
     "https://www.asoundeffect.com/mindfulaudio/": 1793447477112,
     "https://www.asoundeffect.com/airwiggles-noisevember-2026/": 1793537432632,
     "https://www.asoundeffect.com/droids-book/": 1793631626603,
-    "https://www.asoundeffect.com/12-new-sound-effects-libraries-explosions-dog-barks/": 1793713660798
+    "https://www.asoundeffect.com/12-new-sound-effects-libraries-explosions-dog-barks/": 1793713660798,
+    "https://www.asoundeffect.com/control-resonant-game-audio/": 1793887962932,
+    "https://designingsound.org/": 1793887963443,
+    "https://designingsound.org/about/": 1793887964028,
+    "https://designingsound.org/site-policy/": 1793887964607
   },
   "seenRedditPosts": {
     "t3_1xl1dkp": 1793537435442,
