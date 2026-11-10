@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-09T15:30:08.817Z",
+  "generatedAt": "2026-11-10T14:29:47.581Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Twenty Thousand Hertz",
+      "title": "10 Years of 20K! How It All Began",
+      "guid": "prx_18144_afbf9c1c-866f-44dd-be5b-ddf2df04dd7b",
+      "url": "https://play.prx.org/listen?ge=prx_18144_afbf9c1c-866f-44dd-be5b-ddf2df04dd7b&amp;uf=https%3A%2F%2Ffeed.20k.org",
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "transcript": "Defacto Sound . Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠⁠⁠⁠20k.org/plus⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Subscribe on YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠Facebook⁠⁠ , and ⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠ . If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠ . Get 15% off your first order of Blueland cleaning essentials at blueland.com/20k . Automate your expenses with Ramp and get $250 off at ramp.com/20k . Visit ⁠⁠⁠⁠⁠⁠quo.com/20k⁠⁠⁠⁠⁠⁠ for 20% of your first 6 months of business phone software.]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
