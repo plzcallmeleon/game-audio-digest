@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-11T13:44:36.147Z",
+  "generatedAt": "2026-11-12T14:47:39.768Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Tonebenders Podcast",
+      "title": "384 - Behind The Sound, Music &amp; Editing That Bring Stories To Life",
+      "guid": "tag:soundcloud,2010:tracks/2436445083",
+      "url": "https://soundcloud.com/tonebenders-podcast/384-behind-the-sound-music",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "transcript": "This episode was recorded live in Toronto during TIFF, as part of Behind The Camera House. The idea was to get composers, picture editors & supervising sound editors all together to discuss how they can work together more efficiently and understand the challenges they are each facing. On this panel are picture editors Jane MacRae and Mohamed El-Manasterly, composers Mikel Hurwitz and Simon Poole, along with supervising sound editors Peter Albrechtsen and Matt Chan. ______ Check out the full schedule at this year's, completely free to attend, SonicDays Conference in Denmark https://sonicdays.com/ ______ Register for The Tonebenders/ Film Sound Sweden / MPSE event in Stockholm here: https://mpse.org/event-6887830 /______ Register For SoundDay LA: Film Edition here: https://luma.com/cn8c9t62 ________ SPONSORS: Sound Ideas' biggest sale of the year is here, and you won't want to miss it! Throughout November, celebrate Black Friday with 50% off all proprietary sound effects libraries, making it the perfect time to expand your collection. But the savings don't stop there! Each week, Sound Ideas will feature exclusive flash sales on some of their most popular sound libraries, with incredible limited-time offers. These deals only come around once a year, so be sure to check back every week to discover the latest specials before they're gone. Visit https://sound-ideas.com/ and make the most of this year's Black Friday Sale! Episode Notes: https://tonebenderspodcast.com/384-behind-the-sound-music-editing-that-bring-stories-to-life/ Podcast Homepage: https://tonebenderspodcast.com/ This episode is hosted by Timothy Muirhead"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }

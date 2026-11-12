@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-11T13:44:42.413Z",
+  "generatedAt": "2026-11-12T14:47:45.195Z",
   "lookbackHours": 48,
   "reddit": [
     {
       "source": "reddit",
       "subreddit": "GameAudio",
-      "fullname": "t3_1xsri27",
-      "title": "tips for using Krotos Dehumanizer?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1xsri27/tips_for_using_krotos_dehumanizer/",
+      "fullname": "t3_1xtxfk4",
+      "title": "Best way to create car audio?",
+      "url": "https://www.reddit.com/r/GameAudio/comments/1xtxfk4/best_way_to_create_car_audio/",
       "upvotes": 0,
       "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I’ve seen some people praising it but when I use it the sounds that I get to make tend to sound rather silly and too cartoonish. But seems like a pretty handy device. Any tips?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/outerspaceduck\"> /u/outerspaceduck </a> <br/> <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1xsri27/tips_for_using_krotos_dehumanizer/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameAudio/comments/1xsri27/tips_for_using_krotos_dehumanizer/\">[comments]</a></span>",
-      "publishedAt": "2026-11-10T16:33:05.000Z"
+      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am looking to create car exhaust audio that sounds like real life vehicles. Specifically tuner cars with really aggressive turbo flutter, exhaust pops, etc. </p> <p>I would prefer to not have to record the audio of the actual car across every single rpm level, idle, etc. </p> <p>Ideally I'd want to create a pipeline that lets me fairly easily produce the necessary sounds for each car. If they're not 1:1 with the car, that's okay. </p> <p>The important part is that they sound GOOD. I feel like most racing games car sounds feel weak and airy compared to real l",
+      "publishedAt": "2026-11-11T23:43:06.000Z"
     }
   ],
   "stats": {
