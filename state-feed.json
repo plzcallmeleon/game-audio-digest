@@ -1,26 +1,19 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2427527724": 1793973235768,
     "prx_18144_afbf9c1c-866f-44dd-be5b-ddf2df04dd7b": 1794320986526,
-    "tag:soundcloud,2010:tracks/2436445083": 1794494859768
+    "tag:soundcloud,2010:tracks/2436445083": 1794494859768,
+    "tag:soundcloud,2010:tracks/2432474673": 1794578821968
   },
   "seenArticles": {
     "https://www.asoundeffect.com/sale/": 1794142521682,
     "https://www.asoundeffect.com/shop": 1794142524055,
-    "https://www.asoundeffect.com/mindfulaudio/": 1794142527318
+    "https://www.asoundeffect.com/mindfulaudio/": 1794142527318,
+    "https://designingsound.org/": 1794578824666,
+    "https://designingsound.org/about/": 1794578825242,
+    "https://designingsound.org/site-policy/": 1794578825813
   },
   "seenRedditPosts": {
-    "t3_1xoy6fi": 1793973240382,
-    "t3_1xp9yoz": 1793973241451,
-    "t3_1xor3j7": 1793973241451,
-    "t3_1xpar4q": 1793973241451,
-    "t3_1xpb5bm": 1793973241451,
-    "t3_1xp8vwu": 1793973241451,
-    "t3_1xp2oai": 1793973241451,
-    "t3_1xoz4rc": 1793973241451,
-    "t3_1xoh5sb": 1793973241451,
-    "t3_1xpbhfz": 1793973241451,
     "t3_1xsf9xb": 1794320993264,
     "t3_1xsri27": 1794404681833,
     "t3_1xtxfk4": 1794494864650

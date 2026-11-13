@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-11-12T14:47:45.195Z",
+  "generatedAt": "2026-11-13T14:07:08.978Z",
   "lookbackHours": 48,
-  "reddit": [
-    {
-      "source": "reddit",
-      "subreddit": "GameAudio",
-      "fullname": "t3_1xtxfk4",
-      "title": "Best way to create car audio?",
-      "url": "https://www.reddit.com/r/GameAudio/comments/1xtxfk4/best_way_to_create_car_audio/",
-      "upvotes": 0,
-      "commentCount": 0,
-      "selftext": "<!-- SC_OFF --><div class=\"md\"><p>I am looking to create car exhaust audio that sounds like real life vehicles. Specifically tuner cars with really aggressive turbo flutter, exhaust pops, etc. </p> <p>I would prefer to not have to record the audio of the actual car across every single rpm level, idle, etc. </p> <p>Ideally I'd want to create a pipeline that lets me fairly easily produce the necessary sounds for each car. If they're not 1:1 with the car, that's okay. </p> <p>The important part is that they sound GOOD. I feel like most racing games car sounds feel weak and airy compared to real l",
-      "publishedAt": "2026-11-11T23:43:06.000Z"
-    }
-  ],
+  "reddit": [],
   "stats": {
-    "redditPosts": 1
+    "redditPosts": 0
   },
   "errors": [
     "Reddit: Failed to fetch r/gamedev: HTTP 403 (JSON), 429 (RSS)"
