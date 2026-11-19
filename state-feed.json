@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2436445083": 1794494859768,
     "tag:soundcloud,2010:tracks/2432474673": 1794578821968,
     "prx_18144_dabb3b6d-944c-4059-9126-6a1462d1271a": 1794841723657,
     "e0fd1f9e-e5e4-49e3-a171-813933589f88": 1795015018361,
@@ -16,7 +15,6 @@
     "https://www.asoundeffect.com/mindfulaudio/": 1794841735556
   },
   "seenRedditPosts": {
-    "t3_1xtxfk4": 1794494864650,
     "t3_1xvap36": 1794661716449
   }
 }
