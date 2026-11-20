@@ -1,15 +1,12 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "tag:soundcloud,2010:tracks/2432474673": 1794578821968,
     "prx_18144_dabb3b6d-944c-4059-9126-6a1462d1271a": 1794841723657,
     "e0fd1f9e-e5e4-49e3-a171-813933589f88": 1795015018361,
-    "tag:soundcloud,2010:tracks/2440241418": 1795015019981
+    "tag:soundcloud,2010:tracks/2440241418": 1795015019981,
+    "tag:soundcloud,2010:tracks/2436445083": 1795186849104
   },
   "seenArticles": {
-    "https://designingsound.org/": 1794578824666,
-    "https://designingsound.org/about/": 1794578825242,
-    "https://designingsound.org/site-policy/": 1794578825813,
     "https://www.asoundeffect.com/sale/#superdeals": 1794841729359,
     "https://www.asoundeffect.com/shop": 1794841731929,
     "https://www.asoundeffect.com/mindfulaudio/": 1794841735556
