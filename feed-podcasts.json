@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-11-24T17:07:32.157Z",
+  "generatedAt": "2026-11-25T16:55:15.085Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Twenty Thousand Hertz",
-      "title": "10 Years of 20K! From the First Episode to Today",
-      "guid": "prx_18144_dabb3b6d-944c-4059-9126-6a1462d1271a",
-      "url": "https://play.prx.org/listen?ge=prx_18144_dabb3b6d-944c-4059-9126-6a1462d1271a&amp;uf=https%3A%2F%2Ffeed.20k.org",
-      "publishedAt": "2026-11-16T11:00:00.000Z",
-      "transcript": "Defacto Sound . Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠⁠⁠⁠ 20k.org/plus ⁠⁠⁠⁠⁠⁠⁠⁠⁠. Subscribe on YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series. Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠ , ⁠⁠Facebook⁠⁠ , and ⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠ . If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠ . Shop incredible speakers and soundbars from Sonos at sonos.com . Save up to 30% on Blueland cleaning essentials at blueland.com/20k . Get three months of free payroll with Gusto at gusto.com/20k .]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
